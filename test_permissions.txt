@@ -1,2 +1,0 @@
-# Archivo de prueba para verificar permisos
-Este archivo será eliminado automáticamente.

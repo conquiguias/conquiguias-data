@@ -305,7 +305,7 @@
     },
     "asistenciasActivas": {
       "1": true,
-      "2": false
+      "2": true
     },
     "imagenEspecialidad": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/especialidades/Cactus.png",
     "imagenFirma1": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador GM Kendall Torres Báez.png",

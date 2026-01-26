@@ -272,22 +272,6 @@
     "imagenFirma2": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png",
     "imagenFirma3": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador GM Kendall Torres Báez.png"
   },
-  "CoordinadorGMEvagrioRosario-P76BD3": {
-    "titulo": "Adoración cristiana",
-    "fechaCierre": "2026-01-26T10:50:18.421Z",
-    "creado": "2026-01-26T09:40:19.947Z",
-    "tieneEvaluacion": true,
-    "tomaAsistencia": true,
-    "tarea": null,
-    "asistenciasActivas": {
-      "1": true,
-      "2": true
-    },
-    "imagenEspecialidad": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/especialidades/Adoración cristiana.png",
-    "imagenFirma1": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png",
-    "imagenFirma2": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png",
-    "imagenFirma3": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png"
-  },
   "CoordinadorGMEvagrioRosario-6M4IM0": {
     "titulo": "Adoración cristiana",
     "fechaCierre": "2026-01-30T09:48:00.000Z",

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "q-1769419201291-0ujp20vqn",
+    "type": "truefalse",
+    "text": "A",
+    "options": [
+      {
+        "id": "true-1769419201291-4g05tbflm",
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "id": "false-1769419201291-kgijah1kv",
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  }
+]

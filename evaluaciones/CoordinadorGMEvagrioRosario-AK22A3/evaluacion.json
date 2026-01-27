@@ -1,0 +1,19 @@
+[
+  {
+    "id": "q-1769552587913-hdn1gav3p",
+    "type": "truefalse",
+    "text": "hola mundo",
+    "options": [
+      {
+        "id": "true-1769552587913-05wb4hs3o",
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "id": "false-1769552587913-afvpol75g",
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  }
+]

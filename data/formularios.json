@@ -344,7 +344,7 @@
       "fechaFin": "2026-01-27T17:05"
     },
     "asistenciasActivas": {
-      "1": false,
+      "1": true,
       "2": false
     },
     "imagenEspecialidad": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/especialidades/Adoración cristiana.png",

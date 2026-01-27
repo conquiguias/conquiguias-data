@@ -291,5 +291,25 @@
     "imagenFirma1": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png",
     "imagenFirma2": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png",
     "imagenFirma3": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png"
+  },
+  "CoordinadorGMEvagrioRosario-IJHXG3": {
+    "titulo": "Adoración cristiana",
+    "fechaCierre": "2026-01-31T22:00:00.000Z",
+    "creado": "2026-01-27T22:00:36.354Z",
+    "tieneEvaluacion": true,
+    "tomaAsistencia": true,
+    "tarea": {
+      "activa": true,
+      "detalle": "hola",
+      "fechaFin": "2026-01-31T16:00"
+    },
+    "asistenciasActivas": {
+      "1": false,
+      "2": false
+    },
+    "imagenEspecialidad": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/especialidades/Adoración cristiana.png",
+    "imagenFirma1": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png",
+    "imagenFirma2": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png",
+    "imagenFirma3": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png"
   }
 }

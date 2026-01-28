@@ -1139,5 +1139,26 @@
     },
     "puntaje": 84.61538461538461,
     "fecha": "2026-01-24T12:10:29.748Z"
+  },
+  {
+    "visitanteId": "cbG6ripjpJXNV9cTdaDVpFPuBB32",
+    "respuestas": {
+      "q-1769126288012-229ecwzoo": "opt-1769126288012-hy3w4jo60",
+      "q-1769126311652-hig1gphzk": "opt-1769126340963-1ojjh0d8g",
+      "q-1769126355443-6kp8jmxyf": "opt-1769126355443-ykiwkvai7",
+      "q-1769126388227-nu7t921ks": "opt-1769126390491-w1ox3nh8q",
+      "q-1769126426697-tqs6sx4ju": "opt-1769126426697-ugdn8qfuf",
+      "q-1769126478140-dh2odv864": "false-1769126478140-knk4hqpee",
+      "q-1769126483011-npv8qowov": "true-1769126483011-bj4gunxku",
+      "q-1769126492427-a0nwohzie": "false-1769126492427-fkdwgao8z",
+      "q-1769126504691-5vlusnb01": "true-1769126504691-fsuzmpzli",
+      "q-1769126565243-s457ua853": "opt-1769126565243-s8qgzwr7n",
+      "q-1769126589387-0y1ozcybl": "opt-1769126589387-tsuw9devb",
+      "q-1769126615811-mweaci3k4": "opt-1769126615811-y605sh1hl",
+      "q-1769126648475-2q9v8xt9z": "opt-1769126648475-6obt8hnya"
+    },
+    "puntaje": 100,
+    "fecha": "2026-01-28T20:42:58.797Z",
+    "correo": "laurayardigans@gmail.com"
   }
 ]

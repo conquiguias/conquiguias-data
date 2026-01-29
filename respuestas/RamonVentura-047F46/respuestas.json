@@ -368,5 +368,15 @@
     "visitanteId": "3d1291eb-a85a-40a0-993f-5c045af10360",
     "asistenciaNumero": 2,
     "id": "RamonVentura-047F46"
+  },
+  {
+    "nombre": "Gerbyn Del Orbe ",
+    "correo": "gerbyndelorbe01@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T02:52:10.310Z",
+    "visitanteId": "1f142fb3-7334-42b3-9059-40edca7c5248",
+    "asistenciaNumero": 1
   }
 ]

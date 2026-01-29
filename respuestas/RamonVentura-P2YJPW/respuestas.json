@@ -76,5 +76,15 @@
     "visitanteId": "7ce15785-c79f-4c56-8c38-c47a3d06bd93",
     "asistenciaNumero": 2,
     "id": "RamonVentura-P2YJPW"
+  },
+  {
+    "nombre": "Eladio Núñez ",
+    "correo": "joerick022@hotmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:39:14.284Z",
+    "visitanteId": "09e9f32b-3368-4c55-b185-f958eda1cc8e",
+    "asistenciaNumero": 1
   }
 ]

@@ -181,5 +181,15 @@
     "visitanteId": "7333207c-c2f1-42ef-ad59-5c5828ba0f1f",
     "asistenciaNumero": 2,
     "id": "RamonVentura-047F46"
+  },
+  {
+    "nombre": "Oliver José Pimentel Rosado ",
+    "correo": "pimenteloliver994@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:36:16.606Z",
+    "visitanteId": "ab045e4e-1f18-4758-8124-2a4e9a2c5e24",
+    "asistenciaNumero": 1
   }
 ]

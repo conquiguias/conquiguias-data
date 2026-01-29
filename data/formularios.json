@@ -271,5 +271,21 @@
     "imagenFirma1": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Ramon%20Ventura.png",
     "imagenFirma2": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png",
     "imagenFirma3": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador GM Kendall Torres Báez.png"
+  },
+  "RamonVentura-047F46": {
+    "titulo": "Animales nocturnos",
+    "fechaCierre": "2026-01-29T01:57:00.621Z",
+    "creado": "2026-01-29T00:47:01.537Z",
+    "tieneEvaluacion": true,
+    "tomaAsistencia": true,
+    "tarea": null,
+    "asistenciasActivas": {
+      "1": false,
+      "2": false
+    },
+    "imagenEspecialidad": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/especialidades/Animales%20nocturnos.png",
+    "imagenFirma1": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Ramon%20Ventura.png",
+    "imagenFirma2": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png",
+    "imagenFirma3": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Coordinador%20GM%20Evagrio%20Rosario.png"
   }
 }

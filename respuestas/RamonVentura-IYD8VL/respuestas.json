@@ -297,5 +297,15 @@
     "fecha": "2026-01-29T02:53:31.246Z",
     "visitanteId": "541f2f92-a134-49e3-85a5-b5dd59f6e138",
     "asistenciaNumero": 1
+  },
+  {
+    "nombre": "Yenifer Patricio Peguero ",
+    "correo": "Yeniferpeguero14@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T03:55:55.064Z",
+    "visitanteId": "292f7710-b707-4da0-ab90-cf5cd518405a",
+    "asistenciaNumero": 1
   }
 ]

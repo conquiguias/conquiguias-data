@@ -246,5 +246,15 @@
     "fecha": "2026-01-29T02:50:14.725Z",
     "visitanteId": "8f06e45d-d282-4803-a287-ffb2493503a1",
     "asistenciaNumero": 1
+  },
+  {
+    "nombre": "Josefa Rosario ",
+    "correo": "josefa.rosario.cuello@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T02:51:36.968Z",
+    "visitanteId": "541f2f92-a134-49e3-85a5-b5dd59f6e138",
+    "asistenciaNumero": 1
   }
 ]

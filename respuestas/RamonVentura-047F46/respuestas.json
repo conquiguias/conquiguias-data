@@ -239,5 +239,15 @@
     "visitanteId": "5d2025b6-8851-4e50-9267-68209c1912b7",
     "asistenciaNumero": 2,
     "id": "RamonVentura-047F46"
+  },
+  {
+    "nombre": "Elizabeth López ",
+    "correo": "yinetacosta4@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:38:10.498Z",
+    "visitanteId": "fd29b3a4-f0b7-45a9-aa3b-109c71064dee",
+    "asistenciaNumero": 1
   }
 ]

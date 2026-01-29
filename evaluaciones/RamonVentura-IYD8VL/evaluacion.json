@@ -1,0 +1,197 @@
+[
+  {
+    "id": "q-1769648315082-jo19228rf",
+    "type": "multiple",
+    "text": "¿Qué significa “animal en peligro de extinción”?",
+    "options": [
+      {
+        "id": "opt-1769648315082-cgzw2i1zj",
+        "text": "A) Animal que vive solo",
+        "correct": false
+      },
+      {
+        "id": "opt-1769648315082-9en0i4dqe",
+        "text": "B) Animal que puede desaparecer para siempre",
+        "correct": true
+      },
+      {
+        "id": "opt-1769648315082-ljm22l3ku",
+        "text": "C) Animal muy grande",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769648346465-kz0cro4f7",
+    "type": "multiple",
+    "text": "¿Qué significa que una especie esté extinta?",
+    "options": [
+      {
+        "id": "opt-1769648346465-lk0onh7hz",
+        "text": "A) Que quedan pocos individuos",
+        "correct": false
+      },
+      {
+        "id": "opt-1769648346465-6rtmqbsn0",
+        "text": "B) Que vive en zoológicos",
+        "correct": false
+      },
+      {
+        "id": "opt-1769648346465-1p957ws4v",
+        "text": "C) Que ya no existe en ninguna parte",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "q-1769648382742-oxmyo0kg4",
+    "type": "multiple",
+    "text": "¿Qué es un hábitat?",
+    "options": [
+      {
+        "id": "opt-1769648382742-37tyzxtwz",
+        "text": "A) El lugar donde vive un ser vivo",
+        "correct": true
+      },
+      {
+        "id": "opt-1769648382742-a9c2u7m64",
+        "text": "B) El alimento de un animal",
+        "correct": false
+      },
+      {
+        "id": "opt-1769648382742-l1yhr9kai",
+        "text": "C) Un tipo de clima",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769648406960-oyibwo0s1",
+    "type": "multiple",
+    "text": "¿Qué es una cadena alimentaria?",
+    "options": [
+      {
+        "id": "opt-1769648406960-jfz7v4col",
+        "text": "A) Un grupo de animales iguales",
+        "correct": false
+      },
+      {
+        "id": "opt-1769648406960-s8lqu42fr",
+        "text": "B) La relación de quién se come a quién",
+        "correct": true
+      },
+      {
+        "id": "opt-1769648406960-vwnlwnph3",
+        "text": "C) Un tipo de bioma",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769648435338-pk04pzc2w",
+    "type": "multiple",
+    "text": "¿Qué es un cazador furtivo?",
+    "options": [
+      {
+        "id": "opt-1769648435338-95om52xjh",
+        "text": "A) Persona que cuida animales",
+        "correct": false
+      },
+      {
+        "id": "opt-1769648435338-26qmzrfh5",
+        "text": "B) Persona que caza ilegalmente",
+        "correct": true
+      },
+      {
+        "id": "opt-1769648435338-dxhywy5lh",
+        "text": "C) Animal depredador",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769648458018-860iuhtpi",
+    "type": "truefalse",
+    "text": "Los animales extintos pueden volver naturalmente.",
+    "options": [
+      {
+        "id": "true-1769648458018-5w3dhuv0e",
+        "text": "Verdadero",
+        "correct": false
+      },
+      {
+        "id": "false-1769648458018-x3bb6iy68",
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "q-1769648488035-7qrv6iata",
+    "type": "truefalse",
+    "text": "La contaminación afecta a animales y plantas.",
+    "options": [
+      {
+        "id": "true-1769648488035-8o01kln71",
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "id": "false-1769648488035-fbh340i0j",
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769648499381-gztekcegg",
+    "type": "truefalse",
+    "text": "La caza furtiva es legal.",
+    "options": [
+      {
+        "id": "true-1769648499381-abqkipb9q",
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "id": "false-1769648499381-osl8ed7jc",
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769648508767-rwn7uc4kg",
+    "type": "truefalse",
+    "text": "Los biomas incluyen clima y seres vivos.",
+    "options": [
+      {
+        "id": "true-1769648508767-axc3zsic3",
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "id": "false-1769648508767-bhnxs56h7",
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769648518796-zkfcempo2",
+    "type": "truefalse",
+    "text": "El ser humano no influye en la extinción.",
+    "options": [
+      {
+        "id": "true-1769648518796-4px5vucqy",
+        "text": "Verdadero",
+        "correct": false
+      },
+      {
+        "id": "false-1769648518796-vunmndhsp",
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  }
+]

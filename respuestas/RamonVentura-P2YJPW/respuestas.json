@@ -185,5 +185,15 @@
     "visitanteId": "ab045e4e-1f18-4758-8124-2a4e9a2c5e24",
     "asistenciaNumero": 2,
     "id": "RamonVentura-P2YJPW"
+  },
+  {
+    "nombre": "Elierkys",
+    "correo": "elierkys@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:44:59.884Z",
+    "visitanteId": "1c3d2b66-1c93-4de1-908f-119d005c7bc2",
+    "asistenciaNumero": 1
   }
 ]

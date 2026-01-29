@@ -106,5 +106,12 @@
     "fecha": "2026-01-29T01:35:32.682Z",
     "visitanteId": "7ce15785-c79f-4c56-8c38-c47a3d06bd93",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "kendall.torres.17@gmail.com",
+    "fecha": "2026-01-29T01:35:33.258Z",
+    "visitanteId": "cd3ebbc1-a293-4846-bd89-561feca5a052",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-047F46"
   }
 ]

@@ -313,7 +313,7 @@
     "tarea": null,
     "asistenciasActivas": {
       "1": true,
-      "2": false
+      "2": true
     },
     "imagenEspecialidad": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/especialidades/Animales%20nocivos.png",
     "imagenFirma1": "https://raw.githubusercontent.com/conquiguias/conquiguias-data/main/images/firmas/Ramon%20Ventura.png",

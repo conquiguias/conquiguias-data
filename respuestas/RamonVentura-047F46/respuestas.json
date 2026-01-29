@@ -436,5 +436,15 @@
     "visitanteId": "292f7710-b707-4da0-ab90-cf5cd518405a",
     "asistenciaNumero": 2,
     "id": "RamonVentura-047F46"
+  },
+  {
+    "nombre": "Jennifer Rodríguez",
+    "correo": "jenniferd.014@icloud.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T03:59:09.457Z",
+    "visitanteId": "808fa0d8-a713-40c6-82c1-940924082e11",
+    "asistenciaNumero": 1
   }
 ]

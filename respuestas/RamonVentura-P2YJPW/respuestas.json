@@ -307,5 +307,12 @@
     "fecha": "2026-01-29T03:49:47.845Z",
     "visitanteId": "5cee2694-c9b5-441f-95e7-465a834e8ccb",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "perezdelacruzjeudijavier@gmail.com",
+    "fecha": "2026-01-29T03:50:16.546Z",
+    "visitanteId": "5cee2694-c9b5-441f-95e7-465a834e8ccb",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-P2YJPW"
   }
 ]

@@ -283,5 +283,12 @@
     "fecha": "2026-01-29T01:42:03.263Z",
     "visitanteId": "c4f9597f-8569-4b6c-b0fb-d630f6110ebb",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "soyanarebeca@gmail.com",
+    "fecha": "2026-01-29T01:42:22.508Z",
+    "visitanteId": "c4f9597f-8569-4b6c-b0fb-d630f6110ebb",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-047F46"
   }
 ]

@@ -25,5 +25,15 @@
     "visitanteId": "cd3ebbc1-a293-4846-bd89-561feca5a052",
     "asistenciaNumero": 2,
     "id": "RamonVentura-IYD8VL"
+  },
+  {
+    "nombre": "Cristobal Rojas",
+    "correo": "cristobalrojas19@icloud.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:35:52.290Z",
+    "visitanteId": "e78d1b0e-d19b-4ddc-8c1c-88a80c95804b",
+    "asistenciaNumero": 1
   }
 ]

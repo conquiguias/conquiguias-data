@@ -202,5 +202,15 @@
     "visitanteId": "1c3d2b66-1c93-4de1-908f-119d005c7bc2",
     "asistenciaNumero": 2,
     "id": "RamonVentura-P2YJPW"
+  },
+  {
+    "nombre": "Iván Guadalupe Díaz",
+    "correo": "ivangd0429@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:45:50.437Z",
+    "visitanteId": "e6066507-0ec8-4794-b000-252bde01a692",
+    "asistenciaNumero": 1
   }
 ]

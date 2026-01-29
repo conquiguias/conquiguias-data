@@ -35,5 +35,12 @@
     "fecha": "2026-01-29T01:35:22.310Z",
     "visitanteId": "e78d1b0e-d19b-4ddc-8c1c-88a80c95804b",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "jeramellfeliz@gmail.com",
+    "fecha": "2026-01-29T01:35:52.322Z",
+    "visitanteId": "21c50132-0d09-4dfd-a7d4-8a646308638d",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-P2YJPW"
   }
 ]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "q-1769647362210-j2y04zp3d",
+    "type": "multiple",
+    "text": "¿Qué son los animales nocturnos?",
+    "options": [
+      {
+        "id": "opt-1769647362210-wxgapa4rk",
+        "text": "a) Animales que solo viven en cuevas",
+        "correct": false
+      },
+      {
+        "id": "opt-1769647362210-gfci77gti",
+        "text": "b) Animales activos principalmente durante la noche",
+        "correct": true
+      },
+      {
+        "id": "opt-1769647362210-kf4syxupn",
+        "text": "c) Animales que duermen todo el día",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769647388597-ro1f7hn6w",
+    "type": "multiple",
+    "text": "Los animales nocturnos suelen ser más activos de noche para:",
+    "options": [
+      {
+        "id": "opt-1769647388597-6vixm21br",
+        "text": "a) Evitar el calor y a los depredadores",
+        "correct": true
+      },
+      {
+        "id": "opt-1769647388597-dan36k4ul",
+        "text": "b) Porque no pueden ver el sol",
+        "correct": false
+      },
+      {
+        "id": "opt-1769647388597-0ygukdy8i",
+        "text": "c) Porque no necesitan alimento",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769647419442-0vac98ha0",
+    "type": "multiple",
+    "text": "El clima influye en los animales nocturnos porque:",
+    "options": [
+      {
+        "id": "opt-1769647419442-mx8jcikau",
+        "text": "a) Cambia sus colores",
+        "correct": false
+      },
+      {
+        "id": "opt-1769647419442-vvgbt8wv8",
+        "text": "b) Afecta su actividad y hábitos",
+        "correct": true
+      },
+      {
+        "id": "opt-1769647419442-ouavhl13f",
+        "text": "c) Determina su tamaño",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769647452465-q17sqx7kv",
+    "type": "multiple",
+    "text": "¿Cuál de los siguientes es un mamífero nocturno?",
+    "options": [
+      {
+        "id": "opt-1769647452465-d2auarln5",
+        "text": "a) Vaca",
+        "correct": false
+      },
+      {
+        "id": "opt-1769647452465-m3g24rwp4",
+        "text": "b) Murciélago",
+        "correct": true
+      },
+      {
+        "id": "opt-1769647452465-vu9k938e7",
+        "text": "c) Caballo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769647485465-4vguv4gvq",
+    "type": "multiple",
+    "text": "¿Cuál de estos insectos es principalmente nocturno?",
+    "options": [
+      {
+        "id": "opt-1769647485465-nn7nrdosc",
+        "text": "a) Mariposa",
+        "correct": false
+      },
+      {
+        "id": "opt-1769647485465-qkwq19mm6",
+        "text": "b) Abeja",
+        "correct": false
+      },
+      {
+        "id": "opt-1769647485465-n9v8q003z",
+        "text": "c) Polilla",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "q-1769647524193-06fc078q4",
+    "type": "truefalse",
+    "text": "Los animales nocturnos solo viven en climas fríos.",
+    "options": [
+      {
+        "id": "true-1769647524193-oynobmh9w",
+        "text": "Verdadero",
+        "correct": false
+      },
+      {
+        "id": "false-1769647524193-fcfp5sfyl",
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "q-1769647534375-b5c4cr5da",
+    "type": "truefalse",
+    "text": "Muchos animales nocturnos tienen mejor visión nocturna que los humanos.",
+    "options": [
+      {
+        "id": "true-1769647534375-rof27r874",
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "id": "false-1769647534375-2y4r0eo2c",
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769647547107-carztc2dx",
+    "type": "truefalse",
+    "text": "Los murciélagos pertenecen al grupo de los quirópteros.",
+    "options": [
+      {
+        "id": "true-1769647547107-sesmr89fr",
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "id": "false-1769647547107-aauxgmmkr",
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769647560907-7fp8g8tc8",
+    "type": "truefalse",
+    "text": "Los animales nocturnos no cumplen ninguna función ecológica.",
+    "options": [
+      {
+        "id": "true-1769647560907-okkfbcmff",
+        "text": "Verdadero",
+        "correct": false
+      },
+      {
+        "id": "false-1769647560907-iixm1nygr",
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "q-1769647573884-q0jdqqqtx",
+    "type": "truefalse",
+    "text": "La Biblia menciona algunos animales nocturnos.",
+    "options": [
+      {
+        "id": "true-1769647573884-1nx15himp",
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "id": "false-1769647573884-leuu8015o",
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  }
+]

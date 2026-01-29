@@ -174,5 +174,12 @@
     "fecha": "2026-01-29T01:36:14.548Z",
     "visitanteId": "e78d1b0e-d19b-4ddc-8c1c-88a80c95804b",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "keyramorillo2209@gmail.com",
+    "fecha": "2026-01-29T01:36:15.328Z",
+    "visitanteId": "7333207c-c2f1-42ef-ad59-5c5828ba0f1f",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-047F46"
   }
 ]

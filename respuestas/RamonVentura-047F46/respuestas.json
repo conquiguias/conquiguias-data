@@ -45,5 +45,15 @@
     "fecha": "2026-01-29T01:35:01.974Z",
     "visitanteId": "09e9f32b-3368-4c55-b185-f958eda1cc8e",
     "asistenciaNumero": 1
+  },
+  {
+    "nombre": "Carlos Abel Aybar Santana ",
+    "correo": "carlosabelaybar@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:35:06.019Z",
+    "visitanteId": "fba12d1c-1813-4ba5-b6a5-88edcbd2d795",
+    "asistenciaNumero": 1
   }
 ]

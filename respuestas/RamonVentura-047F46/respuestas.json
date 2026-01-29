@@ -412,5 +412,12 @@
     "fecha": "2026-01-29T02:52:57.174Z",
     "visitanteId": "c6589868-3e6b-43ff-bff7-de8914a43b3f",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "crusmarlebron.0830@gmail.com",
+    "fecha": "2026-01-29T02:53:29.907Z",
+    "visitanteId": "c6589868-3e6b-43ff-bff7-de8914a43b3f",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-047F46"
   }
 ]

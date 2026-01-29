@@ -249,5 +249,12 @@
     "fecha": "2026-01-29T01:38:10.498Z",
     "visitanteId": "fd29b3a4-f0b7-45a9-aa3b-109c71064dee",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "yinetacosta4@gmail.com",
+    "fecha": "2026-01-29T01:38:18.748Z",
+    "visitanteId": "fd29b3a4-f0b7-45a9-aa3b-109c71064dee",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-047F46"
   }
 ]

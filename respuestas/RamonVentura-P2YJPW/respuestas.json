@@ -236,5 +236,15 @@
     "visitanteId": "5d2025b6-8851-4e50-9267-68209c1912b7",
     "asistenciaNumero": 2,
     "id": "RamonVentura-P2YJPW"
+  },
+  {
+    "nombre": "Jaroly C. Ramos M.",
+    "correo": "2025-0070@unad.edu.do",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T02:50:14.725Z",
+    "visitanteId": "8f06e45d-d282-4803-a287-ffb2493503a1",
+    "asistenciaNumero": 1
   }
 ]

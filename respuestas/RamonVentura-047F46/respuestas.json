@@ -140,5 +140,15 @@
     "visitanteId": "5cee2694-c9b5-441f-95e7-465a834e8ccb",
     "asistenciaNumero": 2,
     "id": "RamonVentura-047F46"
+  },
+  {
+    "nombre": "Keyra Morillo Castillo",
+    "correo": "keyramorillo2209@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:35:51.218Z",
+    "visitanteId": "7333207c-c2f1-42ef-ad59-5c5828ba0f1f",
+    "asistenciaNumero": 1
   }
 ]

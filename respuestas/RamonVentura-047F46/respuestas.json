@@ -256,5 +256,15 @@
     "visitanteId": "fd29b3a4-f0b7-45a9-aa3b-109c71064dee",
     "asistenciaNumero": 2,
     "id": "RamonVentura-047F46"
+  },
+  {
+    "nombre": "Natanael León Veras",
+    "correo": "ministrylion@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:39:52.486Z",
+    "visitanteId": "1718a4ff-919f-41ab-868a-7440f1a161e2",
+    "asistenciaNumero": 1
   }
 ]

@@ -191,5 +191,12 @@
     "fecha": "2026-01-29T01:36:16.606Z",
     "visitanteId": "ab045e4e-1f18-4758-8124-2a4e9a2c5e24",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "joerick022@hotmail.com",
+    "fecha": "2026-01-29T01:36:18.315Z",
+    "visitanteId": "09e9f32b-3368-4c55-b185-f958eda1cc8e",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-047F46"
   }
 ]

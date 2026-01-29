@@ -160,5 +160,23 @@
     "puntaje": 100,
     "fecha": "2026-01-29T01:47:30.432Z",
     "correo": "ministrylion@gmail.com"
+  },
+  {
+    "visitanteId": "YCxK6r8rQMhwnOMrUp5crK77fZd2",
+    "respuestas": {
+      "q-1769647362210-j2y04zp3d": "opt-1769647362210-gfci77gti",
+      "q-1769647388597-ro1f7hn6w": "opt-1769647388597-6vixm21br",
+      "q-1769647419442-0vac98ha0": "opt-1769647419442-vvgbt8wv8",
+      "q-1769647452465-q17sqx7kv": "opt-1769647452465-m3g24rwp4",
+      "q-1769647485465-4vguv4gvq": "opt-1769647485465-n9v8q003z",
+      "q-1769647524193-06fc078q4": "false-1769647524193-fcfp5sfyl",
+      "q-1769647534375-b5c4cr5da": "true-1769647534375-rof27r874",
+      "q-1769647547107-carztc2dx": "true-1769647547107-sesmr89fr",
+      "q-1769647560907-7fp8g8tc8": "false-1769647560907-iixm1nygr",
+      "q-1769647573884-q0jdqqqtx": "true-1769647573884-1nx15himp"
+    },
+    "puntaje": 100,
+    "fecha": "2026-01-29T01:47:43.496Z",
+    "correo": "cristobalrojas19@icloud.com"
   }
 ]

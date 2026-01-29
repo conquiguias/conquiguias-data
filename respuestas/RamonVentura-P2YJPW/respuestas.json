@@ -229,5 +229,12 @@
     "fecha": "2026-01-29T01:46:17.783Z",
     "visitanteId": "5d2025b6-8851-4e50-9267-68209c1912b7",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "perlamariegarovaldera@gmail.com",
+    "fecha": "2026-01-29T01:46:24.287Z",
+    "visitanteId": "5d2025b6-8851-4e50-9267-68209c1912b7",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-P2YJPW"
   }
 ]

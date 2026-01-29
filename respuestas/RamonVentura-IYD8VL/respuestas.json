@@ -93,5 +93,15 @@
     "visitanteId": "5d2025b6-8851-4e50-9267-68209c1912b7",
     "asistenciaNumero": 2,
     "id": "RamonVentura-IYD8VL"
+  },
+  {
+    "nombre": "Carlos Abel Aybar Santana ",
+    "correo": "carlosabelaybar@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:37:40.105Z",
+    "visitanteId": "fba12d1c-1813-4ba5-b6a5-88edcbd2d795",
+    "asistenciaNumero": 1
   }
 ]

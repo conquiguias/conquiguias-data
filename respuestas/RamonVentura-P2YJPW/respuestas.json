@@ -178,5 +178,12 @@
     "fecha": "2026-01-29T01:44:08.367Z",
     "visitanteId": "ab045e4e-1f18-4758-8124-2a4e9a2c5e24",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "pimenteloliver994@gmail.com",
+    "fecha": "2026-01-29T01:44:14.768Z",
+    "visitanteId": "ab045e4e-1f18-4758-8124-2a4e9a2c5e24",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-P2YJPW"
   }
 ]

@@ -273,5 +273,15 @@
     "visitanteId": "dc00c21f-c924-46b7-9658-0e2bc051475a",
     "asistenciaNumero": 2,
     "id": "RamonVentura-047F46"
+  },
+  {
+    "nombre": "Ana Rebeca payano Vargas ",
+    "correo": "soyanarebeca@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:42:03.263Z",
+    "visitanteId": "c4f9597f-8569-4b6c-b0fb-d630f6110ebb",
+    "asistenciaNumero": 1
   }
 ]

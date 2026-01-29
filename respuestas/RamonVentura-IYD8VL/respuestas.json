@@ -103,5 +103,12 @@
     "fecha": "2026-01-29T01:37:40.105Z",
     "visitanteId": "fba12d1c-1813-4ba5-b6a5-88edcbd2d795",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "carlosabelaybar@gmail.com",
+    "fecha": "2026-01-29T01:37:46.646Z",
+    "visitanteId": "fba12d1c-1813-4ba5-b6a5-88edcbd2d795",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-IYD8VL"
   }
 ]

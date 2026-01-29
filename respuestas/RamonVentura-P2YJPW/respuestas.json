@@ -283,5 +283,12 @@
     "fecha": "2026-01-29T02:53:29.510Z",
     "visitanteId": "7ef9763b-7207-4557-a83a-1897f6d9ec4c",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "junior.capellan26@gmail.com",
+    "fecha": "2026-01-29T02:53:34.911Z",
+    "visitanteId": "3d1291eb-a85a-40a0-993f-5c045af10360",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-P2YJPW"
   }
 ]

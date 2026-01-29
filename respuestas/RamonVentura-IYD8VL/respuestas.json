@@ -134,5 +134,15 @@
     "visitanteId": "09e9f32b-3368-4c55-b185-f958eda1cc8e",
     "asistenciaNumero": 2,
     "id": "RamonVentura-IYD8VL"
+  },
+  {
+    "nombre": "Linny Itamar Bautista De la Cruz",
+    "correo": "Linnyitamarb@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:38:53.935Z",
+    "visitanteId": "dc00c21f-c924-46b7-9658-0e2bc051475a",
+    "asistenciaNumero": 1
   }
 ]

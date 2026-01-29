@@ -8,5 +8,12 @@
     "fecha": "2026-01-29T01:34:37.180Z",
     "visitanteId": "1c3d2b66-1c93-4de1-908f-119d005c7bc2",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "elierkys@gmail.com",
+    "fecha": "2026-01-29T01:34:43.090Z",
+    "visitanteId": "1c3d2b66-1c93-4de1-908f-119d005c7bc2",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-047F46"
   }
 ]

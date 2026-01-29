@@ -1,0 +1,197 @@
+[
+  {
+    "id": "q-1769649116234-eycxlym7b",
+    "type": "multiple",
+    "text": "¿Qué son los animales nocivos?",
+    "options": [
+      {
+        "id": "opt-1769649116234-0pfwbskk7",
+        "text": "A) Animales que solo viven en el campo",
+        "correct": false
+      },
+      {
+        "id": "opt-1769649116234-4nl9nymud",
+        "text": "B) Animales que pueden causar daño a la salud o al ambiente",
+        "correct": true
+      },
+      {
+        "id": "opt-1769649116234-nf0iycclg",
+        "text": "C) Animales domésticos",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769649138924-ztdp0or8i",
+    "type": "multiple",
+    "text": "¿Qué caracteriza a un animal nocivo?",
+    "options": [
+      {
+        "id": "opt-1769649138924-xbf8ws2s4",
+        "text": "A) Puede transmitir enfermedades o causar daños",
+        "correct": true
+      },
+      {
+        "id": "opt-1769649138924-vc65inmcv",
+        "text": "B) Siempre es venenoso",
+        "correct": false
+      },
+      {
+        "id": "opt-1769649138924-lozbyai8y",
+        "text": "C) Solo vive en selvas",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769649161444-azf9xdw9x",
+    "type": "multiple",
+    "text": "¿Cuál es un ejemplo de animal nocivo?",
+    "options": [
+      {
+        "id": "opt-1769649161444-ggkxbx36j",
+        "text": "A) Perro",
+        "correct": false
+      },
+      {
+        "id": "opt-1769649161444-bsjklvm0f",
+        "text": "B) Mariposa",
+        "correct": false
+      },
+      {
+        "id": "opt-1769649161444-i1z9df97c",
+        "text": "C) Rata",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "q-1769649185627-bj1f8um8x",
+    "type": "multiple",
+    "text": "¿Qué diferencia a un animal venenoso de uno nocivo?",
+    "options": [
+      {
+        "id": "opt-1769649185627-elvs02vpz",
+        "text": "A) El venenoso siempre muerde",
+        "correct": false
+      },
+      {
+        "id": "opt-1769649185627-iujskgaup",
+        "text": "B) El nocivo siempre es grande",
+        "correct": false
+      },
+      {
+        "id": "opt-1769649185627-vygfpkndm",
+        "text": "C) El venenoso inyecta toxinas, el nocivo causa daño indirecto",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "q-1769649220867-8guanzzx7",
+    "type": "multiple",
+    "text": "¿Qué animal transmite enfermedades con mayor frecuencia?",
+    "options": [
+      {
+        "id": "opt-1769649220867-z85av0ign",
+        "text": "A) Mosquito",
+        "correct": true
+      },
+      {
+        "id": "opt-1769649220867-mfbdie5lm",
+        "text": "B) Paloma",
+        "correct": false
+      },
+      {
+        "id": "opt-1769649220867-gbkgusp1f",
+        "text": "C) Conejo",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769649244026-bifxwcvlp",
+    "type": "truefalse",
+    "text": "Todos los animales nocivos son venenosos.",
+    "options": [
+      {
+        "id": "true-1769649244026-a679rzlrs",
+        "text": "Verdadero",
+        "correct": false
+      },
+      {
+        "id": "false-1769649244026-xhiqjcyeg",
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "q-1769649261115-9jiwmbp18",
+    "type": "truefalse",
+    "text": "Los animales nocivos pueden transmitir enfermedades.",
+    "options": [
+      {
+        "id": "true-1769649261115-hjg42ofhk",
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "id": "false-1769649261115-rukakb9mj",
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769649270459-wmijxt4rz",
+    "type": "truefalse",
+    "text": "La higiene ayuda a prevenir animales nocivos.",
+    "options": [
+      {
+        "id": "true-1769649270459-q2701z0ju",
+        "text": "Verdadero",
+        "correct": true
+      },
+      {
+        "id": "false-1769649270459-atfmju20k",
+        "text": "Falso",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": "q-1769649282944-6fx6afvnd",
+    "type": "truefalse",
+    "text": "Los murciélagos solo causan daño.",
+    "options": [
+      {
+        "id": "true-1769649282944-tt65osc5k",
+        "text": "Verdadero",
+        "correct": false
+      },
+      {
+        "id": "false-1769649282944-rp4b56sy8",
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": "q-1769649298974-zlr3zpf1z",
+    "type": "truefalse",
+    "text": "Los animales nocivos no tienen función ecológica.",
+    "options": [
+      {
+        "id": "true-1769649298974-p3w6te6l6",
+        "text": "Verdadero",
+        "correct": false
+      },
+      {
+        "id": "false-1769649298974-8wt1d8rpu",
+        "text": "Falso",
+        "correct": true
+      }
+    ]
+  }
+]

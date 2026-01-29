@@ -266,5 +266,12 @@
     "fecha": "2026-01-29T01:39:52.486Z",
     "visitanteId": "1718a4ff-919f-41ab-868a-7440f1a161e2",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "Linnyitamarb@gmail.com",
+    "fecha": "2026-01-29T01:39:59.867Z",
+    "visitanteId": "dc00c21f-c924-46b7-9658-0e2bc051475a",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-047F46"
   }
 ]

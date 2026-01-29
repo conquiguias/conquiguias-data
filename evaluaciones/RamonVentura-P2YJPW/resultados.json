@@ -214,5 +214,23 @@
     "puntaje": 100,
     "fecha": "2026-01-29T04:00:22.687Z",
     "correo": "junior.capellan26@gmail.com"
+  },
+  {
+    "visitanteId": "TwZxjrj9aVYtrdcbMVVgm878Xfo1",
+    "respuestas": {
+      "q-1769649116234-eycxlym7b": "opt-1769649116234-4nl9nymud",
+      "q-1769649138924-ztdp0or8i": "opt-1769649138924-xbf8ws2s4",
+      "q-1769649161444-azf9xdw9x": "opt-1769649161444-i1z9df97c",
+      "q-1769649185627-bj1f8um8x": "opt-1769649185627-vygfpkndm",
+      "q-1769649220867-8guanzzx7": "opt-1769649220867-z85av0ign",
+      "q-1769649244026-bifxwcvlp": "false-1769649244026-xhiqjcyeg",
+      "q-1769649261115-9jiwmbp18": "true-1769649261115-hjg42ofhk",
+      "q-1769649270459-wmijxt4rz": "true-1769649270459-q2701z0ju",
+      "q-1769649282944-6fx6afvnd": "false-1769649282944-rp4b56sy8",
+      "q-1769649298974-zlr3zpf1z": "true-1769649298974-p3w6te6l6"
+    },
+    "puntaje": 90,
+    "fecha": "2026-01-29T04:00:45.471Z",
+    "correo": "yeniferpeguero14@gmail.com"
   }
 ]

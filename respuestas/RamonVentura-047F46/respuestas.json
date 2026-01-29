@@ -351,5 +351,15 @@
     "fecha": "2026-01-29T01:48:02.842Z",
     "visitanteId": "38c621cf-52ce-4fcd-bf7e-d6acd720ab15",
     "asistenciaNumero": 1
+  },
+  {
+    "nombre": "Junior Emmanuel Capellán Polanco ",
+    "correo": "junior.capellan26@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T02:45:37.657Z",
+    "visitanteId": "3d1291eb-a85a-40a0-993f-5c045af10360",
+    "asistenciaNumero": 1
   }
 ]

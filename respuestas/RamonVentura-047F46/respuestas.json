@@ -341,5 +341,15 @@
     "fecha": "2026-01-29T01:47:39.502Z",
     "visitanteId": "5c782d21-9520-472c-a167-49ec795318e4",
     "asistenciaNumero": 1
+  },
+  {
+    "nombre": "Malvin Guadalupe Díaz",
+    "correo": "malvinsito@hotmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:48:02.842Z",
+    "visitanteId": "38c621cf-52ce-4fcd-bf7e-d6acd720ab15",
+    "asistenciaNumero": 1
   }
 ]

@@ -256,5 +256,12 @@
     "fecha": "2026-01-29T02:51:36.968Z",
     "visitanteId": "541f2f92-a134-49e3-85a5-b5dd59f6e138",
     "asistenciaNumero": 1
+  },
+  {
+    "correo": "josefa.rosario.cuello@gmail.com",
+    "fecha": "2026-01-29T02:51:58.199Z",
+    "visitanteId": "541f2f92-a134-49e3-85a5-b5dd59f6e138",
+    "asistenciaNumero": 2,
+    "id": "RamonVentura-P2YJPW"
   }
 ]

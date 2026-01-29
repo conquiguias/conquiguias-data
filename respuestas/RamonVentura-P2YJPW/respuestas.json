@@ -25,5 +25,15 @@
     "fecha": "2026-01-29T01:35:01.388Z",
     "visitanteId": "21c50132-0d09-4dfd-a7d4-8a646308638d",
     "asistenciaNumero": 1
+  },
+  {
+    "nombre": "Cristobal Rojas",
+    "correo": "cristobalrojas19@icloud.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:35:22.310Z",
+    "visitanteId": "e78d1b0e-d19b-4ddc-8c1c-88a80c95804b",
+    "asistenciaNumero": 1
   }
 ]

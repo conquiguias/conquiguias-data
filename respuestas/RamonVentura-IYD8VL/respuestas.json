@@ -8,5 +8,15 @@
     "fecha": "2026-01-29T01:35:05.301Z",
     "visitanteId": "7333207c-c2f1-42ef-ad59-5c5828ba0f1f",
     "asistenciaNumero": 1
+  },
+  {
+    "nombre": "Kendall Torres Báez",
+    "correo": "kendall.torres.17@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:35:09.908Z",
+    "visitanteId": "cd3ebbc1-a293-4846-bd89-561feca5a052",
+    "asistenciaNumero": 1
   }
 ]

@@ -144,5 +144,15 @@
     "fecha": "2026-01-29T01:38:53.935Z",
     "visitanteId": "dc00c21f-c924-46b7-9658-0e2bc051475a",
     "asistenciaNumero": 1
+  },
+  {
+    "nombre": "Jeudy javier perez ",
+    "correo": "perezdelacruzjeudijavier@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T01:39:19.998Z",
+    "visitanteId": "5cee2694-c9b5-441f-95e7-465a834e8ccb",
+    "asistenciaNumero": 1
   }
 ]

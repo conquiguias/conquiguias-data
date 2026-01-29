@@ -287,5 +287,15 @@
     "visitanteId": "7ef9763b-7207-4557-a83a-1897f6d9ec4c",
     "asistenciaNumero": 2,
     "id": "RamonVentura-IYD8VL"
+  },
+  {
+    "nombre": "Josefa Rosario ",
+    "correo": "josefa.rosario.cuello@gmail.com",
+    "edad": "",
+    "telefono": "",
+    "asociacion": "",
+    "fecha": "2026-01-29T02:53:31.246Z",
+    "visitanteId": "541f2f92-a134-49e3-85a5-b5dd59f6e138",
+    "asistenciaNumero": 1
   }
 ]

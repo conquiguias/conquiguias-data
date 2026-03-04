@@ -1,452 +1,632 @@
 ﻿[
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/administracion/",
-        "nombre":  "ADMINISTRACION",
-        "id":  "administracion"
+        "pdf":  "negocios.pdf",
+        "path":  "especialidades/actividades-vocacionales/negocios",
+        "nombre":  "negocios",
+        "id":  "negocios",
+        "image":  "business_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/agrimensura/",
-        "nombre":  "AGRIMENSURA",
-        "id":  "agrimensura"
+        "pdf":  "nociones_de_economía.pdf",
+        "path":  "especialidades/actividades-vocacionales/nociones-de-economia",
+        "nombre":  "nociones de economia",
+        "id":  "nociones-de-economia",
+        "image":  "nociones_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/albanileria/",
-        "nombre":  "ALBANILERIA",
-        "id":  "albanileria"
+        "pdf":  "motores_pequeños.pdf",
+        "path":  "especialidades/actividades-vocacionales/motores-pequenos",
+        "nombre":  "motores pequenos",
+        "id":  "motores-pequenos",
+        "image":  "small-engines_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/arte-cristiano-de-vender/",
-        "nombre":  "ARTE CRISTIANO DE VENDER",
-        "id":  "arte-cristiano-de-vender"
+        "pdf":  "mercadotecnia_avanzado.pdf",
+        "path":  "especialidades/actividades-vocacionales/mercadotecnia-avanzado",
+        "nombre":  "mercadotecnia avanzado",
+        "id":  "mercadotecnia-avanzado",
+        "image":  "mercadotecnia-avanzado_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/aviadores/",
-        "nombre":  "AVIADORES",
-        "id":  "aviadores"
+        "pdf":  "modelado_textil.pdf",
+        "path":  "especialidades/actividades-vocacionales/modelado-textil",
+        "nombre":  "modelado textil",
+        "id":  "modelado-textil",
+        "image":  "modelado-textil_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/banderas-nauticas/",
-        "nombre":  "BANDERAS NAUTICAS",
-        "id":  "banderas-nauticas"
+        "pdf":  "peluquería.pdf",
+        "path":  "especialidades/actividades-vocacionales/peluqueria",
+        "nombre":  "peluqueria",
+        "id":  "peluqueria",
+        "image":  "peluquer-a_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/bibliotecologia/",
-        "nombre":  "BIBLIOTECOLOGIA",
-        "id":  "bibliotecologia"
+        "pdf":  "podcasting_0.pdf",
+        "path":  "especialidades/actividades-vocacionales/podcasting",
+        "nombre":  "podcasting",
+        "id":  "podcasting",
+        "image":  "podcasting_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/blogs/",
-        "nombre":  "BLOGS",
-        "id":  "blogs"
+        "pdf":  "procesar_texto__dna_.pdf",
+        "path":  "especialidades/actividades-vocacionales/procesar-texto",
+        "nombre":  "procesar texto",
+        "id":  "procesar-texto",
+        "image":  "word-processing_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/carpinteria/",
-        "nombre":  "CARPINTERIA",
-        "id":  "carpinteria"
+        "pdf":  "pintura_interior_de_casas.pdf",
+        "path":  "especialidades/actividades-vocacionales/pintura-interior-de-casas",
+        "nombre":  "pintura interior de casas",
+        "id":  "pintura-interior-de-casas",
+        "image":  "house-painting-interior_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/codigo-de-semaforo/",
-        "nombre":  "CODIGO DE SEMAFORO",
-        "id":  "codigo-de-semaforo"
+        "pdf":  "periodismo.pdf",
+        "path":  "especialidades/actividades-vocacionales/periodismo",
+        "nombre":  "periodismo",
+        "id":  "periodismo",
+        "image":  "journalism_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/codigo-morse/",
-        "nombre":  "CODIGO MORSE",
-        "id":  "codigo-morse"
+        "pdf":  "pintura_exterior_de_casas.pdf",
+        "path":  "especialidades/actividades-vocacionales/pintura-exterior-de-casas",
+        "nombre":  "pintura exterior de casas",
+        "id":  "pintura-exterior-de-casas",
+        "image":  "house-painting-exterior_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/computacion-i-basico/",
-        "nombre":  "COMPUTACION I BASICO",
-        "id":  "computacion-i-basico"
+        "pdf":  "internet_avanzado.pdf",
+        "path":  "especialidades/actividades-vocacionales/internet-avanzado",
+        "nombre":  "internet avanzado",
+        "id":  "internet-avanzado",
+        "image":  "internet-ay-honor-advanced_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/computacion-ii-intermedio/",
-        "nombre":  "COMPUTACION II INTERMEDIO",
-        "id":  "computacion-ii-intermedio"
+        "pdf":  "intérprete_de_lenguaje_de_señas.pdf",
+        "path":  "especialidades/actividades-vocacionales/interprete-de-lenguaje-de-senas",
+        "nombre":  "interprete de lenguaje de senas",
+        "id":  "interprete-de-lenguaje-de-senas",
+        "image":  "interprete_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/computacion-iii-regular/",
-        "nombre":  "COMPUTACION III REGULAR",
-        "id":  "computacion-iii-regular"
+        "pdf":  "internet.pdf",
+        "path":  "especialidades/actividades-vocacionales/internet",
+        "nombre":  "internet",
+        "id":  "internet",
+        "image":  "internet-ay-honor_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/computacion-iv-avanzado/",
-        "nombre":  "COMPUTACION IV AVANZADO",
-        "id":  "computacion-iv-avanzado"
+        "pdf":  "instalación_de_azulejos.pdf",
+        "path":  "especialidades/actividades-vocacionales/instalacion-de-azulejos",
+        "nombre":  "instalacion de azulejos",
+        "id":  "instalacion-de-azulejos",
+        "image":  "tile-laying_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/computacion-v-especializado/",
-        "nombre":  "COMPUTACION V ESPECIALIZADO",
-        "id":  "computacion-v-especializado"
+        "pdf":  "inteligencia_artificial.pdf",
+        "path":  "especialidades/actividades-vocacionales/inteligencia-artificial",
+        "nombre":  "inteligencia artificial",
+        "id":  "inteligencia-artificial",
+        "image":  "inteligencia-artificial_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/computadoras/",
-        "nombre":  "COMPUTADORAS",
-        "id":  "computadoras"
+        "pdf":  "manejo_y_mantenimiento_de_impresoras.pdf",
+        "path":  "especialidades/actividades-vocacionales/manejo-y-mantenimiento-de-impresoras",
+        "nombre":  "manejo y mantenimiento de impresoras",
+        "id":  "manejo-y-mantenimiento-de-impresoras",
+        "image":  "manejo-y-mantenimiento_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/computadoras-avanzado/",
-        "nombre":  "COMPUTADORAS AVANZADO",
-        "id":  "computadoras-avanzado"
+        "pdf":  "mecanografía.pdf",
+        "path":  "especialidades/actividades-vocacionales/mecanografia",
+        "nombre":  "mecanografia",
+        "id":  "mecanografia",
+        "image":  "typewriting-honor_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/comunicaciones-i/",
-        "nombre":  "COMUNICACIONES I",
-        "id":  "comunicaciones-i"
+        "pdf":  "mercadotecnia.pdf",
+        "path":  "especialidades/actividades-vocacionales/mercadotecnia",
+        "nombre":  "mercadotecnia",
+        "id":  "mercadotecnia",
+        "image":  "mercadotecnia_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/comunicaciones-ii/",
-        "nombre":  "COMUNICACIONES II",
-        "id":  "comunicaciones-ii"
+        "pdf":  "mecánica_de_automóviles_avanzado.pdf",
+        "path":  "especialidades/actividades-vocacionales/mecanica-de-automoviles-avanzado",
+        "nombre":  "mecanica de automoviles avanzado",
+        "id":  "mecanica-de-automoviles-avanzado",
+        "image":  "automobile-advanced_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/contabilidad-i/",
-        "nombre":  "CONTABILIDAD I",
-        "id":  "contabilidad-i"
+        "pdf":  "mantenimiento_de_bicicletas.pdf",
+        "path":  "especialidades/actividades-vocacionales/mantenimiento-de-bicicletas",
+        "nombre":  "mantenimiento de bicicletas",
+        "id":  "mantenimiento-de-bicicletas",
+        "image":  "bici_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/contabilidad-ii/",
-        "nombre":  "CONTABILIDAD II",
-        "id":  "contabilidad-ii"
+        "pdf":  "mecánica_de_automóviles.pdf",
+        "path":  "especialidades/actividades-vocacionales/mecanica-de-automoviles",
+        "nombre":  "mecanica de automoviles",
+        "id":  "mecanica-de-automoviles",
+        "image":  "automobile_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/criptografia-avanzado/",
-        "nombre":  "CRIPTOGRAFIA AVANZADO",
-        "id":  "criptografia-avanzado"
+        "pdf":  "procesar_texto.pdf",
+        "path":  "especialidades/actividades-vocacionales/procesar-texto-division-del-pacifico-sur",
+        "nombre":  "procesar texto division del pacifico sur",
+        "id":  "procesar-texto-division-del-pacifico-sur",
+        "image":  "2795584.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/criptografia-union-de-asia-del-sureste/",
-        "nombre":  "CRIPTOGRAFIA UNION DE ASIA DEL SURESTE",
-        "id":  "criptografia-union-de-asia-del-sureste"
+        "pdf":  "silvicultura_avanzado.pdf",
+        "path":  "especialidades/actividades-vocacionales/silvicutltura-avanzado",
+        "nombre":  "silvicutltura avanzado",
+        "id":  "silvicutltura-avanzado",
+        "image":  "forestry-advanced_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/critica-de-medios-visuales/",
-        "nombre":  "CRITICA DE MEDIOS VISUALES",
-        "id":  "critica-de-medios-visuales"
+        "pdf":  "soldadura.pdf",
+        "path":  "especialidades/actividades-vocacionales/soldadura",
+        "nombre":  "soldadura",
+        "id":  "soldadura",
+        "image":  "soldadura_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/cuidado-y-mantenimiento-de-guitarras/",
-        "nombre":  "CUIDADO Y MANTENIMIENTO DE GUITARRAS",
-        "id":  "cuidado-y-mantenimiento-de-guitarras"
+        "pdf":  "silvicultura.pdf",
+        "path":  "especialidades/actividades-vocacionales/silvicultura",
+        "nombre":  "silvicultura",
+        "id":  "silvicultura",
+        "image":  "forestry_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/desarrollo-de-software/",
-        "nombre":  "DESARROLLO DE SOFTWARE",
-        "id":  "desarrollo-de-software"
+        "pdf":  "seguridad_ante_incendios.pdf",
+        "path":  "especialidades/actividades-vocacionales/seguridad-ante-incendios",
+        "nombre":  "seguridad ante incendios",
+        "id":  "seguridad-ante-incendios",
+        "image":  "fire-safety_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/disenador-de-web/",
-        "nombre":  "DISENADOR DE WEB",
-        "id":  "disenador-de-web"
+        "pdf":  "especialidad_ja_de_signos_señales_y_símbolos.pdf",
+        "path":  "especialidades/actividades-vocacionales/signos-senales-y-simbolos",
+        "nombre":  "signos senales y simbolos",
+        "id":  "signos-senales-y-simbolos",
+        "image":  "signs_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/disenador-de-web-avanzado/",
-        "nombre":  "DISENADOR DE WEB AVANZADO",
-        "id":  "disenador-de-web-avanzado"
+        "pdf":  "soldadura__dna_.pdf",
+        "path":  "especialidades/actividades-vocacionales/soldadura-division-norteamericana",
+        "nombre":  "soldadura division norteamericana",
+        "id":  "soldadura-division-norteamericana",
+        "image":  "welding_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/drones/",
-        "nombre":  "DRONES",
-        "id":  "drones"
+        "pdf":  "trabajos_en_madera__voc_.pdf",
+        "path":  "especialidades/actividades-vocacionales/trabajos-en-madera",
+        "nombre":  "trabajos en madera",
+        "id":  "trabajos-en-madera",
+        "image":  "woodworking_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/electricidad/",
-        "nombre":  "ELECTRICIDAD",
-        "id":  "electricidad"
+        "pdf":  "video.pdf",
+        "path":  "especialidades/actividades-vocacionales/video-asociacion-general",
+        "nombre":  "video asociacion general",
+        "id":  "video-asociacion-general",
+        "image":  "video_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/electronica/",
-        "nombre":  "ELECTRONICA",
-        "id":  "electronica"
+        "pdf":  "torno_mecánico.pdf",
+        "path":  "especialidades/actividades-vocacionales/torno-mecanico",
+        "nombre":  "torno mecanico",
+        "id":  "torno-mecanico",
+        "image":  "torno_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/empapelado/",
-        "nombre":  "EMPAPELADO",
-        "id":  "empapelado"
+        "pdf":  "taquigrafía.pdf",
+        "path":  "especialidades/actividades-vocacionales/taquigrafia",
+        "nombre":  "taquigrafia",
+        "id":  "taquigrafia",
+        "image":  "taquigraf-a_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/encuadernacion/",
-        "nombre":  "ENCUADERNACION",
-        "id":  "encuadernacion"
+        "pdf":  "tecnología_móvil.pdf",
+        "path":  "especialidades/actividades-vocacionales/tecnologia-movil",
+        "nombre":  "tecnologia movil",
+        "id":  "tecnologia-movil",
+        "image":  "711px-mobile-technology-honor_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/ensamblaje-y-mantenimiento-de-computadoras/",
-        "nombre":  "ENSAMBLAJE Y MANTENIMIENTO DE COMPUTADORAS",
-        "id":  "ensamblaje-y-mantenimiento-de-computadoras"
+        "pdf":  "radioelectrónica.pdf",
+        "path":  "especialidades/actividades-vocacionales/radioelectronica",
+        "nombre":  "radioelectronica",
+        "id":  "radioelectronica",
+        "image":  "radioelectr-nica_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/ensenanza/",
-        "nombre":  "ENSENANZA",
-        "id":  "ensenanza"
+        "pdf":  "redes_sociales.pdf",
+        "path":  "especialidades/actividades-vocacionales/redes-sociales",
+        "nombre":  "redes sociales",
+        "id":  "redes-sociales",
+        "image":  "social-media_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/evanglismo-biblico/",
-        "nombre":  "EVANGLISMO BIBLICO",
-        "id":  "evanglismo-biblico"
+        "pdf":  "radio_de_banda_ciudadana.pdf",
+        "path":  "especialidades/actividades-vocacionales/radio-de-banda-ciudadana",
+        "nombre":  "radio de banda ciudadana",
+        "id":  "radio-de-banda-ciudadana",
+        "image":  "2156671.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/fabricacion-de-jabon/",
-        "nombre":  "FABRICACION DE JABON",
-        "id":  "fabricacion-de-jabon"
+        "pdf":  "radio.pdf",
+        "path":  "especialidades/actividades-vocacionales/radio",
+        "nombre":  "radio",
+        "id":  "radio",
+        "image":  "radio_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/fabricacion-de-jabon-avanzado/",
-        "nombre":  "FABRICACION DE JABON AVANZADO",
-        "id":  "fabricacion-de-jabon-avanzado"
+        "pdf":  "radio_avanzado.pdf",
+        "path":  "especialidades/actividades-vocacionales/radio-avanzado",
+        "nombre":  "radio avanzado",
+        "id":  "radio-avanzado",
+        "image":  "radio-advanced_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/fontaneria/",
-        "nombre":  "FONTANERIA",
-        "id":  "fontaneria"
+        "pdf":  "reparación_de_calzado.pdf",
+        "path":  "especialidades/actividades-vocacionales/reparacion-de-calzado",
+        "nombre":  "reparacion de calzado",
+        "id":  "reparacion-de-calzado",
+        "image":  "shoe-repair_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/fundicion-de-peltre/",
-        "nombre":  "FUNDICION DE PELTRE",
-        "id":  "fundicion-de-peltre"
+        "pdf":  "salud_y_curación__dna_.pdf",
+        "path":  "especialidades/actividades-vocacionales/salud-y-curacion-division-norteamericana",
+        "nombre":  "salud y curacion division norteamericana",
+        "id":  "salud-y-curacion-division-norteamericana",
+        "image":  "health-and-healing-update_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/herreria/",
-        "nombre":  "HERRERIA",
-        "id":  "herreria"
+        "pdf":  "secretariado.pdf",
+        "path":  "especialidades/actividades-vocacionales/secretariado",
+        "nombre":  "secretariado",
+        "id":  "secretariado",
+        "image":  "secretariado_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/imprenta/",
-        "nombre":  "IMPRENTA",
-        "id":  "imprenta"
+        "pdf":  "robótica_avanzado.pdf",
+        "path":  "especialidades/actividades-vocacionales/robotica-avanzado",
+        "nombre":  "robotica avanzado",
+        "id":  "robotica-avanzado",
+        "image":  "robotics-advanced_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/informacion-programable/",
-        "nombre":  "INFORMACION PROGRAMABLE",
-        "id":  "informacion-programable"
+        "pdf":  "restauración_y_conservación_de_documentos.pdf",
+        "path":  "especialidades/actividades-vocacionales/restauracion-y-conservacion-de-documentos",
+        "nombre":  "restauracion y conservacion de documentos",
+        "id":  "restauracion-y-conservacion-de-documentos",
+        "image":  "restauraci-n-y-conservaci-n_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/ingenieria/",
-        "nombre":  "INGENIERIA",
-        "id":  "ingenieria"
+        "pdf":  "robótica.pdf",
+        "path":  "especialidades/actividades-vocacionales/robotica",
+        "nombre":  "robotica",
+        "id":  "robotica",
+        "image":  "robotics_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/instalacion-de-azulejos/",
-        "nombre":  "INSTALACION DE AZULEJOS",
-        "id":  "instalacion-de-azulejos"
+        "pdf":  "computación_iv.pdf",
+        "path":  "especialidades/actividades-vocacionales/computacion-iv-avanzado",
+        "nombre":  "computacion iv avanzado",
+        "id":  "computacion-iv-avanzado",
+        "image":  "iv_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/inteligencia-artificial/",
-        "nombre":  "INTELIGENCIA ARTIFICIAL",
-        "id":  "inteligencia-artificial"
+        "pdf":  "computación_v.pdf",
+        "path":  "especialidades/actividades-vocacionales/computacion-v-especializado",
+        "nombre":  "computacion v especializado",
+        "id":  "computacion-v-especializado",
+        "image":  "v_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/internet/",
-        "nombre":  "INTERNET",
-        "id":  "internet"
+        "pdf":  "computación_iii.pdf",
+        "path":  "especialidades/actividades-vocacionales/computacion-iii-regular",
+        "nombre":  "computacion iii regular",
+        "id":  "computacion-iii-regular",
+        "image":  "iii_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/internet-avanzado/",
-        "nombre":  "INTERNET AVANZADO",
-        "id":  "internet-avanzado"
+        "pdf":  "computación_i.pdf",
+        "path":  "especialidades/actividades-vocacionales/computacion-i-basico",
+        "nombre":  "computacion i basico",
+        "id":  "computacion-i-basico",
+        "image":  "i_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/interprete-de-lenguaje-de-senas/",
-        "nombre":  "INTERPRETE DE LENGUAJE DE SENAS",
-        "id":  "interprete-de-lenguaje-de-senas"
+        "pdf":  "computación_ii.pdf",
+        "path":  "especialidades/actividades-vocacionales/computacion-ii-intermedio",
+        "nombre":  "computacion ii intermedio",
+        "id":  "computacion-ii-intermedio",
+        "image":  "computaci-n-ii_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/manejo-y-mantenimiento-de-impresoras/",
-        "nombre":  "MANEJO Y MANTENIMIENTO DE IMPRESORAS",
-        "id":  "manejo-y-mantenimiento-de-impresoras"
+        "pdf":  "computadoras.pdf",
+        "path":  "especialidades/actividades-vocacionales/computadoras",
+        "nombre":  "computadoras",
+        "id":  "computadoras",
+        "image":  "computers_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/mantenimiento-de-bicicletas/",
-        "nombre":  "MANTENIMIENTO DE BICICLETAS",
-        "id":  "mantenimiento-de-bicicletas"
+        "pdf":  "contabilidad_i.pdf",
+        "path":  "especialidades/actividades-vocacionales/contabilidad-i",
+        "nombre":  "contabilidad i",
+        "id":  "contabilidad-i",
+        "image":  "1071px-bookkeeping-honor_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/mecanica-de-automoviles/",
-        "nombre":  "MECANICA DE AUTOMOVILES",
-        "id":  "mecanica-de-automoviles"
+        "pdf":  "contabilidad_ii.pdf",
+        "path":  "especialidades/actividades-vocacionales/contabilidad-ii",
+        "nombre":  "contabilidad ii",
+        "id":  "contabilidad-ii",
+        "image":  "accounting_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/mecanica-de-automoviles-avanzado/",
-        "nombre":  "MECANICA DE AUTOMOVILES AVANZADO",
-        "id":  "mecanica-de-automoviles-avanzado"
+        "pdf":  "comunicaciones_ii.pdf",
+        "path":  "especialidades/actividades-vocacionales/comunicaciones-ii",
+        "nombre":  "comunicaciones ii",
+        "id":  "comunicaciones-ii",
+        "image":  "communications-advanced_1_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/mecanografia/",
-        "nombre":  "MECANOGRAFIA",
-        "id":  "mecanografia"
+        "pdf":  "computadoras_avanzado.pdf",
+        "path":  "especialidades/actividades-vocacionales/computadoras-avanzado",
+        "nombre":  "computadoras avanzado",
+        "id":  "computadoras-avanzado",
+        "image":  "computers-advanced_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/mercadotecnia/",
-        "nombre":  "MERCADOTECNIA",
-        "id":  "mercadotecnia"
+        "pdf":  "comunicaciones_i.pdf",
+        "path":  "especialidades/actividades-vocacionales/comunicaciones-i",
+        "nombre":  "comunicaciones i",
+        "id":  "comunicaciones-i",
+        "image":  "communications_1_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/mercadotecnia-avanzado/",
-        "nombre":  "MERCADOTECNIA AVANZADO",
-        "id":  "mercadotecnia-avanzado"
+        "pdf":  "arte_cristiano_de_vender.pdf",
+        "path":  "especialidades/actividades-vocacionales/arte-cristiano-de-vender",
+        "nombre":  "arte cristiano de vender",
+        "id":  "arte-cristiano-de-vender",
+        "image":  "arte-cristiano-de-vender_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/modelado-textil/",
-        "nombre":  "MODELADO TEXTIL",
-        "id":  "modelado-textil"
+        "pdf":  "aviadores.pdf",
+        "path":  "especialidades/actividades-vocacionales/aviadores",
+        "nombre":  "aviadores",
+        "id":  "aviadores",
+        "image":  "aviators_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/motores-pequenos/",
-        "nombre":  "MOTORES PEQUENOS",
-        "id":  "motores-pequenos"
+        "pdf":  "albañilería.pdf",
+        "path":  "especialidades/actividades-vocacionales/albanileria",
+        "nombre":  "albanileria",
+        "id":  "albanileria",
+        "image":  "masonry_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/negocios/",
-        "nombre":  "NEGOCIOS",
-        "id":  "negocios"
+        "pdf":  "administración.pdf",
+        "path":  "especialidades/actividades-vocacionales/administracion",
+        "nombre":  "administracion",
+        "id":  "administracion",
+        "image":  "screenshot-2020-06-14-at-17_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/nociones-de-economia/",
-        "nombre":  "NOCIONES DE ECONOMIA",
-        "id":  "nociones-de-economia"
+        "pdf":  "especialidad_ja_de_agrimensura.pdf",
+        "path":  "especialidades/actividades-vocacionales/agrimensura",
+        "nombre":  "agrimensura",
+        "id":  "agrimensura",
+        "image":  "landsurveying_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/peluqueria/",
-        "nombre":  "PELUQUERIA",
-        "id":  "peluqueria"
+        "pdf":  "banderas_náuticas.pdf",
+        "path":  "especialidades/actividades-vocacionales/banderas-nauticas",
+        "nombre":  "banderas nauticas",
+        "id":  "banderas-nauticas",
+        "image":  "banderas-n-uticas_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/periodismo/",
-        "nombre":  "PERIODISMO",
-        "id":  "periodismo"
+        "pdf":  "código_semáforo.pdf",
+        "path":  "especialidades/actividades-vocacionales/codigo-de-semaforo",
+        "nombre":  "codigo de semaforo",
+        "id":  "codigo-de-semaforo",
+        "image":  "c-digo-semaforo_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/pintura-exterior-de-casas/",
-        "nombre":  "PINTURA EXTERIOR DE CASAS",
-        "id":  "pintura-exterior-de-casas"
+        "pdf":  "código_morse.pdf",
+        "path":  "especialidades/actividades-vocacionales/codigo-morse",
+        "nombre":  "codigo morse",
+        "id":  "codigo-morse",
+        "image":  "c-digo-morse_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/pintura-interior-de-casas/",
-        "nombre":  "PINTURA INTERIOR DE CASAS",
-        "id":  "pintura-interior-de-casas"
+        "pdf":  "carpintería.pdf",
+        "path":  "especialidades/actividades-vocacionales/carpinteria",
+        "nombre":  "carpinteria",
+        "id":  "carpinteria",
+        "image":  "carpinter-a_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/podcasting/",
-        "nombre":  "PODCASTING",
-        "id":  "podcasting"
+        "pdf":  "bibliotecología.pdf",
+        "path":  "especialidades/actividades-vocacionales/bibliotecologia",
+        "nombre":  "bibliotecologia",
+        "id":  "bibliotecologia",
+        "image":  "bibliotecolog-a_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/procesar-texto/",
-        "nombre":  "PROCESAR TEXTO",
-        "id":  "procesar-texto"
+        "pdf":  "blogs.pdf",
+        "path":  "especialidades/actividades-vocacionales/blogs",
+        "nombre":  "blogs",
+        "id":  "blogs",
+        "image":  "blogs_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/procesar-texto-division-del-pacifico-sur/",
-        "nombre":  "PROCESAR TEXTO DIVISION DEL PACIFICO SUR",
-        "id":  "procesar-texto-division-del-pacifico-sur"
+        "pdf":  "criptografía_-_avanzado.pdf",
+        "path":  "especialidades/actividades-vocacionales/criptografia-avanzado",
+        "nombre":  "criptografia avanzado",
+        "id":  "criptografia-avanzado",
+        "image":  "cryptology-advanced-ay-honour_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/radio/",
-        "nombre":  "RADIO",
-        "id":  "radio"
+        "pdf":  "fabricación_de_jabón.pdf",
+        "path":  "especialidades/actividades-vocacionales/fabricacion-de-jabon",
+        "nombre":  "fabricacion de jabon",
+        "id":  "fabricacion-de-jabon",
+        "image":  "soap-making_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/radio-avanzado/",
-        "nombre":  "RADIO AVANZADO",
-        "id":  "radio-avanzado"
+        "pdf":  "fabricación_de_jabón_avanzado.pdf",
+        "path":  "especialidades/actividades-vocacionales/fabricacion-de-jabon-avanzado",
+        "nombre":  "fabricacion de jabon avanzado",
+        "id":  "fabricacion-de-jabon-avanzado",
+        "image":  "soap-making-advanced_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/radio-de-banda-ciudadana/",
-        "nombre":  "RADIO DE BANDA CIUDADANA",
-        "id":  "radio-de-banda-ciudadana"
+        "pdf":  "evangelismo_bíblico.pdf",
+        "path":  "especialidades/actividades-vocacionales/evanglismo-biblico",
+        "nombre":  "evanglismo biblico",
+        "id":  "evanglismo-biblico",
+        "image":  "bible-evangelism_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/radioelectronica/",
-        "nombre":  "RADIOELECTRONICA",
-        "id":  "radioelectronica"
+        "pdf":  "ensamblaje_y_mantenimiento_de_computadoras.pdf",
+        "path":  "especialidades/actividades-vocacionales/ensamblaje-y-mantenimiento-de-computadoras",
+        "nombre":  "ensamblaje y mantenimiento de computadoras",
+        "id":  "ensamblaje-y-mantenimiento-de-computadoras",
+        "image":  "ensamblaje_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/redes-sociales/",
-        "nombre":  "REDES SOCIALES",
-        "id":  "redes-sociales"
+        "pdf":  "enseñanza.pdf",
+        "path":  "especialidades/actividades-vocacionales/ensenanza",
+        "nombre":  "ensenanza",
+        "id":  "ensenanza",
+        "image":  "teaching_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/reparacion-de-calzado/",
-        "nombre":  "REPARACION DE CALZADO",
-        "id":  "reparacion-de-calzado"
+        "pdf":  "fontanería.pdf",
+        "path":  "especialidades/actividades-vocacionales/fontaneria",
+        "nombre":  "fontaneria",
+        "id":  "fontaneria",
+        "image":  "plumbing-honor_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/restauracion-y-conservacion-de-documentos/",
-        "nombre":  "RESTAURACION Y CONSERVACION DE DOCUMENTOS",
-        "id":  "restauracion-y-conservacion-de-documentos"
+        "pdf":  "información_programable.pdf",
+        "path":  "especialidades/actividades-vocacionales/informacion-programable",
+        "nombre":  "informacion programable",
+        "id":  "informacion-programable",
+        "image":  "informatica_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/robotica/",
-        "nombre":  "ROBOTICA",
-        "id":  "robotica"
+        "pdf":  "ingeniería.pdf",
+        "path":  "especialidades/actividades-vocacionales/ingenieria",
+        "nombre":  "ingenieria",
+        "id":  "ingenieria",
+        "image":  "engineering_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/robotica-avanzado/",
-        "nombre":  "ROBOTICA AVANZADO",
-        "id":  "robotica-avanzado"
+        "pdf":  "imprenta.pdf",
+        "path":  "especialidades/actividades-vocacionales/imprenta",
+        "nombre":  "imprenta",
+        "id":  "imprenta",
+        "image":  "printing_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/salud-y-curacion-division-norteamericana/",
-        "nombre":  "SALUD Y CURACION DIVISION NORTEAMERICANA",
-        "id":  "salud-y-curacion-division-norteamericana"
+        "pdf":  "especialidad_ja_de_fundición_de_peltre.pdf",
+        "path":  "especialidades/actividades-vocacionales/fundicion-de-peltre",
+        "nombre":  "fundicion de peltre",
+        "id":  "fundicion-de-peltre",
+        "image":  "pewtercasting_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/secretariado/",
-        "nombre":  "SECRETARIADO",
-        "id":  "secretariado"
+        "pdf":  "herrería.pdf",
+        "path":  "especialidades/actividades-vocacionales/herreria",
+        "nombre":  "herreria",
+        "id":  "herreria",
+        "image":  "blacksmithing-honor_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/seguridad-ante-incendios/",
-        "nombre":  "SEGURIDAD ANTE INCENDIOS",
-        "id":  "seguridad-ante-incendios"
+        "pdf":  "desarrollo_de_software.pdf",
+        "path":  "especialidades/actividades-vocacionales/desarrollo-de-software",
+        "nombre":  "desarrollo de software",
+        "id":  "desarrollo-de-software",
+        "image":  "desarrollo-de-software_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/signos-senales-y-simbolos/",
-        "nombre":  "SIGNOS SENALES Y SIMBOLOS",
-        "id":  "signos-senales-y-simbolos"
+        "pdf":  "diseñador_web.pdf",
+        "path":  "especialidades/actividades-vocacionales/disenador-de-web",
+        "nombre":  "disenador de web",
+        "id":  "disenador-de-web",
+        "image":  "web_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/silvicultura/",
-        "nombre":  "SILVICULTURA",
-        "id":  "silvicultura"
+        "pdf":  "cuidado_y_mantenimiento_de_guitarras.pdf",
+        "path":  "especialidades/actividades-vocacionales/cuidado-y-mantenimiento-de-guitarras",
+        "nombre":  "cuidado y mantenimiento de guitarras",
+        "id":  "cuidado-y-mantenimiento-de-guitarras",
+        "image":  "cuidado-y-mantenimiento_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/silvicutltura-avanzado/",
-        "nombre":  "SILVICUTLTURA AVANZADO",
-        "id":  "silvicutltura-avanzado"
+        "pdf":  "criptografía_0.pdf",
+        "path":  "especialidades/actividades-vocacionales/criptografia-union-de-asia-del-sureste",
+        "nombre":  "criptografia union de asia del sureste",
+        "id":  "criptografia-union-de-asia-del-sureste",
+        "image":  "cryptography_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/soldadura/",
-        "nombre":  "SOLDADURA",
-        "id":  "soldadura"
+        "pdf":  "crítica_de_medios_visuales.pdf",
+        "path":  "especialidades/actividades-vocacionales/critica-de-medios-visuales",
+        "nombre":  "critica de medios visuales",
+        "id":  "critica-de-medios-visuales",
+        "image":  "visual-media-critique_1_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/soldadura-division-norteamericana/",
-        "nombre":  "SOLDADURA DIVISION NORTEAMERICANA",
-        "id":  "soldadura-division-norteamericana"
+        "pdf":  "diseñador_web^j_avanzado.pdf",
+        "path":  "especialidades/actividades-vocacionales/disenador-de-web-avanzado",
+        "nombre":  "disenador de web avanzado",
+        "id":  "disenador-de-web-avanzado",
+        "image":  "web-av_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/taquigrafia/",
-        "nombre":  "TAQUIGRAFIA",
-        "id":  "taquigrafia"
+        "pdf":  "empapelado.pdf",
+        "path":  "especialidades/actividades-vocacionales/empapelado",
+        "nombre":  "empapelado",
+        "id":  "empapelado",
+        "image":  "paperhanging_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/tecnologia-movil/",
-        "nombre":  "TECNOLOGIA MOVIL",
-        "id":  "tecnologia-movil"
+        "pdf":  "encuadernación.pdf",
+        "path":  "especialidades/actividades-vocacionales/encuadernacion",
+        "nombre":  "encuadernacion",
+        "id":  "encuadernacion",
+        "image":  "bookbinding-honor_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/torno-mecanico/",
-        "nombre":  "TORNO MECANICO",
-        "id":  "torno-mecanico"
+        "pdf":  "electrónica.pdf",
+        "path":  "especialidades/actividades-vocacionales/electronica",
+        "nombre":  "electronica",
+        "id":  "electronica",
+        "image":  "electronica_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/trabajos-en-madera/",
-        "nombre":  "TRABAJOS EN MADERA",
-        "id":  "trabajos-en-madera"
+        "pdf":  "especialidad_ja_de_drones.pdf",
+        "path":  "especialidades/actividades-vocacionales/drones",
+        "nombre":  "drones",
+        "id":  "drones",
+        "image":  "drones_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/actividades-vocacionales/video-asociacion-general/",
-        "nombre":  "VIDEO ASOCIACION GENERAL",
-        "id":  "video-asociacion-general"
+        "pdf":  "electricidad.pdf",
+        "path":  "especialidades/actividades-vocacionales/electricidad",
+        "nombre":  "electricidad",
+        "id":  "electricidad",
+        "image":  "electricity_orig.png"
     }
 ]

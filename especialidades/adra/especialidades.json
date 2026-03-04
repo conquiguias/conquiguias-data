@@ -1,62 +1,86 @@
 ﻿[
     {
-        "path":  "/conquiguias-data/especialidades/adra/alfabetizacion/",
-        "nombre":  "ALFABETIZACION",
-        "id":  "alfabetizacion"
+        "pdf":  "recaudación_de_fondos_para_adra.pdf",
+        "path":  "especialidades/adra/recaudacion-de-fondos-para-adra-oro",
+        "nombre":  "recaudacion de fondos para adra oro",
+        "id":  "recaudacion-de-fondos-para-adra-oro",
+        "image":  "adra-dorado_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/adra/auxilio-de-las-catastrofes/",
-        "nombre":  "AUXILIO DE LAS CATASTROFES",
-        "id":  "auxilio-de-las-catastrofes"
+        "pdf":  "recaudación_de_fondos_para_adra.pdf",
+        "path":  "especialidades/adra/recaudacion-de-fondos-para-adra-bronce",
+        "nombre":  "recaudacion de fondos para adra bronce",
+        "id":  "recaudacion-de-fondos-para-adra-bronce",
+        "image":  "adra-bronce_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/adra/auxilio-de-las-catastrofes-avanzado/",
-        "nombre":  "AUXILIO DE LAS CATASTROFES AVANZADO",
-        "id":  "auxilio-de-las-catastrofes-avanzado"
+        "pdf":  "reasentamiento_de_refugiados_-_adra.pdf",
+        "path":  "especialidades/adra/reasentamiento-de-refugiados",
+        "nombre":  "reasentamiento de refugiados",
+        "id":  "reasentamiento-de-refugiados",
+        "image":  "4155879_orig.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/adra/ayuda-alimenticia/",
-        "nombre":  "AYUDA ALIMENTICIA",
-        "id":  "ayuda-alimenticia"
+        "pdf":  "servicio_comunitario_-_adra.pdf",
+        "path":  "especialidades/adra/servicio-comunitario",
+        "nombre":  "servicio comunitario",
+        "id":  "servicio-comunitario",
+        "image":  "9364044_orig.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/adra/desarrollo-comunitario/",
-        "nombre":  "DESARROLLO COMUNITARIO",
-        "id":  "desarrollo-comunitario"
+        "pdf":  "resolución_de_conflictos_-_adra.pdf",
+        "path":  "especialidades/adra/resolucion-de-conflictos",
+        "nombre":  "resolucion de conflictos",
+        "id":  "resolucion-de-conflictos",
+        "image":  "1608490_orig.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/adra/evaluacion-comunitaria/",
-        "nombre":  "EVALUACION COMUNITARIA",
-        "id":  "evaluacion-comunitaria"
+        "pdf":  "recaudación_de_fondos_para_adra.pdf",
+        "path":  "especialidades/adra/recaudacion-de-fondos-para-adra-plata",
+        "nombre":  "recaudacion de fondos para adra plata",
+        "id":  "recaudacion-de-fondos-para-adra-plata",
+        "image":  "adra-plata_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/adra/reasentamiento-de-refugiados/",
-        "nombre":  "REASENTAMIENTO DE REFUGIADOS",
-        "id":  "reasentamiento-de-refugiados"
+        "pdf":  "auxilio_de_las_catástrofes_avanzado_-_adra.pdf",
+        "path":  "especialidades/adra/auxilio-de-las-catastrofes-avanzado",
+        "nombre":  "auxilio de las catastrofes avanzado",
+        "id":  "auxilio-de-las-catastrofes-avanzado",
+        "image":  "cat-strofes-advanced_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/adra/recaudacion-de-fondos-para-adra-bronce/",
-        "nombre":  "RECAUDACION DE FONDOS PARA ADRA BRONCE",
-        "id":  "recaudacion-de-fondos-para-adra-bronce"
+        "pdf":  "auxilio_de_las_catástrofes_-_adra.pdf",
+        "path":  "especialidades/adra/auxilio-de-las-catastrofes",
+        "nombre":  "auxilio de las catastrofes",
+        "id":  "auxilio-de-las-catastrofes",
+        "image":  "cat-strofes_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/adra/recaudacion-de-fondos-para-adra-oro/",
-        "nombre":  "RECAUDACION DE FONDOS PARA ADRA ORO",
-        "id":  "recaudacion-de-fondos-para-adra-oro"
+        "pdf":  "alfabetización_-_adra.pdf",
+        "path":  "especialidades/adra/alfabetizacion",
+        "nombre":  "alfabetizacion",
+        "id":  "alfabetizacion",
+        "image":  "6408861.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/adra/recaudacion-de-fondos-para-adra-plata/",
-        "nombre":  "RECAUDACION DE FONDOS PARA ADRA PLATA",
-        "id":  "recaudacion-de-fondos-para-adra-plata"
+        "pdf":  "evaluación_comunitaria_-_adra.pdf",
+        "path":  "especialidades/adra/evaluacion-comunitaria",
+        "nombre":  "evaluacion comunitaria",
+        "id":  "evaluacion-comunitaria",
+        "image":  "4394899_orig.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/adra/resolucion-de-conflictos/",
-        "nombre":  "RESOLUCION DE CONFLICTOS",
-        "id":  "resolucion-de-conflictos"
+        "pdf":  "desarrollo_comunitario_-_adra.pdf",
+        "path":  "especialidades/adra/desarrollo-comunitario",
+        "nombre":  "desarrollo comunitario",
+        "id":  "desarrollo-comunitario",
+        "image":  "8096980_orig.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/adra/servicio-comunitario/",
-        "nombre":  "SERVICIO COMUNITARIO",
-        "id":  "servicio-comunitario"
+        "pdf":  "ayuda_alimenticia_-_adra.pdf",
+        "path":  "especialidades/adra/ayuda-alimenticia",
+        "nombre":  "ayuda alimenticia",
+        "id":  "ayuda-alimenticia",
+        "image":  "6450710.gif"
     }
 ]

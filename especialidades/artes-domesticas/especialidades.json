@@ -1,112 +1,156 @@
 ﻿[
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/acolchado/",
-        "nombre":  "ACOLCHADO",
-        "id":  "acolchado"
+        "pdf":  "nutrición.pdf",
+        "path":  "especialidades/artes-domesticas/nutricion",
+        "nombre":  "nutricion",
+        "id":  "nutricion",
+        "image":  "nutrition.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/alimentos-congelados/",
-        "nombre":  "ALIMENTOS CONGELADOS",
-        "id":  "alimentos-congelados"
+        "pdf":  "nutrición_avanzado.pdf",
+        "path":  "especialidades/artes-domesticas/nutricion-avanzado",
+        "nombre":  "nutricion avanzado",
+        "id":  "nutricion-avanzado",
+        "image":  "nutrition-advanced.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/arte-culinario/",
-        "nombre":  "ARTE CULINARIO",
-        "id":  "arte-culinario"
+        "pdf":  "lavado_y_planchado.pdf",
+        "path":  "especialidades/artes-domesticas/lavado-y-planchado",
+        "nombre":  "lavado y planchado",
+        "id":  "lavado-y-planchado",
+        "image":  "lavado-y-planchado_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/arte-culinario-avanzado/",
-        "nombre":  "ARTE CULINARIO AVANZADO",
-        "id":  "arte-culinario-avanzado"
+        "pdf":  "economía_doméstica.pdf",
+        "path":  "especialidades/artes-domesticas/economia-domestica",
+        "nombre":  "economia domestica",
+        "id":  "economia-domestica",
+        "image":  "housekeeping_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/chocolate/",
-        "nombre":  "CHOCOLATE",
-        "id":  "chocolate"
+        "pdf":  "fabricación_de_esteras.pdf",
+        "path":  "especialidades/artes-domesticas/fabricacion-de-esteras",
+        "nombre":  "fabricacion de esteras",
+        "id":  "fabricacion-de-esteras",
+        "image":  "esteras_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/cocinando-pizzas/",
-        "nombre":  "COCINANDO PIZZAS",
-        "id":  "cocinando-pizzas"
+        "pdf":  "panadería.pdf",
+        "path":  "especialidades/artes-domesticas/panaderia",
+        "nombre":  "panaderia",
+        "id":  "panaderia",
+        "image":  "panader-a_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/conservacion-de-alimentos/",
-        "nombre":  "CONSERVACION DE ALIMENTOS",
-        "id":  "conservacion-de-alimentos"
+        "pdf":  "sastrería.pdf",
+        "path":  "especialidades/artes-domesticas/sastreria",
+        "nombre":  "sastreria",
+        "id":  "sastreria",
+        "image":  "tailoring.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/corte-y-confeccion/",
-        "nombre":  "CORTE Y CONFECCION",
-        "id":  "corte-y-confeccion"
+        "pdf":  "vestidos_de_tapa.pdf",
+        "path":  "especialidades/artes-domesticas/vestidos-de-tapa",
+        "nombre":  "vestidos de tapa",
+        "id":  "vestidos-de-tapa",
+        "image":  "tapa-cloth_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/corte-y-confeccion-avanzado/",
-        "nombre":  "CORTE Y CONFECCION AVANZADO",
-        "id":  "corte-y-confeccion-avanzado"
+        "pdf":  "presupuesto_familiar.pdf",
+        "path":  "especialidades/artes-domesticas/presupuesto-familiar-division-sudamericana",
+        "nombre":  "presupuesto familiar division sudamericana",
+        "id":  "presupuesto-familiar-division-sudamericana",
+        "image":  "presupuesto-familiar_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/costura-basica/",
-        "nombre":  "COSTURA BASICA",
-        "id":  "costura-basica"
+        "pdf":  "preparación_de_comidas_culturales.pdf",
+        "path":  "especialidades/artes-domesticas/preparacion-de-comidas-culturales",
+        "nombre":  "preparacion de comidas culturales",
+        "id":  "preparacion-de-comidas-culturales",
+        "image":  "comidas-culturales_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/deshidratacion-de-alimentos/",
-        "nombre":  "DESHIDRATACION DE ALIMENTOS",
-        "id":  "deshidratacion-de-alimentos"
+        "pdf":  "especialidad_ja_de_presupuesto_familiar__nad_.pdf",
+        "path":  "especialidades/artes-domesticas/presupuesto-familiar-division-norteamericana",
+        "nombre":  "presupuesto familiar division norteamericana",
+        "id":  "presupuesto-familiar-division-norteamericana",
+        "image":  "householdbudgeting_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/economia-domestica/",
-        "nombre":  "ECONOMIA DOMESTICA",
-        "id":  "economia-domestica"
+        "pdf":  "arte_culinario_avanzado.pdf",
+        "path":  "especialidades/artes-domesticas/arte-culinario-avanzado",
+        "nombre":  "arte culinario avanzado",
+        "id":  "arte-culinario-avanzado",
+        "image":  "cooking-advanced.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/fabricacion-de-esteras/",
-        "nombre":  "FABRICACION DE ESTERAS",
-        "id":  "fabricacion-de-esteras"
+        "pdf":  "chocolate.pdf",
+        "path":  "especialidades/artes-domesticas/chocolate",
+        "nombre":  "chocolate",
+        "id":  "chocolate",
+        "image":  "chocolate_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/lavado-y-planchado/",
-        "nombre":  "LAVADO Y PLANCHADO",
-        "id":  "lavado-y-planchado"
+        "pdf":  "arte_culinario.pdf",
+        "path":  "especialidades/artes-domesticas/arte-culinario",
+        "nombre":  "arte culinario",
+        "id":  "arte-culinario",
+        "image":  "cooking.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/nutricion/",
-        "nombre":  "NUTRICION",
-        "id":  "nutricion"
+        "pdf":  "acolchado.pdf",
+        "path":  "especialidades/artes-domesticas/acolchado",
+        "nombre":  "acolchado",
+        "id":  "acolchado",
+        "image":  "acolchado_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/nutricion-avanzado/",
-        "nombre":  "NUTRICION AVANZADO",
-        "id":  "nutricion-avanzado"
+        "pdf":  "alimentos_congelados.pdf",
+        "path":  "especialidades/artes-domesticas/alimentos-congelados",
+        "nombre":  "alimentos congelados",
+        "id":  "alimentos-congelados",
+        "image":  "alimentos-congelados_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/panaderia/",
-        "nombre":  "PANADERIA",
-        "id":  "panaderia"
+        "pdf":  "cocinando_pizzas.pdf",
+        "path":  "especialidades/artes-domesticas/cocinando-pizzas",
+        "nombre":  "cocinando pizzas",
+        "id":  "cocinando-pizzas",
+        "image":  "cocinando-pizzas_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/preparacion-de-comidas-culturales/",
-        "nombre":  "PREPARACION DE COMIDAS CULTURALES",
-        "id":  "preparacion-de-comidas-culturales"
+        "pdf":  "costura_básica.pdf",
+        "path":  "especialidades/artes-domesticas/costura-basica",
+        "nombre":  "costura basica",
+        "id":  "costura-basica",
+        "image":  "costura-b-sica_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/presupuesto-familiar-division-norteamericana/",
-        "nombre":  "PRESUPUESTO FAMILIAR DIVISION NORTEAMERICANA",
-        "id":  "presupuesto-familiar-division-norteamericana"
+        "pdf":  "deshidratación_de_alimentos.pdf",
+        "path":  "especialidades/artes-domesticas/deshidratacion-de-alimentos",
+        "nombre":  "deshidratacion de alimentos",
+        "id":  "deshidratacion-de-alimentos",
+        "image":  "food-drying_orig.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/presupuesto-familiar-division-sudamericana/",
-        "nombre":  "PRESUPUESTO FAMILIAR DIVISION SUDAMERICANA",
-        "id":  "presupuesto-familiar-division-sudamericana"
+        "pdf":  "corte_y_confección_avanzado.pdf",
+        "path":  "especialidades/artes-domesticas/corte-y-confeccion-avanzado",
+        "nombre":  "corte y confeccion avanzado",
+        "id":  "corte-y-confeccion-avanzado",
+        "image":  "dressmaking-advanced_1.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/sastreria/",
-        "nombre":  "SASTRERIA",
-        "id":  "sastreria"
+        "pdf":  "conservación_de_alimentos.pdf",
+        "path":  "especialidades/artes-domesticas/conservacion-de-alimentos",
+        "nombre":  "conservacion de alimentos",
+        "id":  "conservacion-de-alimentos",
+        "image":  "7631857_orig.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/artes-domesticas/vestidos-de-tapa/",
-        "nombre":  "VESTIDOS DE TAPA",
-        "id":  "vestidos-de-tapa"
+        "pdf":  "corte_y_confección.pdf",
+        "path":  "especialidades/artes-domesticas/corte-y-confeccion",
+        "nombre":  "corte y confeccion",
+        "id":  "corte-y-confeccion",
+        "image":  "dressmaking_1.png"
     }
 ]

@@ -1,127 +1,177 @@
 ﻿[
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/abocetar/",
-        "nombre":  "ABOCETAR",
-        "id":  "abocetar"
+        "pdf":  "la-marea.pdf",
+        "path":  "especialidades/asociacion-de-florida/la-marea",
+        "nombre":  "la marea",
+        "id":  "la-marea",
+        "image":  "la-marea.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/abraham-y-arte-con-arena/",
-        "nombre":  "ABRAHAM Y ARTE CON ARENA",
-        "id":  "abraham-y-arte-con-arena"
+        "pdf":  "la-marea-avanzado.pdf",
+        "path":  "especialidades/asociacion-de-florida/la-marea-avanzado",
+        "nombre":  "la marea avanzado",
+        "id":  "la-marea-avanzado",
+        "image":  "la-marea-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/conciencia-de-los-discapacitados/",
-        "nombre":  "CONCIENCIA DE LOS DISCAPACITADOS",
-        "id":  "conciencia-de-los-discapacitados"
+        "pdf":  "lbum-de-recortes.pdf",
+        "path":  "especialidades/asociacion-de-florida/lbum-de-recortes",
+        "nombre":  "lbum de recortes",
+        "id":  "lbum-de-recortes",
+        "image":  "lbum-de-recortes.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/conciencia-de-los-discapacitados-avanzado/",
-        "nombre":  "CONCIENCIA DE LOS DISCAPACITADOS AVANZADO",
-        "id":  "conciencia-de-los-discapacitados-avanzado"
+        "pdf":  "jons-y-papel-mach.pdf",
+        "path":  "especialidades/asociacion-de-florida/jons-y-papel-mach",
+        "nombre":  "jons y papel mach",
+        "id":  "jons-y-papel-mach",
+        "image":  "jons-y-papel-mach.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/cristales/",
-        "nombre":  "CRISTALES",
-        "id":  "cristales"
+        "pdf":  "jos-y-teido-anudado.pdf",
+        "path":  "especialidades/asociacion-de-florida/jos-y-teido-anudado",
+        "nombre":  "jos y teido anudado",
+        "id":  "jos-y-teido-anudado",
+        "image":  "jos-y-teido-anudado.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/cuerdas-altas/",
-        "nombre":  "CUERDAS ALTAS",
-        "id":  "cuerdas-altas"
+        "pdf":  "la-creacin.pdf",
+        "path":  "especialidades/asociacion-de-florida/la-creacin",
+        "nombre":  "la creacin",
+        "id":  "la-creacin",
+        "image":  "la-creacin.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/cuerdas-altas-avanzado/",
-        "nombre":  "CUERDAS ALTAS AVANZADO",
-        "id":  "cuerdas-altas-avanzado"
+        "pdf":  "no-y-modelar-globos.pdf",
+        "path":  "especialidades/asociacion-de-florida/no-y-modelar-globos",
+        "nombre":  "no y modelar globos",
+        "id":  "no-y-modelar-globos",
+        "image":  "no-y-modelar-globos.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/daniel-y-drama/",
-        "nombre":  "DANIEL Y DRAMA",
-        "id":  "daniel-y-drama"
+        "pdf":  "prevencin-de-crimen.pdf",
+        "path":  "especialidades/asociacion-de-florida/prevencin-de-crimen",
+        "nombre":  "prevencin de crimen",
+        "id":  "prevencin-de-crimen",
+        "image":  "prevencin-de-crimen.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/desastres-naturales/",
-        "nombre":  "DESASTRES NATURALES",
-        "id":  "desastres-naturales"
+        "pdf":  "volcanes.pdf",
+        "path":  "especialidades/asociacion-de-florida/volcanes",
+        "nombre":  "volcanes",
+        "id":  "volcanes",
+        "image":  "volcanes.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/ester-y-gourmet-de-cocina/",
-        "nombre":  "ESTER Y GOURMET DE COCINA",
-        "id":  "ester-y-gourmet-de-cocina"
+        "pdf":  "lbum-de-recortes-avanzado.pdf",
+        "path":  "especialidades/asociacion-de-florida/lbum-de-recortes-avanzado",
+        "nombre":  "lbum de recortes avanzado",
+        "id":  "lbum-de-recortes-avanzado",
+        "image":  "lbum-de-recortes-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/estudio-de-los-estados/",
-        "nombre":  "ESTUDIO DE LOS ESTADOS",
-        "id":  "estudio-de-los-estados"
+        "pdf":  "manates.pdf",
+        "path":  "especialidades/asociacion-de-florida/manates",
+        "nombre":  "manates",
+        "id":  "manates",
+        "image":  "manates.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/exploracin-espacial/",
-        "nombre":  "EXPLORACIN ESPACIAL",
-        "id":  "exploracin-espacial"
+        "pdf":  "mantenimiento-del-hogar.pdf",
+        "path":  "especialidades/asociacion-de-florida/mantenimiento-del-hogar",
+        "nombre":  "mantenimiento del hogar",
+        "id":  "mantenimiento-del-hogar",
+        "image":  "mantenimiento-del-hogar.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/huracanes/",
-        "nombre":  "HURACANES",
-        "id":  "huracanes"
+        "pdf":  "huracanes.pdf",
+        "path":  "especialidades/asociacion-de-florida/huracanes",
+        "nombre":  "huracanes",
+        "id":  "huracanes",
+        "image":  "huracanes.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/jons-y-papel-mach/",
-        "nombre":  "JONS Y PAPEL MACH",
-        "id":  "jons-y-papel-mach"
+        "pdf":  "conciencia-de-los-discapacitados-avanzado.pdf",
+        "path":  "especialidades/asociacion-de-florida/conciencia-de-los-discapacitados-avanzado",
+        "nombre":  "conciencia de los discapacitados avanzado",
+        "id":  "conciencia-de-los-discapacitados-avanzado",
+        "image":  "conciencia-de-los-discapacitados-avanzado.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/jos-y-teido-anudado/",
-        "nombre":  "JOS Y TEIDO ANUDADO",
-        "id":  "jos-y-teido-anudado"
+        "pdf":  "cristales.pdf",
+        "path":  "especialidades/asociacion-de-florida/cristales",
+        "nombre":  "cristales",
+        "id":  "cristales",
+        "image":  "cristales.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/la-creacin/",
-        "nombre":  "LA CREACIN",
-        "id":  "la-creacin"
+        "pdf":  "cuerdas-altas.pdf",
+        "path":  "especialidades/asociacion-de-florida/cuerdas-altas",
+        "nombre":  "cuerdas altas",
+        "id":  "cuerdas-altas",
+        "image":  "cuerdas-altas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/la-marea/",
-        "nombre":  "LA MAREA",
-        "id":  "la-marea"
+        "pdf":  "abocetar.pdf",
+        "path":  "especialidades/asociacion-de-florida/abocetar",
+        "nombre":  "abocetar",
+        "id":  "abocetar",
+        "image":  "abocetar.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/la-marea-avanzado/",
-        "nombre":  "LA MAREA AVANZADO",
-        "id":  "la-marea-avanzado"
+        "pdf":  "abraham-y-arte-con-arena.pdf",
+        "path":  "especialidades/asociacion-de-florida/abraham-y-arte-con-arena",
+        "nombre":  "abraham y arte con arena",
+        "id":  "abraham-y-arte-con-arena",
+        "image":  "abraham-y-arte-con-arena.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/lbum-de-recortes/",
-        "nombre":  "LBUM DE RECORTES",
-        "id":  "lbum-de-recortes"
+        "pdf":  "conciencia-de-los-discapacitados.pdf",
+        "path":  "especialidades/asociacion-de-florida/conciencia-de-los-discapacitados",
+        "nombre":  "conciencia de los discapacitados",
+        "id":  "conciencia-de-los-discapacitados",
+        "image":  "conciencia-de-los-discapacitados.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/lbum-de-recortes-avanzado/",
-        "nombre":  "LBUM DE RECORTES AVANZADO",
-        "id":  "lbum-de-recortes-avanzado"
+        "pdf":  "ester-y-gourmet-de-cocina.pdf",
+        "path":  "especialidades/asociacion-de-florida/ester-y-gourmet-de-cocina",
+        "nombre":  "ester y gourmet de cocina",
+        "id":  "ester-y-gourmet-de-cocina",
+        "image":  "ester-y-gourmet-de-cocina.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/manates/",
-        "nombre":  "MANATES",
-        "id":  "manates"
+        "pdf":  "estudio-de-los-estados.pdf",
+        "path":  "especialidades/asociacion-de-florida/estudio-de-los-estados",
+        "nombre":  "estudio de los estados",
+        "id":  "estudio-de-los-estados",
+        "image":  "estudio-de-los-estados.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/mantenimiento-del-hogar/",
-        "nombre":  "MANTENIMIENTO DEL HOGAR",
-        "id":  "mantenimiento-del-hogar"
+        "pdf":  "exploracin-espacial.pdf",
+        "path":  "especialidades/asociacion-de-florida/exploracin-espacial",
+        "nombre":  "exploracin espacial",
+        "id":  "exploracin-espacial",
+        "image":  "exploracin-espacial.gif"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/no-y-modelar-globos/",
-        "nombre":  "NO Y MODELAR GLOBOS",
-        "id":  "no-y-modelar-globos"
+        "pdf":  "cuerdas-altas-avanzado.pdf",
+        "path":  "especialidades/asociacion-de-florida/cuerdas-altas-avanzado",
+        "nombre":  "cuerdas altas avanzado",
+        "id":  "cuerdas-altas-avanzado",
+        "image":  "cuerdas-altas-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/prevencin-de-crimen/",
-        "nombre":  "PREVENCIN DE CRIMEN",
-        "id":  "prevencin-de-crimen"
+        "pdf":  "daniel-y-drama.pdf",
+        "path":  "especialidades/asociacion-de-florida/daniel-y-drama",
+        "nombre":  "daniel y drama",
+        "id":  "daniel-y-drama",
+        "image":  "daniel-y-drama.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/volcanes/",
-        "nombre":  "VOLCANES",
-        "id":  "volcanes"
+        "pdf":  "desastres-naturales.pdf",
+        "path":  "especialidades/asociacion-de-florida/desastres-naturales",
+        "nombre":  "desastres naturales",
+        "id":  "desastres-naturales",
+        "image":  "desastres-naturales.gif"
     }
 ]

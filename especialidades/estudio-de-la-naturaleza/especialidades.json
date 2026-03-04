@@ -1,732 +1,1024 @@
 ﻿[
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/acacias/",
-        "nombre":  "ACACIAS",
-        "id":  "acacias"
+        "pdf":  "medio-ambiente-terrestre.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/medio-ambiente-terrestre",
+        "nombre":  "medio ambiente terrestre",
+        "id":  "medio-ambiente-terrestre",
+        "image":  "medio-ambiente-terrestre.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/acuarios/",
-        "nombre":  "ACUARIOS",
-        "id":  "acuarios"
+        "pdf":  "medio-ambiente-acutico.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/medio-ambiente-acutico",
+        "nombre":  "medio ambiente acutico",
+        "id":  "medio-ambiente-acutico",
+        "image":  "medio-ambiente-acutico.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/agricultura-ecolgica/",
-        "nombre":  "AGRICULTURA ECOLGICA",
-        "id":  "agricultura-ecolgica"
+        "pdf":  "migracin.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/migracin",
+        "nombre":  "migracin",
+        "id":  "migracin",
+        "image":  "migracin.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/algas-marinas/",
-        "nombre":  "ALGAS MARINAS",
-        "id":  "algas-marinas"
+        "pdf":  "meteoritos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/meteoritos",
+        "nombre":  "meteoritos",
+        "id":  "meteoritos",
+        "image":  "meteoritos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/anfibios/",
-        "nombre":  "ANFIBIOS",
-        "id":  "anfibios"
+        "pdf":  "marsupiales.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/marsupiales",
+        "nombre":  "marsupiales",
+        "id":  "marsupiales",
+        "image":  "marsupiales.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/anfibios-avanzado/",
-        "nombre":  "ANFIBIOS AVANZADO",
-        "id":  "anfibios-avanzado"
+        "pdf":  "mamferos-marinos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/mamferos-marinos",
+        "nombre":  "mamferos marinos",
+        "id":  "mamferos-marinos",
+        "image":  "mamferos-marinos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/animales-domsticos/",
-        "nombre":  "ANIMALES DOMSTICOS",
-        "id":  "animales-domsticos"
+        "pdf":  "mamferos-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/mamferos-avanzado",
+        "nombre":  "mamferos avanzado",
+        "id":  "mamferos-avanzado",
+        "image":  "mamferos-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/animales-nocivos/",
-        "nombre":  "ANIMALES NOCIVOS",
-        "id":  "animales-nocivos"
+        "pdf":  "mariposas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/mariposas",
+        "nombre":  "mariposas",
+        "id":  "mariposas",
+        "image":  "mariposas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/animales-nocturnos/",
-        "nombre":  "ANIMALES NOCTURNOS",
-        "id":  "animales-nocturnos"
+        "pdf":  "mamferos-pequeos-como-mascotas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/mamferos-pequeos-como-mascotas",
+        "nombre":  "mamferos pequeos como mascotas",
+        "id":  "mamferos-pequeos-como-mascotas",
+        "image":  "mamferos-pequeos-como-mascotas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/animales-venenosos/",
-        "nombre":  "ANIMALES VENENOSOS",
-        "id":  "animales-venenosos"
+        "pdf":  "murcilagos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/murcilagos",
+        "nombre":  "murcilagos",
+        "id":  "murcilagos",
+        "image":  "murcilagos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/antlopes/",
-        "nombre":  "ANTLOPES",
-        "id":  "antlopes"
+        "pdf":  "montaas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/montaas",
+        "nombre":  "montaas",
+        "id":  "montaas",
+        "image":  "montaas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/antlopes-avanzado/",
-        "nombre":  "ANTLOPES AVANZADO",
-        "id":  "antlopes-avanzado"
+        "pdf":  "ocanos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/ocanos",
+        "nombre":  "ocanos",
+        "id":  "ocanos",
+        "image":  "ocanos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/arbustos/",
-        "nombre":  "ARBUSTOS",
-        "id":  "arbustos"
+        "pdf":  "murcilagos-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/murcilagos-avanzado",
+        "nombre":  "murcilagos avanzado",
+        "id":  "murcilagos-avanzado",
+        "image":  "murcilagos-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/arbustos-avanzado/",
-        "nombre":  "ARBUSTOS AVANZADO",
-        "id":  "arbustos-avanzado"
+        "pdf":  "moluscos-terrestres-y-de-agua-dulce.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/moluscos-terrestres-y-de-agua-dulce",
+        "nombre":  "moluscos terrestres y de agua dulce",
+        "id":  "moluscos-terrestres-y-de-agua-dulce",
+        "image":  "moluscos-terrestres-y-de-agua-dulce.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/arcnidos/",
-        "nombre":  "ARCNIDOS",
-        "id":  "arcnidos"
+        "pdf":  "mineraloga-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/mineraloga-avanzado",
+        "nombre":  "mineraloga avanzado",
+        "id":  "mineraloga-avanzado",
+        "image":  "mineraloga-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/arena/",
-        "nombre":  "ARENA",
-        "id":  "arena"
+        "pdf":  "mineraloga.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/mineraloga",
+        "nombre":  "mineraloga",
+        "id":  "mineraloga",
+        "image":  "mineraloga.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/arrecifes-de-coral/",
-        "nombre":  "ARRECIFES DE CORAL",
-        "id":  "arrecifes-de-coral"
+        "pdf":  "moluscos-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/moluscos-avanzado",
+        "nombre":  "moluscos avanzado",
+        "id":  "moluscos-avanzado",
+        "image":  "moluscos-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/arrecifes-de-coral-avanzado/",
-        "nombre":  "ARRECIFES DE CORAL AVANZADO",
-        "id":  "arrecifes-de-coral-avanzado"
+        "pdf":  "moluscos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/moluscos",
+        "nombre":  "moluscos",
+        "id":  "moluscos",
+        "image":  "moluscos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/aves/",
-        "nombre":  "AVES",
-        "id":  "aves"
+        "pdf":  "hormigas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/hormigas",
+        "nombre":  "hormigas",
+        "id":  "hormigas",
+        "image":  "hormigas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/aves-australianas/",
-        "nombre":  "AVES AUSTRALIANAS",
-        "id":  "aves-australianas"
+        "pdf":  "hongos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/hongos",
+        "nombre":  "hongos",
+        "id":  "hongos",
+        "image":  "hongos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/aves-avanzado/",
-        "nombre":  "AVES AVANZADO",
-        "id":  "aves-avanzado"
+        "pdf":  "huellas-de-animales-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/huellas-de-animales-avanzado",
+        "nombre":  "huellas de animales avanzado",
+        "id":  "huellas-de-animales-avanzado",
+        "image":  "huellas-de-animales-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/aves-de-jaula/",
-        "nombre":  "AVES DE JAULA",
-        "id":  "aves-de-jaula"
+        "pdf":  "huellas-de-animales.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/huellas-de-animales",
+        "nombre":  "huellas de animales",
+        "id":  "huellas-de-animales",
+        "image":  "huellas-de-animales.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/aves-de-rapia/",
-        "nombre":  "AVES DE RAPIA",
-        "id":  "aves-de-rapia"
+        "pdf":  "hierbas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/hierbas",
+        "nombre":  "hierbas",
+        "id":  "hierbas",
+        "image":  "hierbas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/aves-de-rapia-avanzado/",
-        "nombre":  "AVES DE RAPIA AVANZADO",
-        "id":  "aves-de-rapia-avanzado"
+        "pdf":  "glaciares.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/glaciares",
+        "nombre":  "glaciares",
+        "id":  "glaciares",
+        "image":  "glaciares.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/aves-domsticas/",
-        "nombre":  "AVES DOMSTICAS",
-        "id":  "aves-domsticas"
+        "pdf":  "geologa-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/geologa-avanzado",
+        "nombre":  "geologa avanzado",
+        "id":  "geologa-avanzado",
+        "image":  "geologa-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/azcar-de-arce/",
-        "nombre":  "AZCAR DE ARCE",
-        "id":  "azcar-de-arce"
+        "pdf":  "helechos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/helechos",
+        "nombre":  "helechos",
+        "id":  "helechos",
+        "image":  "helechos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/azcar-de-arce-avanzado/",
-        "nombre":  "AZCAR DE ARCE AVANZADO",
-        "id":  "azcar-de-arce-avanzado"
+        "pdf":  "gramneas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/gramneas",
+        "nombre":  "gramneas",
+        "id":  "gramneas",
+        "image":  "gramneas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/bacterias/",
-        "nombre":  "BACTERIAS",
-        "id":  "bacterias"
+        "pdf":  "lquenes.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/lquenes",
+        "nombre":  "lquenes",
+        "id":  "lquenes",
+        "image":  "lquenes.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/bioconstruccin/",
-        "nombre":  "BIOCONSTRUCCIN",
-        "id":  "bioconstruccin"
+        "pdf":  "loros-y-cacatas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/loros-y-cacatas",
+        "nombre":  "loros y cacatas",
+        "id":  "loros-y-cacatas",
+        "image":  "loros-y-cacatas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/bosques-templados-caducifolios/",
-        "nombre":  "BOSQUES TEMPLADOS CADUCIFOLIOS",
-        "id":  "bosques-templados-caducifolios"
+        "pdf":  "mamferos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/mamferos",
+        "nombre":  "mamferos",
+        "id":  "mamferos",
+        "image":  "mamferos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/brifitas/",
-        "nombre":  "BRIFITAS",
-        "id":  "brifitas"
+        "pdf":  "lquenes-hepticas-y-musgos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/lquenes-hepticas-y-musgos",
+        "nombre":  "lquenes hepticas y musgos",
+        "id":  "lquenes-hepticas-y-musgos",
+        "image":  "lquenes-hepticas-y-musgos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/burbujas/",
-        "nombre":  "BURBUJAS",
-        "id":  "burbujas"
+        "pdf":  "lombrices-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/lombrices-avanzado",
+        "nombre":  "lombrices avanzado",
+        "id":  "lombrices-avanzado",
+        "image":  "lombrices-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/cactus/",
-        "nombre":  "CACTUS",
-        "id":  "cactus"
+        "pdf":  "insectos-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/insectos-avanzado",
+        "nombre":  "insectos avanzado",
+        "id":  "insectos-avanzado",
+        "image":  "insectos-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/cactus-avanzado/",
-        "nombre":  "CACTUS AVANZADO",
-        "id":  "cactus-avanzado"
+        "pdf":  "insectos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/insectos",
+        "nombre":  "insectos",
+        "id":  "insectos",
+        "image":  "insectos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/camellos/",
-        "nombre":  "CAMELLOS",
-        "id":  "camellos"
+        "pdf":  "lombrices.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/lombrices",
+        "nombre":  "lombrices",
+        "id":  "lombrices",
+        "image":  "lombrices.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/camuflaje-animal/",
-        "nombre":  "CAMUFLAJE ANIMAL",
-        "id":  "camuflaje-animal"
+        "pdf":  "invertebrados-marinos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/invertebrados-marinos",
+        "nombre":  "invertebrados marinos",
+        "id":  "invertebrados-marinos",
+        "image":  "invertebrados-marinos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/camuflaje-animal-avanzado/",
-        "nombre":  "CAMUFLAJE ANIMAL AVANZADO",
-        "id":  "camuflaje-animal-avanzado"
+        "pdf":  "odonatos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/odonatos",
+        "nombre":  "odonatos",
+        "id":  "odonatos",
+        "image":  "odonatos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/carbn/",
-        "nombre":  "CARBN",
-        "id":  "carbn"
+        "pdf":  "reptiles-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/reptiles-avanzado",
+        "nombre":  "reptiles avanzado",
+        "id":  "reptiles-avanzado",
+        "image":  "reptiles-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/cataratas/",
-        "nombre":  "CATARATAS",
-        "id":  "cataratas"
+        "pdf":  "reptiles.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/reptiles",
+        "nombre":  "reptiles",
+        "id":  "reptiles",
+        "image":  "reptiles.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/cetceos/",
-        "nombre":  "CETCEOS",
-        "id":  "cetceos"
+        "pdf":  "ros-y-arroyos-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/ros-y-arroyos-avanzado",
+        "nombre":  "ros y arroyos avanzado",
+        "id":  "ros-y-arroyos-avanzado",
+        "image":  "ros-y-arroyos-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/ciencia-de-agua/",
-        "nombre":  "CIENCIA DE AGUA",
-        "id":  "ciencia-de-agua"
+        "pdf":  "ros-y-arroyos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/ros-y-arroyos",
+        "nombre":  "ros y arroyos",
+        "id":  "ros-y-arroyos",
+        "image":  "ros-y-arroyos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/ciencia-de-agua-avanzado/",
-        "nombre":  "CIENCIA DE AGUA AVANZADO",
-        "id":  "ciencia-de-agua-avanzado"
+        "pdf":  "recogida-selectiva.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/recogida-selectiva",
+        "nombre":  "recogida selectiva",
+        "id":  "recogida-selectiva",
+        "image":  "recogida-selectiva.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/ciencia-del-clima/",
-        "nombre":  "CIENCIA DEL CLIMA",
-        "id":  "ciencia-del-clima"
+        "pdf":  "rboles-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/rboles-avanzado",
+        "nombre":  "rboles avanzado",
+        "id":  "rboles-avanzado",
+        "image":  "rboles-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/ciencia-del-clima-avanzado/",
-        "nombre":  "CIENCIA DEL CLIMA AVANZADO",
-        "id":  "ciencia-del-clima-avanzado"
+        "pdf":  "rboles.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/rboles",
+        "nombre":  "rboles",
+        "id":  "rboles",
+        "image":  "rboles.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/citologa/",
-        "nombre":  "CITOLOGA",
-        "id":  "citologa"
+        "pdf":  "reciclaje-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/reciclaje-avanzado",
+        "nombre":  "reciclaje avanzado",
+        "id":  "reciclaje-avanzado",
+        "image":  "reciclaje-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/climatologa/",
-        "nombre":  "CLIMATOLOGA",
-        "id":  "climatologa"
+        "pdf":  "reciclaje.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/reciclaje",
+        "nombre":  "reciclaje",
+        "id":  "reciclaje",
+        "image":  "reciclaje.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/combustibles-alternativos/",
-        "nombre":  "COMBUSTIBLES ALTERNATIVOS",
-        "id":  "combustibles-alternativos"
+        "pdf":  "taiga-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/taiga-avanzado",
+        "nombre":  "taiga avanzado",
+        "id":  "taiga-avanzado",
+        "image":  "taiga-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/combustibles-alternativos-avanzado/",
-        "nombre":  "COMBUSTIBLES ALTERNATIVOS AVANZADO",
-        "id":  "combustibles-alternativos-avanzado"
+        "pdf":  "taiga.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/taiga",
+        "nombre":  "taiga",
+        "id":  "taiga",
+        "image":  "taiga.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/conservacin-ambiental/",
-        "nombre":  "CONSERVACIN AMBIENTAL",
-        "id":  "conservacin-ambiental"
+        "pdf":  "vida-microscpica.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/vida-microscpica",
+        "nombre":  "vida microscpica",
+        "id":  "vida-microscpica",
+        "image":  "vida-microscpica.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/coqu/",
-        "nombre":  "COQU",
-        "id":  "coqu"
+        "pdf":  "tiburones.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/tiburones",
+        "nombre":  "tiburones",
+        "id":  "tiburones",
+        "image":  "tiburones.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/coqu-avanzado/",
-        "nombre":  "COQU AVANZADO",
-        "id":  "coqu-avanzado"
+        "pdf":  "suelos-y-terrenos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/suelos-y-terrenos",
+        "nombre":  "suelos y terrenos",
+        "id":  "suelos-y-terrenos",
+        "image":  "suelos-y-terrenos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/cosmografa/",
-        "nombre":  "COSMOGRAFA",
-        "id":  "cosmografa"
+        "pdf":  "semillas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/semillas",
+        "nombre":  "semillas",
+        "id":  "semillas",
+        "image":  "semillas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/cosmografa-avanzado/",
-        "nombre":  "COSMOGRAFA AVANZADO",
-        "id":  "cosmografa-avanzado"
+        "pdf":  "selvas-pluviales.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/selvas-pluviales",
+        "nombre":  "selvas pluviales",
+        "id":  "selvas-pluviales",
+        "image":  "selvas-pluviales.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/crustceos/",
-        "nombre":  "CRUSTCEOS",
-        "id":  "crustceos"
+        "pdf":  "sol-de-medianoche.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/sol-de-medianoche",
+        "nombre":  "sol de medianoche",
+        "id":  "sol-de-medianoche",
+        "image":  "sol-de-medianoche.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/cuidado-y-entrenamiento-de-perros/",
-        "nombre":  "CUIDADO Y ENTRENAMIENTO DE PERROS",
-        "id":  "cuidado-y-entrenamiento-de-perros"
+        "pdf":  "semillas-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/semillas-avanzado",
+        "nombre":  "semillas avanzado",
+        "id":  "semillas-avanzado",
+        "image":  "semillas-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/dinosaurios/",
-        "nombre":  "DINOSAURIOS",
-        "id":  "dinosaurios"
+        "pdf":  "papagayos-loros-y-pericos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/papagayos-loros-y-pericos",
+        "nombre":  "papagayos loros y pericos",
+        "id":  "papagayos-loros-y-pericos",
+        "image":  "papagayos-loros-y-pericos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/dunas/",
-        "nombre":  "DUNAS",
-        "id":  "dunas"
+        "pdf":  "pantanos-y-cinagas-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/pantanos-y-cinagas-avanzado",
+        "nombre":  "pantanos y cinagas avanzado",
+        "id":  "pantanos-y-cinagas-avanzado",
+        "image":  "pantanos-y-cinagas-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/dunas-avanzado/",
-        "nombre":  "DUNAS AVANZADO",
-        "id":  "dunas-avanzado"
+        "pdf":  "pastizales-templados-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/pastizales-templados-avanzado",
+        "nombre":  "pastizales templados avanzado",
+        "id":  "pastizales-templados-avanzado",
+        "image":  "pastizales-templados-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/ecologa/",
-        "nombre":  "ECOLOGA",
-        "id":  "ecologa"
+        "pdf":  "pastizales-templados.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/pastizales-templados",
+        "nombre":  "pastizales templados",
+        "id":  "pastizales-templados",
+        "image":  "pastizales-templados.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/ecologa-avanzado/",
-        "nombre":  "ECOLOGA AVANZADO",
-        "id":  "ecologa-avanzado"
+        "pdf":  "pantanos-y-cinagas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/pantanos-y-cinagas",
+        "nombre":  "pantanos y cinagas",
+        "id":  "pantanos-y-cinagas",
+        "image":  "pantanos-y-cinagas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/energa-renovable/",
-        "nombre":  "ENERGA RENOVABLE",
-        "id":  "energa-renovable"
+        "pdf":  "orqudeas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/orqudeas",
+        "nombre":  "orqudeas",
+        "id":  "orqudeas",
+        "image":  "orqudeas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/energas-renovables/",
-        "nombre":  "ENERGAS RENOVABLES",
-        "id":  "energas-renovables"
+        "pdf":  "odonatos-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/odonatos-avanzado",
+        "nombre":  "odonatos avanzado",
+        "id":  "odonatos-avanzado",
+        "image":  "odonatos-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/especies-en-peligro-de-extincin/",
-        "nombre":  "ESPECIES EN PELIGRO DE EXTINCIN",
-        "id":  "especies-en-peligro-de-extincin"
+        "pdf":  "palmeras.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/palmeras",
+        "nombre":  "palmeras",
+        "id":  "palmeras",
+        "image":  "palmeras.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/estuarios/",
-        "nombre":  "ESTUARIOS",
-        "id":  "estuarios"
+        "pdf":  "orqudeas-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/orqudeas-avanzado",
+        "nombre":  "orqudeas avanzado",
+        "id":  "orqudeas-avanzado",
+        "image":  "orqudeas-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/eucaliptos/",
-        "nombre":  "EUCALIPTOS",
-        "id":  "eucaliptos"
+        "pdf":  "porferos-y-cnidarios.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/porferos-y-cnidarios",
+        "nombre":  "porferos y cnidarios",
+        "id":  "porferos-y-cnidarios",
+        "image":  "porferos-y-cnidarios.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/fauna-marina/",
-        "nombre":  "FAUNA MARINA",
-        "id":  "fauna-marina"
+        "pdf":  "plantas-silvestres-comestibles.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/plantas-silvestres-comestibles",
+        "nombre":  "plantas silvestres comestibles",
+        "id":  "plantas-silvestres-comestibles",
+        "image":  "plantas-silvestres-comestibles.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/fisiologa-vegetal/",
-        "nombre":  "FISIOLOGA VEGETAL",
-        "id":  "fisiologa-vegetal"
+        "pdf":  "protozoarios.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/protozoarios",
+        "nombre":  "protozoarios",
+        "id":  "protozoarios",
+        "image":  "protozoarios.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/flores/",
-        "nombre":  "FLORES",
-        "id":  "flores"
+        "pdf":  "preservacin-de-recursos-hdricos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/preservacin-de-recursos-hdricos",
+        "nombre":  "preservacin de recursos hdricos",
+        "id":  "preservacin-de-recursos-hdricos",
+        "image":  "preservacin-de-recursos-hdricos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/flores-avanzado/",
-        "nombre":  "FLORES AVANZADO",
-        "id":  "flores-avanzado"
+        "pdf":  "plantas-depredadoras.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/plantas-depredadoras",
+        "nombre":  "plantas depredadoras",
+        "id":  "plantas-depredadoras",
+        "image":  "plantas-depredadoras.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/fsiles/",
-        "nombre":  "FSILES",
-        "id":  "fsiles"
+        "pdf":  "perros.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/perros",
+        "nombre":  "perros",
+        "id":  "perros",
+        "image":  "perros.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/gatos/",
-        "nombre":  "GATOS",
-        "id":  "gatos"
+        "pdf":  "peces.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/peces",
+        "nombre":  "peces",
+        "id":  "peces",
+        "image":  "peces.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/gatos-avanzado/",
-        "nombre":  "GATOS AVANZADO",
-        "id":  "gatos-avanzado"
+        "pdf":  "plantas-de-interior.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/plantas-de-interior",
+        "nombre":  "plantas de interior",
+        "id":  "plantas-de-interior",
+        "image":  "plantas-de-interior.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/geologa/",
-        "nombre":  "GEOLOGA",
-        "id":  "geologa"
+        "pdf":  "plantas-carnvoras.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/plantas-carnvoras",
+        "nombre":  "plantas carnvoras",
+        "id":  "plantas-carnvoras",
+        "image":  "plantas-carnvoras.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/geologa-avanzado/",
-        "nombre":  "GEOLOGA AVANZADO",
-        "id":  "geologa-avanzado"
+        "pdf":  "aves-domsticas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/aves-domsticas",
+        "nombre":  "aves domsticas",
+        "id":  "aves-domsticas",
+        "image":  "aves-domsticas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/glaciares/",
-        "nombre":  "GLACIARES",
-        "id":  "glaciares"
+        "pdf":  "aves-de-rapia-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/aves-de-rapia-avanzado",
+        "nombre":  "aves de rapia avanzado",
+        "id":  "aves-de-rapia-avanzado",
+        "image":  "aves-de-rapia-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/gramneas/",
-        "nombre":  "GRAMNEAS",
-        "id":  "gramneas"
+        "pdf":  "azcar-de-arce-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/azcar-de-arce-avanzado",
+        "nombre":  "azcar de arce avanzado",
+        "id":  "azcar-de-arce-avanzado",
+        "image":  "azcar-de-arce-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/helechos/",
-        "nombre":  "HELECHOS",
-        "id":  "helechos"
+        "pdf":  "azcar-de-arce.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/azcar-de-arce",
+        "nombre":  "azcar de arce",
+        "id":  "azcar-de-arce",
+        "image":  "azcar-de-arce.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/hierbas/",
-        "nombre":  "HIERBAS",
-        "id":  "hierbas"
+        "pdf":  "aves-de-rapia.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/aves-de-rapia",
+        "nombre":  "aves de rapia",
+        "id":  "aves-de-rapia",
+        "image":  "aves-de-rapia.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/hongos/",
-        "nombre":  "HONGOS",
-        "id":  "hongos"
+        "pdf":  "aves-australianas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/aves-australianas",
+        "nombre":  "aves australianas",
+        "id":  "aves-australianas",
+        "image":  "aves-australianas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/hormigas/",
-        "nombre":  "HORMIGAS",
-        "id":  "hormigas"
+        "pdf":  "aves.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/aves",
+        "nombre":  "aves",
+        "id":  "aves",
+        "image":  "aves.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/huellas-de-animales/",
-        "nombre":  "HUELLAS DE ANIMALES",
-        "id":  "huellas-de-animales"
+        "pdf":  "aves-de-jaula.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/aves-de-jaula",
+        "nombre":  "aves de jaula",
+        "id":  "aves-de-jaula",
+        "image":  "aves-de-jaula.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/huellas-de-animales-avanzado/",
-        "nombre":  "HUELLAS DE ANIMALES AVANZADO",
-        "id":  "huellas-de-animales-avanzado"
+        "pdf":  "aves-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/aves-avanzado",
+        "nombre":  "aves avanzado",
+        "id":  "aves-avanzado",
+        "image":  "aves-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/insectos/",
-        "nombre":  "INSECTOS",
-        "id":  "insectos"
+        "pdf":  "cactus-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/cactus-avanzado",
+        "nombre":  "cactus avanzado",
+        "id":  "cactus-avanzado",
+        "image":  "cactus-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/insectos-avanzado/",
-        "nombre":  "INSECTOS AVANZADO",
-        "id":  "insectos-avanzado"
+        "pdf":  "cactus.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/cactus",
+        "nombre":  "cactus",
+        "id":  "cactus",
+        "image":  "cactus.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/invertebrados-marinos/",
-        "nombre":  "INVERTEBRADOS MARINOS",
-        "id":  "invertebrados-marinos"
+        "pdf":  "camuflaje-animal.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/camuflaje-animal",
+        "nombre":  "camuflaje animal",
+        "id":  "camuflaje-animal",
+        "image":  "camuflaje-animal.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/lombrices/",
-        "nombre":  "LOMBRICES",
-        "id":  "lombrices"
+        "pdf":  "camellos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/camellos",
+        "nombre":  "camellos",
+        "id":  "camellos",
+        "image":  "camellos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/lombrices-avanzado/",
-        "nombre":  "LOMBRICES AVANZADO",
-        "id":  "lombrices-avanzado"
+        "pdf":  "burbujas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/burbujas",
+        "nombre":  "burbujas",
+        "id":  "burbujas",
+        "image":  "burbujas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/loros-y-cacatas/",
-        "nombre":  "LOROS Y CACATAS",
-        "id":  "loros-y-cacatas"
+        "pdf":  "bioconstruccin.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/bioconstruccin",
+        "nombre":  "bioconstruccin",
+        "id":  "bioconstruccin",
+        "image":  "bioconstruccin.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/lquenes/",
-        "nombre":  "LQUENES",
-        "id":  "lquenes"
+        "pdf":  "bacterias.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/bacterias",
+        "nombre":  "bacterias",
+        "id":  "bacterias",
+        "image":  "bacterias.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/lquenes-hepticas-y-musgos/",
-        "nombre":  "LQUENES HEPTICAS Y MUSGOS",
-        "id":  "lquenes-hepticas-y-musgos"
+        "pdf":  "brifitas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/brifitas",
+        "nombre":  "brifitas",
+        "id":  "brifitas",
+        "image":  "brifitas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/mamferos/",
-        "nombre":  "MAMFEROS",
-        "id":  "mamferos"
+        "pdf":  "bosques-templados-caducifolios.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/bosques-templados-caducifolios",
+        "nombre":  "bosques templados caducifolios",
+        "id":  "bosques-templados-caducifolios",
+        "image":  "bosques-templados-caducifolios.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/mamferos-avanzado/",
-        "nombre":  "MAMFEROS AVANZADO",
-        "id":  "mamferos-avanzado"
+        "pdf":  "animales-domsticos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/animales-domsticos",
+        "nombre":  "animales domsticos",
+        "id":  "animales-domsticos",
+        "image":  "animales-domsticos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/mamferos-marinos/",
-        "nombre":  "MAMFEROS MARINOS",
-        "id":  "mamferos-marinos"
+        "pdf":  "anfibios-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/anfibios-avanzado",
+        "nombre":  "anfibios avanzado",
+        "id":  "anfibios-avanzado",
+        "image":  "anfibios-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/mamferos-pequeos-como-mascotas/",
-        "nombre":  "MAMFEROS PEQUEOS COMO MASCOTAS",
-        "id":  "mamferos-pequeos-como-mascotas"
+        "pdf":  "animales-nocturnos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/animales-nocturnos",
+        "nombre":  "animales nocturnos",
+        "id":  "animales-nocturnos",
+        "image":  "animales-nocturnos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/mariposas/",
-        "nombre":  "MARIPOSAS",
-        "id":  "mariposas"
+        "pdf":  "animales-nocivos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/animales-nocivos",
+        "nombre":  "animales nocivos",
+        "id":  "animales-nocivos",
+        "image":  "animales-nocivos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/marsupiales/",
-        "nombre":  "MARSUPIALES",
-        "id":  "marsupiales"
+        "pdf":  "anfibios.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/anfibios",
+        "nombre":  "anfibios",
+        "id":  "anfibios",
+        "image":  "anfibios.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/medio-ambiente-acutico/",
-        "nombre":  "MEDIO AMBIENTE ACUTICO",
-        "id":  "medio-ambiente-acutico"
+        "pdf":  "acuarios.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/acuarios",
+        "nombre":  "acuarios",
+        "id":  "acuarios",
+        "image":  "acuarios.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/medio-ambiente-terrestre/",
-        "nombre":  "MEDIO AMBIENTE TERRESTRE",
-        "id":  "medio-ambiente-terrestre"
+        "pdf":  "acacias.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/acacias",
+        "nombre":  "acacias",
+        "id":  "acacias",
+        "image":  "acacias.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/meteoritos/",
-        "nombre":  "METEORITOS",
-        "id":  "meteoritos"
+        "pdf":  "algas-marinas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/algas-marinas",
+        "nombre":  "algas marinas",
+        "id":  "algas-marinas",
+        "image":  "algas-marinas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/migracin/",
-        "nombre":  "MIGRACIN",
-        "id":  "migracin"
+        "pdf":  "agricultura-ecolgica.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/agricultura-ecolgica",
+        "nombre":  "agricultura ecolgica",
+        "id":  "agricultura-ecolgica",
+        "image":  "agricultura-ecolgica.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/mineraloga/",
-        "nombre":  "MINERALOGA",
-        "id":  "mineraloga"
+        "pdf":  "arena.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/arena",
+        "nombre":  "arena",
+        "id":  "arena",
+        "image":  "arena.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/mineraloga-avanzado/",
-        "nombre":  "MINERALOGA AVANZADO",
-        "id":  "mineraloga-avanzado"
+        "pdf":  "arcnidos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/arcnidos",
+        "nombre":  "arcnidos",
+        "id":  "arcnidos",
+        "image":  "arcnidos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/moluscos/",
-        "nombre":  "MOLUSCOS",
-        "id":  "moluscos"
+        "pdf":  "arrecifes-de-coral-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/arrecifes-de-coral-avanzado",
+        "nombre":  "arrecifes de coral avanzado",
+        "id":  "arrecifes-de-coral-avanzado",
+        "image":  "arrecifes-de-coral-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/moluscos-avanzado/",
-        "nombre":  "MOLUSCOS AVANZADO",
-        "id":  "moluscos-avanzado"
+        "pdf":  "arrecifes-de-coral.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/arrecifes-de-coral",
+        "nombre":  "arrecifes de coral",
+        "id":  "arrecifes-de-coral",
+        "image":  "arrecifes-de-coral.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/moluscos-terrestres-y-de-agua-dulce/",
-        "nombre":  "MOLUSCOS TERRESTRES Y DE AGUA DULCE",
-        "id":  "moluscos-terrestres-y-de-agua-dulce"
+        "pdf":  "arbustos-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/arbustos-avanzado",
+        "nombre":  "arbustos avanzado",
+        "id":  "arbustos-avanzado",
+        "image":  "arbustos-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/montaas/",
-        "nombre":  "MONTAAS",
-        "id":  "montaas"
+        "pdf":  "antlopes.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/antlopes",
+        "nombre":  "antlopes",
+        "id":  "antlopes",
+        "image":  "antlopes.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/murcilagos/",
-        "nombre":  "MURCILAGOS",
-        "id":  "murcilagos"
+        "pdf":  "animales-venenosos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/animales-venenosos",
+        "nombre":  "animales venenosos",
+        "id":  "animales-venenosos",
+        "image":  "animales-venenosos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/murcilagos-avanzado/",
-        "nombre":  "MURCILAGOS AVANZADO",
-        "id":  "murcilagos-avanzado"
+        "pdf":  "arbustos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/arbustos",
+        "nombre":  "arbustos",
+        "id":  "arbustos",
+        "image":  "arbustos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/ocanos/",
-        "nombre":  "OCANOS",
-        "id":  "ocanos"
+        "pdf":  "antlopes-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/antlopes-avanzado",
+        "nombre":  "antlopes avanzado",
+        "id":  "antlopes-avanzado",
+        "image":  "antlopes-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/odonatos/",
-        "nombre":  "ODONATOS",
-        "id":  "odonatos"
+        "pdf":  "camuflaje-animal-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/camuflaje-animal-avanzado",
+        "nombre":  "camuflaje animal avanzado",
+        "id":  "camuflaje-animal-avanzado",
+        "image":  "camuflaje-animal-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/odonatos-avanzado/",
-        "nombre":  "ODONATOS AVANZADO",
-        "id":  "odonatos-avanzado"
+        "pdf":  "energas-renovables.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/energas-renovables",
+        "nombre":  "energas renovables",
+        "id":  "energas-renovables",
+        "image":  "energas-renovables.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/orqudeas/",
-        "nombre":  "ORQUDEAS",
-        "id":  "orqudeas"
+        "pdf":  "energa-renovable.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/energa-renovable",
+        "nombre":  "energa renovable",
+        "id":  "energa-renovable",
+        "image":  "energa-renovable.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/orqudeas-avanzado/",
-        "nombre":  "ORQUDEAS AVANZADO",
-        "id":  "orqudeas-avanzado"
+        "pdf":  "estuarios.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/estuarios",
+        "nombre":  "estuarios",
+        "id":  "estuarios",
+        "image":  "estuarios.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/palmeras/",
-        "nombre":  "PALMERAS",
-        "id":  "palmeras"
+        "pdf":  "especies-en-peligro-de-extincin.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/especies-en-peligro-de-extincin",
+        "nombre":  "especies en peligro de extincin",
+        "id":  "especies-en-peligro-de-extincin",
+        "image":  "especies-en-peligro-de-extincin.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/pantanos-y-cinagas/",
-        "nombre":  "PANTANOS Y CINAGAS",
-        "id":  "pantanos-y-cinagas"
+        "pdf":  "ecologa-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/ecologa-avanzado",
+        "nombre":  "ecologa avanzado",
+        "id":  "ecologa-avanzado",
+        "image":  "ecologa-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/pantanos-y-cinagas-avanzado/",
-        "nombre":  "PANTANOS Y CINAGAS AVANZADO",
-        "id":  "pantanos-y-cinagas-avanzado"
+        "pdf":  "dunas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/dunas",
+        "nombre":  "dunas",
+        "id":  "dunas",
+        "image":  "dunas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/papagayos-loros-y-pericos/",
-        "nombre":  "PAPAGAYOS LOROS Y PERICOS",
-        "id":  "papagayos-loros-y-pericos"
+        "pdf":  "dinosaurios.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/dinosaurios",
+        "nombre":  "dinosaurios",
+        "id":  "dinosaurios",
+        "image":  "dinosaurios.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/pastizales-templados/",
-        "nombre":  "PASTIZALES TEMPLADOS",
-        "id":  "pastizales-templados"
+        "pdf":  "ecologa.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/ecologa",
+        "nombre":  "ecologa",
+        "id":  "ecologa",
+        "image":  "ecologa.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/pastizales-templados-avanzado/",
-        "nombre":  "PASTIZALES TEMPLADOS AVANZADO",
-        "id":  "pastizales-templados-avanzado"
+        "pdf":  "dunas-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/dunas-avanzado",
+        "nombre":  "dunas avanzado",
+        "id":  "dunas-avanzado",
+        "image":  "dunas-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/peces/",
-        "nombre":  "PECES",
-        "id":  "peces"
+        "pdf":  "gatos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/gatos",
+        "nombre":  "gatos",
+        "id":  "gatos",
+        "image":  "gatos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/perros/",
-        "nombre":  "PERROS",
-        "id":  "perros"
+        "pdf":  "fsiles.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/fsiles",
+        "nombre":  "fsiles",
+        "id":  "fsiles",
+        "image":  "fsiles.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/plantas-carnvoras/",
-        "nombre":  "PLANTAS CARNVORAS",
-        "id":  "plantas-carnvoras"
+        "pdf":  "geologa.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/geologa",
+        "nombre":  "geologa",
+        "id":  "geologa",
+        "image":  "geologa.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/plantas-de-interior/",
-        "nombre":  "PLANTAS DE INTERIOR",
-        "id":  "plantas-de-interior"
+        "pdf":  "gatos-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/gatos-avanzado",
+        "nombre":  "gatos avanzado",
+        "id":  "gatos-avanzado",
+        "image":  "gatos-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/plantas-depredadoras/",
-        "nombre":  "PLANTAS DEPREDADORAS",
-        "id":  "plantas-depredadoras"
+        "pdf":  "flores-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/flores-avanzado",
+        "nombre":  "flores avanzado",
+        "id":  "flores-avanzado",
+        "image":  "flores-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/plantas-silvestres-comestibles/",
-        "nombre":  "PLANTAS SILVESTRES COMESTIBLES",
-        "id":  "plantas-silvestres-comestibles"
+        "pdf":  "fauna-marina.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/fauna-marina",
+        "nombre":  "fauna marina",
+        "id":  "fauna-marina",
+        "image":  "fauna-marina.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/porferos-y-cnidarios/",
-        "nombre":  "PORFEROS Y CNIDARIOS",
-        "id":  "porferos-y-cnidarios"
+        "pdf":  "eucaliptos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/eucaliptos",
+        "nombre":  "eucaliptos",
+        "id":  "eucaliptos",
+        "image":  "eucaliptos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/preservacin-de-recursos-hdricos/",
-        "nombre":  "PRESERVACIN DE RECURSOS HDRICOS",
-        "id":  "preservacin-de-recursos-hdricos"
+        "pdf":  "flores.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/flores",
+        "nombre":  "flores",
+        "id":  "flores",
+        "image":  "flores.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/protozoarios/",
-        "nombre":  "PROTOZOARIOS",
-        "id":  "protozoarios"
+        "pdf":  "fisiologa-vegetal.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/fisiologa-vegetal",
+        "nombre":  "fisiologa vegetal",
+        "id":  "fisiologa-vegetal",
+        "image":  "fisiologa-vegetal.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/rboles/",
-        "nombre":  "RBOLES",
-        "id":  "rboles"
+        "pdf":  "ciencia-del-clima-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/ciencia-del-clima-avanzado",
+        "nombre":  "ciencia del clima avanzado",
+        "id":  "ciencia-del-clima-avanzado",
+        "image":  "ciencia-del-clima-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/rboles-avanzado/",
-        "nombre":  "RBOLES AVANZADO",
-        "id":  "rboles-avanzado"
+        "pdf":  "ciencia-del-clima.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/ciencia-del-clima",
+        "nombre":  "ciencia del clima",
+        "id":  "ciencia-del-clima",
+        "image":  "ciencia-del-clima.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/reciclaje/",
-        "nombre":  "RECICLAJE",
-        "id":  "reciclaje"
+        "pdf":  "climatologa.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/climatologa",
+        "nombre":  "climatologa",
+        "id":  "climatologa",
+        "image":  "climatologa.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/reciclaje-avanzado/",
-        "nombre":  "RECICLAJE AVANZADO",
-        "id":  "reciclaje-avanzado"
+        "pdf":  "citologa.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/citologa",
+        "nombre":  "citologa",
+        "id":  "citologa",
+        "image":  "citologa.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/recogida-selectiva/",
-        "nombre":  "RECOGIDA SELECTIVA",
-        "id":  "recogida-selectiva"
+        "pdf":  "ciencia-de-agua-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/ciencia-de-agua-avanzado",
+        "nombre":  "ciencia de agua avanzado",
+        "id":  "ciencia-de-agua-avanzado",
+        "image":  "ciencia-de-agua-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/reptiles/",
-        "nombre":  "REPTILES",
-        "id":  "reptiles"
+        "pdf":  "cataratas.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/cataratas",
+        "nombre":  "cataratas",
+        "id":  "cataratas",
+        "image":  "cataratas.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/reptiles-avanzado/",
-        "nombre":  "REPTILES AVANZADO",
-        "id":  "reptiles-avanzado"
+        "pdf":  "carbn.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/carbn",
+        "nombre":  "carbn",
+        "id":  "carbn",
+        "image":  "carbn.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/ros-y-arroyos/",
-        "nombre":  "ROS Y ARROYOS",
-        "id":  "ros-y-arroyos"
+        "pdf":  "ciencia-de-agua.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/ciencia-de-agua",
+        "nombre":  "ciencia de agua",
+        "id":  "ciencia-de-agua",
+        "image":  "ciencia-de-agua.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/ros-y-arroyos-avanzado/",
-        "nombre":  "ROS Y ARROYOS AVANZADO",
-        "id":  "ros-y-arroyos-avanzado"
+        "pdf":  "cetceos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/cetceos",
+        "nombre":  "cetceos",
+        "id":  "cetceos",
+        "image":  "cetceos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/selvas-pluviales/",
-        "nombre":  "SELVAS PLUVIALES",
-        "id":  "selvas-pluviales"
+        "pdf":  "cosmografa-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/cosmografa-avanzado",
+        "nombre":  "cosmografa avanzado",
+        "id":  "cosmografa-avanzado",
+        "image":  "cosmografa-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/semillas/",
-        "nombre":  "SEMILLAS",
-        "id":  "semillas"
+        "pdf":  "cosmografa.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/cosmografa",
+        "nombre":  "cosmografa",
+        "id":  "cosmografa",
+        "image":  "cosmografa.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/semillas-avanzado/",
-        "nombre":  "SEMILLAS AVANZADO",
-        "id":  "semillas-avanzado"
+        "pdf":  "cuidado-y-entrenamiento-de-perros.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/cuidado-y-entrenamiento-de-perros",
+        "nombre":  "cuidado y entrenamiento de perros",
+        "id":  "cuidado-y-entrenamiento-de-perros",
+        "image":  "cuidado-y-entrenamiento-de-perros.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/sol-de-medianoche/",
-        "nombre":  "SOL DE MEDIANOCHE",
-        "id":  "sol-de-medianoche"
+        "pdf":  "crustceos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/crustceos",
+        "nombre":  "crustceos",
+        "id":  "crustceos",
+        "image":  "crustceos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/suelos-y-terrenos/",
-        "nombre":  "SUELOS Y TERRENOS",
-        "id":  "suelos-y-terrenos"
+        "pdf":  "coqu-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/coqu-avanzado",
+        "nombre":  "coqu avanzado",
+        "id":  "coqu-avanzado",
+        "image":  "coqu-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/taiga/",
-        "nombre":  "TAIGA",
-        "id":  "taiga"
+        "pdf":  "combustibles-alternativos-avanzado.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/combustibles-alternativos-avanzado",
+        "nombre":  "combustibles alternativos avanzado",
+        "id":  "combustibles-alternativos-avanzado",
+        "image":  "combustibles-alternativos-avanzado.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/taiga-avanzado/",
-        "nombre":  "TAIGA AVANZADO",
-        "id":  "taiga-avanzado"
+        "pdf":  "combustibles-alternativos.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/combustibles-alternativos",
+        "nombre":  "combustibles alternativos",
+        "id":  "combustibles-alternativos",
+        "image":  "combustibles-alternativos.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/tiburones/",
-        "nombre":  "TIBURONES",
-        "id":  "tiburones"
+        "pdf":  "coqu.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/coqu",
+        "nombre":  "coqu",
+        "id":  "coqu",
+        "image":  "coqu.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/estudio-de-la-naturaleza/vida-microscpica/",
-        "nombre":  "VIDA MICROSCPICA",
-        "id":  "vida-microscpica"
+        "pdf":  "conservacin-ambiental.pdf",
+        "path":  "especialidades/estudio-de-la-naturaleza/conservacin-ambiental",
+        "nombre":  "conservacin ambiental",
+        "id":  "conservacin-ambiental",
+        "image":  "conservacin-ambiental.png"
     }
 ]

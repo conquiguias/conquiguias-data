@@ -1,47 +1,65 @@
 ﻿[
     {
-        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/asistencia-a-los-refugiados/",
-        "nombre":  "ASISTENCIA A LOS REFUGIADOS",
-        "id":  "asistencia-a-los-refugiados"
+        "pdf":  "ministerio-de-alimentacin.pdf",
+        "path":  "especialidades/servicios-comunitarios-adventistas/ministerio-de-alimentacin",
+        "nombre":  "ministerio de alimentacin",
+        "id":  "ministerio-de-alimentacin",
+        "image":  "ministerio-de-alimentacin.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/desarrollo-rural/",
-        "nombre":  "DESARROLLO RURAL",
-        "id":  "desarrollo-rural"
+        "pdf":  "ministerio-ante-el-desastre.pdf",
+        "path":  "especialidades/servicios-comunitarios-adventistas/ministerio-ante-el-desastre",
+        "nombre":  "ministerio ante el desastre",
+        "id":  "ministerio-ante-el-desastre",
+        "image":  "ministerio-ante-el-desastre.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/evaluacin-comunitaria/",
-        "nombre":  "EVALUACIN COMUNITARIA",
-        "id":  "evaluacin-comunitaria"
+        "pdf":  "tutora.pdf",
+        "path":  "especialidades/servicios-comunitarios-adventistas/tutora",
+        "nombre":  "tutora",
+        "id":  "tutora",
+        "image":  "tutora.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/intervencin-en-crisis/",
-        "nombre":  "INTERVENCIN EN CRISIS",
-        "id":  "intervencin-en-crisis"
+        "pdf":  "sirviendo-a-las-comunidades.pdf",
+        "path":  "especialidades/servicios-comunitarios-adventistas/sirviendo-a-las-comunidades",
+        "nombre":  "sirviendo a las comunidades",
+        "id":  "sirviendo-a-las-comunidades",
+        "image":  "sirviendo-a-las-comunidades.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/mejoramiento-de-la-comunidad/",
-        "nombre":  "MEJORAMIENTO DE LA COMUNIDAD",
-        "id":  "mejoramiento-de-la-comunidad"
+        "pdf":  "mejoramiento-de-la-comunidad.pdf",
+        "path":  "especialidades/servicios-comunitarios-adventistas/mejoramiento-de-la-comunidad",
+        "nombre":  "mejoramiento de la comunidad",
+        "id":  "mejoramiento-de-la-comunidad",
+        "image":  "mejoramiento-de-la-comunidad.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/ministerio-ante-el-desastre/",
-        "nombre":  "MINISTERIO ANTE EL DESASTRE",
-        "id":  "ministerio-ante-el-desastre"
+        "pdf":  "desarrollo-rural.pdf",
+        "path":  "especialidades/servicios-comunitarios-adventistas/desarrollo-rural",
+        "nombre":  "desarrollo rural",
+        "id":  "desarrollo-rural",
+        "image":  "desarrollo-rural.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/ministerio-de-alimentacin/",
-        "nombre":  "MINISTERIO DE ALIMENTACIN",
-        "id":  "ministerio-de-alimentacin"
+        "pdf":  "asistencia-a-los-refugiados.pdf",
+        "path":  "especialidades/servicios-comunitarios-adventistas/asistencia-a-los-refugiados",
+        "nombre":  "asistencia a los refugiados",
+        "id":  "asistencia-a-los-refugiados",
+        "image":  "asistencia-a-los-refugiados.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/sirviendo-a-las-comunidades/",
-        "nombre":  "SIRVIENDO A LAS COMUNIDADES",
-        "id":  "sirviendo-a-las-comunidades"
+        "pdf":  "intervencin-en-crisis.pdf",
+        "path":  "especialidades/servicios-comunitarios-adventistas/intervencin-en-crisis",
+        "nombre":  "intervencin en crisis",
+        "id":  "intervencin-en-crisis",
+        "image":  "intervencin-en-crisis.png"
     },
     {
-        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/tutora/",
-        "nombre":  "TUTORA",
-        "id":  "tutora"
+        "pdf":  "evaluacin-comunitaria.pdf",
+        "path":  "especialidades/servicios-comunitarios-adventistas/evaluacin-comunitaria",
+        "nombre":  "evaluacin comunitaria",
+        "id":  "evaluacin-comunitaria",
+        "image":  "evaluacin-comunitaria.png"
     }
 ]

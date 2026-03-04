@@ -1,0 +1,142 @@
+﻿[
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/01-la-palabra-de-dios/",
+        "nombre":  "01 LA PALABRA DE DIOS",
+        "id":  "01-la-palabra-de-dios"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/02-la-deidad/",
+        "nombre":  "02 LA DEIDAD",
+        "id":  "02-la-deidad"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/03-dios-el-padre/",
+        "nombre":  "03 DIOS EL PADRE",
+        "id":  "03-dios-el-padre"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/04-dios-el-hijo/",
+        "nombre":  "04 DIOS EL HIJO",
+        "id":  "04-dios-el-hijo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/05-dios-el-espritu-santo/",
+        "nombre":  "05 DIOS EL ESPRITU SANTO",
+        "id":  "05-dios-el-espritu-santo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/06-la-creacin/",
+        "nombre":  "06 LA CREACIN",
+        "id":  "06-la-creacin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/07-la-naturaleza-humana/",
+        "nombre":  "07 LA NATURALEZA HUMANA",
+        "id":  "07-la-naturaleza-humana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/08-el-gran-conflicto/",
+        "nombre":  "08 EL GRAN CONFLICTO",
+        "id":  "08-el-gran-conflicto"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/09-la-vida-muerte-y-resurreccin-de-cristo/",
+        "nombre":  "09 LA VIDA MUERTE Y RESURRECCIN DE CRISTO",
+        "id":  "09-la-vida-muerte-y-resurreccin-de-cristo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/10-la-experiencia-de-la-salvacin/",
+        "nombre":  "10 LA EXPERIENCIA DE LA SALVACIN",
+        "id":  "10-la-experiencia-de-la-salvacin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/11-crecer-en-cristo/",
+        "nombre":  "11 CRECER EN CRISTO",
+        "id":  "11-crecer-en-cristo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/12-la-iglesia/",
+        "nombre":  "12 LA IGLESIA",
+        "id":  "12-la-iglesia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/13-el-remanente-y-su-misin/",
+        "nombre":  "13 EL REMANENTE Y SU MISIN",
+        "id":  "13-el-remanente-y-su-misin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/14-la-unidad-en-el-cuerpo-de-cristo/",
+        "nombre":  "14 LA UNIDAD EN EL CUERPO DE CRISTO",
+        "id":  "14-la-unidad-en-el-cuerpo-de-cristo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/15-el-bautismo/",
+        "nombre":  "15 EL BAUTISMO",
+        "id":  "15-el-bautismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/16-la-cena-del-seor/",
+        "nombre":  "16 LA CENA DEL SEOR",
+        "id":  "16-la-cena-del-seor"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/17-los-dones-y-ministerios-espirituales/",
+        "nombre":  "17 LOS DONES Y MINISTERIOS ESPIRITUALES",
+        "id":  "17-los-dones-y-ministerios-espirituales"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/18-el-don-de-profeca/",
+        "nombre":  "18 EL DON DE PROFECA",
+        "id":  "18-el-don-de-profeca"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/19-la-ley-de-dios/",
+        "nombre":  "19 LA LEY DE DIOS",
+        "id":  "19-la-ley-de-dios"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/20-el-sbado/",
+        "nombre":  "20 EL SBADO",
+        "id":  "20-el-sbado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/21-la-mayordoma/",
+        "nombre":  "21 LA MAYORDOMA",
+        "id":  "21-la-mayordoma"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/22-la-conducta-cristiana/",
+        "nombre":  "22 LA CONDUCTA CRISTIANA",
+        "id":  "22-la-conducta-cristiana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/23-el-matrimonio-y-la-familia/",
+        "nombre":  "23 EL MATRIMONIO Y LA FAMILIA",
+        "id":  "23-el-matrimonio-y-la-familia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/24-el-ministerio-de-cristo-en-el-santuario-celestial/",
+        "nombre":  "24 EL MINISTERIO DE CRISTO EN EL SANTUARIO CELESTIAL",
+        "id":  "24-el-ministerio-de-cristo-en-el-santuario-celestial"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/25-la-segunda-venida-de-cristo/",
+        "nombre":  "25 LA SEGUNDA VENIDA DE CRISTO",
+        "id":  "25-la-segunda-venida-de-cristo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/26-la-muerte-y-la-resurreccin/",
+        "nombre":  "26 LA MUERTE Y LA RESURRECCIN",
+        "id":  "26-la-muerte-y-la-resurreccin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/27-el-milenio-y-el-fin-del-pecado/",
+        "nombre":  "27 EL MILENIO Y EL FIN DEL PECADO",
+        "id":  "27-el-milenio-y-el-fin-del-pecado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/doctrinales/28-la-tierra-nueva/",
+        "nombre":  "28 LA TIERRA NUEVA",
+        "id":  "28-la-tierra-nueva"
+    }
+]

@@ -1,0 +1,127 @@
+﻿[
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/abocetar/",
+        "nombre":  "ABOCETAR",
+        "id":  "abocetar"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/abraham-y-arte-con-arena/",
+        "nombre":  "ABRAHAM Y ARTE CON ARENA",
+        "id":  "abraham-y-arte-con-arena"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/conciencia-de-los-discapacitados/",
+        "nombre":  "CONCIENCIA DE LOS DISCAPACITADOS",
+        "id":  "conciencia-de-los-discapacitados"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/conciencia-de-los-discapacitados-avanzado/",
+        "nombre":  "CONCIENCIA DE LOS DISCAPACITADOS AVANZADO",
+        "id":  "conciencia-de-los-discapacitados-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/cristales/",
+        "nombre":  "CRISTALES",
+        "id":  "cristales"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/cuerdas-altas/",
+        "nombre":  "CUERDAS ALTAS",
+        "id":  "cuerdas-altas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/cuerdas-altas-avanzado/",
+        "nombre":  "CUERDAS ALTAS AVANZADO",
+        "id":  "cuerdas-altas-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/daniel-y-drama/",
+        "nombre":  "DANIEL Y DRAMA",
+        "id":  "daniel-y-drama"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/desastres-naturales/",
+        "nombre":  "DESASTRES NATURALES",
+        "id":  "desastres-naturales"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/ester-y-gourmet-de-cocina/",
+        "nombre":  "ESTER Y GOURMET DE COCINA",
+        "id":  "ester-y-gourmet-de-cocina"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/estudio-de-los-estados/",
+        "nombre":  "ESTUDIO DE LOS ESTADOS",
+        "id":  "estudio-de-los-estados"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/exploracin-espacial/",
+        "nombre":  "EXPLORACIN ESPACIAL",
+        "id":  "exploracin-espacial"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/huracanes/",
+        "nombre":  "HURACANES",
+        "id":  "huracanes"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/jons-y-papel-mach/",
+        "nombre":  "JONS Y PAPEL MACH",
+        "id":  "jons-y-papel-mach"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/jos-y-teido-anudado/",
+        "nombre":  "JOS Y TEIDO ANUDADO",
+        "id":  "jos-y-teido-anudado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/la-creacin/",
+        "nombre":  "LA CREACIN",
+        "id":  "la-creacin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/la-marea/",
+        "nombre":  "LA MAREA",
+        "id":  "la-marea"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/la-marea-avanzado/",
+        "nombre":  "LA MAREA AVANZADO",
+        "id":  "la-marea-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/lbum-de-recortes/",
+        "nombre":  "LBUM DE RECORTES",
+        "id":  "lbum-de-recortes"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/lbum-de-recortes-avanzado/",
+        "nombre":  "LBUM DE RECORTES AVANZADO",
+        "id":  "lbum-de-recortes-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/manates/",
+        "nombre":  "MANATES",
+        "id":  "manates"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/mantenimiento-del-hogar/",
+        "nombre":  "MANTENIMIENTO DEL HOGAR",
+        "id":  "mantenimiento-del-hogar"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/no-y-modelar-globos/",
+        "nombre":  "NO Y MODELAR GLOBOS",
+        "id":  "no-y-modelar-globos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/prevencin-de-crimen/",
+        "nombre":  "PREVENCIN DE CRIMEN",
+        "id":  "prevencin-de-crimen"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/asociacion-de-florida/volcanes/",
+        "nombre":  "VOLCANES",
+        "id":  "volcanes"
+    }
+]

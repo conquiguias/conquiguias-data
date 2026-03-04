@@ -1,0 +1,462 @@
+﻿[
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/adoracion-cristiana/",
+        "nombre":  "ADORACION CRISTIANA",
+        "id":  "adoracion-cristiana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/alabanza-y-adoracion/",
+        "nombre":  "ALABANZA Y ADORACION",
+        "id":  "alabanza-y-adoracion"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/apocalipsis/",
+        "nombre":  "APOCALIPSIS",
+        "id":  "apocalipsis"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/aprecio-del-sabado/",
+        "nombre":  "APRECIO DEL SABADO",
+        "id":  "aprecio-del-sabado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/arqueologia-biblica/",
+        "nombre":  "ARQUEOLOGIA BIBLICA",
+        "id":  "arqueologia-biblica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/arte-cristiano-de-predicar/",
+        "nombre":  "ARTE CRISTIANO DE PREDICAR",
+        "id":  "arte-cristiano-de-predicar"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/arte-cristiano-de-predicar-avanzado/",
+        "nombre":  "ARTE CRISTIANO DE PREDICAR AVANZADO",
+        "id":  "arte-cristiano-de-predicar-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/audio-y-sonido/",
+        "nombre":  "AUDIO Y SONIDO",
+        "id":  "audio-y-sonido"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/audio-y-sonido-avanzado/",
+        "nombre":  "AUDIO Y SONIDO AVANZADO",
+        "id":  "audio-y-sonido-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/aventuro-para-cristo/",
+        "nombre":  "AVENTURO PARA CRISTO",
+        "id":  "aventuro-para-cristo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/aventuro-para-cristo-avanzado/",
+        "nombre":  "AVENTURO PARA CRISTO AVANZADO",
+        "id":  "aventuro-para-cristo-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/banderas/",
+        "nombre":  "BANDERAS",
+        "id":  "banderas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/banderas-avanzado/",
+        "nombre":  "BANDERAS AVANZADO",
+        "id":  "banderas-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/banderas-de-australia/",
+        "nombre":  "BANDERAS DE AUSTRALIA",
+        "id":  "banderas-de-australia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/banderas-de-australia-advanced/",
+        "nombre":  "BANDERAS DE AUSTRALIA ADVANCED",
+        "id":  "banderas-de-australia-advanced"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/braille/",
+        "nombre":  "BRAILLE",
+        "id":  "braille"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/buena-conducta-escolar/",
+        "nombre":  "BUENA CONDUCTA ESCOLAR",
+        "id":  "buena-conducta-escolar"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/carrozas-de-desfile/",
+        "nombre":  "CARROZAS DE DESFILE",
+        "id":  "carrozas-de-desfile"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/carrozas-de-desfile-avanzado/",
+        "nombre":  "CARROZAS DE DESFILE AVANZADO",
+        "id":  "carrozas-de-desfile-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/ceremonias/",
+        "nombre":  "CEREMONIAS",
+        "id":  "ceremonias"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/civismo-cristiano/",
+        "nombre":  "CIVISMO CRISTIANO",
+        "id":  "civismo-cristiano"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/colportaje/",
+        "nombre":  "COLPORTAJE",
+        "id":  "colportaje"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/conciencia-de-discapacidad/",
+        "nombre":  "CONCIENCIA DE DISCAPACIDAD",
+        "id":  "conciencia-de-discapacidad"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/creacionismo/",
+        "nombre":  "CREACIONISMO",
+        "id":  "creacionismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/creacionismo-avanzado/",
+        "nombre":  "CREACIONISMO AVANZADO",
+        "id":  "creacionismo-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/cuidado-de-ninos/",
+        "nombre":  "CUIDADO DE NINOS",
+        "id":  "cuidado-de-ninos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/cultura-sudamericana/",
+        "nombre":  "CULTURA SUDAMERICANA",
+        "id":  "cultura-sudamericana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/dia-anzac/",
+        "nombre":  "DIA ANZAC",
+        "id":  "dia-anzac"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/direccion-de-menores/",
+        "nombre":  "DIRECCION DE MENORES",
+        "id":  "direccion-de-menores"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/discipulos-y-apostoles/",
+        "nombre":  "DISCIPULOS Y APOSTOLES",
+        "id":  "discipulos-y-apostoles"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/drama-cristiano/",
+        "nombre":  "DRAMA CRISTIANO",
+        "id":  "drama-cristiano"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/escatologia/",
+        "nombre":  "ESCATOLOGIA",
+        "id":  "escatologia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/espiritu-de-profecia/",
+        "nombre":  "ESPIRITU DE PROFECIA",
+        "id":  "espiritu-de-profecia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/estudio-biblico-en-grupo-pequeno/",
+        "nombre":  "ESTUDIO BIBLICO EN GRUPO PEQUENO",
+        "id":  "estudio-biblico-en-grupo-pequeno"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/estudio-biblico-en-grupo-pequeno-avanzado/",
+        "nombre":  "ESTUDIO BIBLICO EN GRUPO PEQUENO AVANZADO",
+        "id":  "estudio-biblico-en-grupo-pequeno-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/evangelismo-personal/",
+        "nombre":  "EVANGELISMO PERSONAL",
+        "id":  "evangelismo-personal"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/evangelismo-web/",
+        "nombre":  "EVANGELISMO WEB",
+        "id":  "evangelismo-web"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/evangelismo-web-avanzado/",
+        "nombre":  "EVANGELISMO WEB AVANZADO",
+        "id":  "evangelismo-web-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/formacion-de-equipos-cristianos/",
+        "nombre":  "FORMACION DE EQUIPOS CRISTIANOS",
+        "id":  "formacion-de-equipos-cristianos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/herencia-adventista-afroamericana/",
+        "nombre":  "HERENCIA ADVENTISTA AFROAMERICANA",
+        "id":  "herencia-adventista-afroamericana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/herencia-adventista-afroamericana-avanzado/",
+        "nombre":  "HERENCIA ADVENTISTA AFROAMERICANA AVANZADO",
+        "id":  "herencia-adventista-afroamericana-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/herencia-de-los-pioneros-adventistas/",
+        "nombre":  "HERENCIA DE LOS PIONEROS ADVENTISTAS",
+        "id":  "herencia-de-los-pioneros-adventistas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/himnos/",
+        "nombre":  "HIMNOS",
+        "id":  "himnos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/historia-adventista/",
+        "nombre":  "HISTORIA ADVENTISTA",
+        "id":  "historia-adventista"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/historiador-ecelsiastico/",
+        "nombre":  "HISTORIADOR ECELSIASTICO",
+        "id":  "historiador-ecelsiastico"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/idiomas/",
+        "nombre":  "IDIOMAS",
+        "id":  "idiomas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/intercesor/",
+        "nombre":  "INTERCESOR",
+        "id":  "intercesor"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/investigador-biblico/",
+        "nombre":  "INVESTIGADOR BIBLICO",
+        "id":  "investigador-biblico"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/jueces-de-israel/",
+        "nombre":  "JUECES DE ISRAEL",
+        "id":  "jueces-de-israel"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/lenguaje-biblico-hebreo/",
+        "nombre":  "LENGUAJE BIBLICO HEBREO",
+        "id":  "lenguaje-biblico-hebreo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/lenguaje-de-signos/",
+        "nombre":  "LENGUAJE DE SIGNOS",
+        "id":  "lenguaje-de-signos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/lenguaje-de-signos-avanzado/",
+        "nombre":  "LENGUAJE DE SIGNOS AVANZADO",
+        "id":  "lenguaje-de-signos-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/marcado-de-la-biblia/",
+        "nombre":  "MARCADO DE LA BIBLIA",
+        "id":  "marcado-de-la-biblia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/marcado-de-la-biblia-avanzado/",
+        "nombre":  "MARCADO DE LA BIBLIA AVANZADO",
+        "id":  "marcado-de-la-biblia-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/mayordomia/",
+        "nombre":  "MAYORDOMIA",
+        "id":  "mayordomia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/memorizar-la-biblia/",
+        "nombre":  "MEMORIZAR LA BIBLIA",
+        "id":  "memorizar-la-biblia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/mensajera-de-dios/",
+        "nombre":  "MENSAJERA DE DIOS",
+        "id":  "mensajera-de-dios"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/mensajes-de-los-tres-angeles/",
+        "nombre":  "MENSAJES DE LOS TRES ANGELES",
+        "id":  "mensajes-de-los-tres-angeles"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/ministerio-de-transmision-de-medios/",
+        "nombre":  "MINISTERIO DE TRANSMISION DE MEDIOS",
+        "id":  "ministerio-de-transmision-de-medios"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/modales-y-apariencia-cristiana/",
+        "nombre":  "MODALES Y APARIENCIA CRISTIANA",
+        "id":  "modales-y-apariencia-cristiana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/mujeres-en-la-historia-adventista/",
+        "nombre":  "MUJERES EN LA HISTORIA ADVENTISTA",
+        "id":  "mujeres-en-la-historia-adventista"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/multiculturalidad/",
+        "nombre":  "MULTICULTURALIDAD",
+        "id":  "multiculturalidad"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/narracion-de-historias-cristianas/",
+        "nombre":  "NARRACION DE HISTORIAS CRISTIANAS",
+        "id":  "narracion-de-historias-cristianas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/optimismo/",
+        "nombre":  "OPTIMISMO",
+        "id":  "optimismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/oracion/",
+        "nombre":  "ORACION",
+        "id":  "oracion"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/oracion-avanzado/",
+        "nombre":  "ORACION AVANZADO",
+        "id":  "oracion-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/pacificador/",
+        "nombre":  "PACIFICADOR",
+        "id":  "pacificador"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/pacificador-avanzado/",
+        "nombre":  "PACIFICADOR AVANZADO",
+        "id":  "pacificador-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/patriarcas-de-la-biblia/",
+        "nombre":  "PATRIARCAS DE LA BIBLIA",
+        "id":  "patriarcas-de-la-biblia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/patriotismo/",
+        "nombre":  "PATRIOTISMO",
+        "id":  "patriotismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/pioneros-adventistas/",
+        "nombre":  "PIONEROS ADVENTISTAS",
+        "id":  "pioneros-adventistas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/predicar/",
+        "nombre":  "PREDICAR",
+        "id":  "predicar"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/predicar-avanzado/",
+        "nombre":  "PREDICAR AVANZADO",
+        "id":  "predicar-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/prevencion-de-acoso-i/",
+        "nombre":  "PREVENCION DE ACOSO I",
+        "id":  "prevencion-de-acoso-i"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/prevencion-de-acoso-ii/",
+        "nombre":  "PREVENCION DE ACOSO II",
+        "id":  "prevencion-de-acoso-ii"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/profetas-y-profecia/",
+        "nombre":  "PROFETAS Y PROFECIA",
+        "id":  "profetas-y-profecia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/profetas-y-profecia-avanzado/",
+        "nombre":  "PROFETAS Y PROFECIA AVANZADO",
+        "id":  "profetas-y-profecia-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/reyes-de-israel/",
+        "nombre":  "REYES DE ISRAEL",
+        "id":  "reyes-de-israel"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/santuario/",
+        "nombre":  "SANTUARIO",
+        "id":  "santuario"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/santuario-avanzado/",
+        "nombre":  "SANTUARIO AVANZADO",
+        "id":  "santuario-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/tecnologia-antigua/",
+        "nombre":  "TECNOLOGIA ANTIGUA",
+        "id":  "tecnologia-antigua"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/temperancia/",
+        "nombre":  "TEMPERANCIA",
+        "id":  "temperancia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/testificacion-de-menores/",
+        "nombre":  "TESTIFICACION DE MENORES",
+        "id":  "testificacion-de-menores"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/the-hopeful/",
+        "nombre":  "THE HOPEFUL",
+        "id":  "the-hopeful"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/titeres/",
+        "nombre":  "TITERES",
+        "id":  "titeres"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/titeres-avanzado/",
+        "nombre":  "TITERES AVANZADO",
+        "id":  "titeres-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/transformador-del-mundo/",
+        "nombre":  "TRANSFORMADOR DEL MUNDO",
+        "id":  "transformador-del-mundo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/trata-de-personas/",
+        "nombre":  "TRATA DE PERSONAS",
+        "id":  "trata-de-personas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/viajes-misioneros-al-extranjero/",
+        "nombre":  "VIAJES MISIONEROS AL EXTRANJERO",
+        "id":  "viajes-misioneros-al-extranjero"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/vida-familiar/",
+        "nombre":  "VIDA FAMILIAR",
+        "id":  "vida-familiar"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/vida-misionera/",
+        "nombre":  "VIDA MISIONERA",
+        "id":  "vida-misionera"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/crecimiento-espiritual-actividades-misioneras-y-herencia/visitacion-cristiana/",
+        "nombre":  "VISITACION CRISTIANA",
+        "id":  "visitacion-cristiana"
+    }
+]

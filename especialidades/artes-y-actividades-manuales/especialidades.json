@@ -1,0 +1,637 @@
+﻿[
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/adinkra/",
+        "nombre":  "ADINKRA",
+        "id":  "adinkra"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/aeromodelismo/",
+        "nombre":  "AEROMODELISMO",
+        "id":  "aeromodelismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/album-de-recortes/",
+        "nombre":  "ALBUM DE RECORTES",
+        "id":  "album-de-recortes"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/album-de-recortes-avanzado/",
+        "nombre":  "ALBUM DE RECORTES AVANZADO",
+        "id":  "album-de-recortes-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/alfareria/",
+        "nombre":  "ALFARERIA",
+        "id":  "alfareria"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/arte-callejero/",
+        "nombre":  "ARTE CALLEJERO",
+        "id":  "arte-callejero"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/arte-de-envolver-regalos/",
+        "nombre":  "ARTE DE ENVOLVER REGALOS",
+        "id":  "arte-de-envolver-regalos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/arte-de-hacer-tarjetas/",
+        "nombre":  "ARTE DE HACER TARJETAS",
+        "id":  "arte-de-hacer-tarjetas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/arte-de-hacer-velas/",
+        "nombre":  "ARTE DE HACER VELAS",
+        "id":  "arte-de-hacer-velas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/arte-en-bambu/",
+        "nombre":  "ARTE EN BAMBU",
+        "id":  "arte-en-bambu"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/arte-en-hilo/",
+        "nombre":  "ARTE EN HILO",
+        "id":  "arte-en-hilo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/arte-en-masa-de-pan/",
+        "nombre":  "ARTE EN MASA DE PAN",
+        "id":  "arte-en-masa-de-pan"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/arte-en-plastico/",
+        "nombre":  "ARTE EN PLASTICO",
+        "id":  "arte-en-plastico"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/artesania/",
+        "nombre":  "ARTESANIA",
+        "id":  "artesania"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/artes-y-trabajos-indigenas/",
+        "nombre":  "ARTES Y TRABAJOS INDIGENAS",
+        "id":  "artes-y-trabajos-indigenas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/artes-y-trabajos-indigenas-avanzado/",
+        "nombre":  "ARTES Y TRABAJOS INDIGENAS AVANZADO",
+        "id":  "artes-y-trabajos-indigenas-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/automodelismo/",
+        "nombre":  "AUTOMODELISMO",
+        "id":  "automodelismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/azulejos-de-mosaico/",
+        "nombre":  "AZULEJOS DE MOSAICO",
+        "id":  "azulejos-de-mosaico"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/bordado-en-punto-cruz/",
+        "nombre":  "BORDADO EN PUNTO CRUZ",
+        "id":  "bordado-en-punto-cruz"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/botemodelismo/",
+        "nombre":  "BOTEMODELISMO",
+        "id":  "botemodelismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/cantar/",
+        "nombre":  "CANTAR",
+        "id":  "cantar"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/ceramica/",
+        "nombre":  "CERAMICA",
+        "id":  "ceramica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/cesteria/",
+        "nombre":  "CESTERIA",
+        "id":  "cesteria"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/cinta-americana/",
+        "nombre":  "CINTA AMERICANA",
+        "id":  "cinta-americana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/cohetemodelismo/",
+        "nombre":  "COHETEMODELISMO",
+        "id":  "cohetemodelismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/cohetemodelismo-avanzado/",
+        "nombre":  "COHETEMODELISMO AVANZADO",
+        "id":  "cohetemodelismo-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/construccion-con-lego/",
+        "nombre":  "CONSTRUCCION CON LEGO",
+        "id":  "construccion-con-lego"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/construccion-nativa/",
+        "nombre":  "CONSTRUCCION NATIVA",
+        "id":  "construccion-nativa"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/crochet/",
+        "nombre":  "CROCHET",
+        "id":  "crochet"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/crochet-avanzado/",
+        "nombre":  "CROCHET AVANZADO",
+        "id":  "crochet-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/cultura-taina/",
+        "nombre":  "CULTURA TAINA",
+        "id":  "cultura-taina"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/decoracion/",
+        "nombre":  "DECORACION",
+        "id":  "decoracion"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/decoracion-de-pasteles/",
+        "nombre":  "DECORACION DE PASTELES",
+        "id":  "decoracion-de-pasteles"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/decoupage/",
+        "nombre":  "DECOUPAGE",
+        "id":  "decoupage"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/derbi-de-automodelos-de-pino-avanzado/",
+        "nombre":  "DERBI DE AUTOMODELOS DE PINO AVANZADO",
+        "id":  "derbi-de-automodelos-de-pino-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/dibujo/",
+        "nombre":  "DIBUJO",
+        "id":  "dibujo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/dibujo-avanzado/",
+        "nombre":  "DIBUJO AVANZADO",
+        "id":  "dibujo-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/dibujo-vectorial/",
+        "nombre":  "DIBUJO VECTORIAL",
+        "id":  "dibujo-vectorial"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/escultura/",
+        "nombre":  "ESCULTURA",
+        "id":  "escultura"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/esmaltado-en-cobre/",
+        "nombre":  "ESMALTADO EN COBRE",
+        "id":  "esmaltado-en-cobre"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/esmaltado-en-cobre-avanzado/",
+        "nombre":  "ESMALTADO EN COBRE AVANZADO",
+        "id":  "esmaltado-en-cobre-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/e-v-a-etilvinilacetato/",
+        "nombre":  "E V A ETILVINILACETATO",
+        "id":  "e-v-a-etilvinilacetato"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/falda-escocesa/",
+        "nombre":  "FALDA ESCOCESA",
+        "id":  "falda-escocesa"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/faros/",
+        "nombre":  "FAROS",
+        "id":  "faros"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/faros-avanzado/",
+        "nombre":  "FAROS AVANZADO",
+        "id":  "faros-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/filatelia/",
+        "nombre":  "FILATELIA",
+        "id":  "filatelia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/filatelia-avanzado/",
+        "nombre":  "FILATELIA AVANZADO",
+        "id":  "filatelia-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/filigrana-en-papel/",
+        "nombre":  "FILIGRANA EN PAPEL",
+        "id":  "filigrana-en-papel"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/filigrana-en-papel-avanzado/",
+        "nombre":  "FILIGRANA EN PAPEL AVANZADO",
+        "id":  "filigrana-en-papel-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/flores-fuxico/",
+        "nombre":  "FLORES FUXICO",
+        "id":  "flores-fuxico"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/fotografia/",
+        "nombre":  "FOTOGRAFIA",
+        "id":  "fotografia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/fotografia-digital/",
+        "nombre":  "FOTOGRAFIA DIGITAL",
+        "id":  "fotografia-digital"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/gaita/",
+        "nombre":  "GAITA",
+        "id":  "gaita"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/gaita-avanzado/",
+        "nombre":  "GAITA AVANZADO",
+        "id":  "gaita-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/genealogia/",
+        "nombre":  "GENEALOGIA",
+        "id":  "genealogia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/genealogia-avanzado/",
+        "nombre":  "GENEALOGIA AVANZADO",
+        "id":  "genealogia-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/globo-aerostatico/",
+        "nombre":  "GLOBO AEROSTATICO",
+        "id":  "globo-aerostatico"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/globoflexia/",
+        "nombre":  "GLOBOFLEXIA",
+        "id":  "globoflexia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/globoflexia-avanzado/",
+        "nombre":  "GLOBOFLEXIA AVANZADO",
+        "id":  "globoflexia-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/grabado-en-vidrio/",
+        "nombre":  "GRABADO EN VIDRIO",
+        "id":  "grabado-en-vidrio"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/guitarra/",
+        "nombre":  "GUITARRA",
+        "id":  "guitarra"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/guitarra-avanzado/",
+        "nombre":  "GUITARRA AVANZADO",
+        "id":  "guitarra-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/herencia-cultural/",
+        "nombre":  "HERENCIA CULTURAL",
+        "id":  "herencia-cultural"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/hilado/",
+        "nombre":  "HILADO",
+        "id":  "hilado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/historietas-animadas/",
+        "nombre":  "HISTORIETAS ANIMADAS",
+        "id":  "historietas-animadas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/indumentaria-de-cuello/",
+        "nombre":  "INDUMENTARIA DE CUELLO",
+        "id":  "indumentaria-de-cuello"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/intercambio-de-pins/",
+        "nombre":  "INTERCAMBIO DE PINS",
+        "id":  "intercambio-de-pins"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/intercambio-de-pins-avanzado/",
+        "nombre":  "INTERCAMBIO DE PINS AVANZADO",
+        "id":  "intercambio-de-pins-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/kanzashi/",
+        "nombre":  "KANZASHI",
+        "id":  "kanzashi"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/lapidacion/",
+        "nombre":  "LAPIDACION",
+        "id":  "lapidacion"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/letreros-y-carteles/",
+        "nombre":  "LETREROS Y CARTELES",
+        "id":  "letreros-y-carteles"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/macrame/",
+        "nombre":  "MACRAME",
+        "id":  "macrame"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/modelado-en-yeso/",
+        "nombre":  "MODELADO EN YESO",
+        "id":  "modelado-en-yeso"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/modelo-de-papel/",
+        "nombre":  "MODELO DE PAPEL",
+        "id":  "modelo-de-papel"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/musica/",
+        "nombre":  "MUSICA",
+        "id":  "musica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/musica-avanzado/",
+        "nombre":  "MUSICA AVANZADO",
+        "id":  "musica-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/numismatica/",
+        "nombre":  "NUMISMATICA",
+        "id":  "numismatica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/numismatica-avanzado/",
+        "nombre":  "NUMISMATICA AVANZADO",
+        "id":  "numismatica-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/origami/",
+        "nombre":  "ORIGAMI",
+        "id":  "origami"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/origami-avanzado/",
+        "nombre":  "ORIGAMI AVANZADO",
+        "id":  "origami-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/ornamentacion-floral/",
+        "nombre":  "ORNAMENTACION FLORAL",
+        "id":  "ornamentacion-floral"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/papel-mache/",
+        "nombre":  "PAPEL MACHE",
+        "id":  "papel-mache"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/pintura/",
+        "nombre":  "PINTURA",
+        "id":  "pintura"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/pintura-avanzado/",
+        "nombre":  "PINTURA AVANZADO",
+        "id":  "pintura-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/pintura-decorativa/",
+        "nombre":  "PINTURA DECORATIVA",
+        "id":  "pintura-decorativa"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/pintura-sobre-tela/",
+        "nombre":  "PINTURA SOBRE TELA",
+        "id":  "pintura-sobre-tela"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/pintura-sobre-vidrio/",
+        "nombre":  "PINTURA SOBRE VIDRIO",
+        "id":  "pintura-sobre-vidrio"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/pirograbado/",
+        "nombre":  "PIROGRABADO",
+        "id":  "pirograbado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/plastimodelismo/",
+        "nombre":  "PLASTIMODELISMO",
+        "id":  "plastimodelismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/poesia-y-composicion/",
+        "nombre":  "POESIA Y COMPOSICION",
+        "id":  "poesia-y-composicion"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/presas-y-diques/",
+        "nombre":  "PRESAS Y DIQUES",
+        "id":  "presas-y-diques"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/puentes/",
+        "nombre":  "PUENTES",
+        "id":  "puentes"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/raku/",
+        "nombre":  "RAKU",
+        "id":  "raku"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/regata-de-botes-de-juguete/",
+        "nombre":  "REGATA DE BOTES DE JUGUETE",
+        "id":  "regata-de-botes-de-juguete"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/regata-de-botes-de-juguete-avanzado/",
+        "nombre":  "REGATA DE BOTES DE JUGUETE AVANZADO",
+        "id":  "regata-de-botes-de-juguete-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/serigrafia/",
+        "nombre":  "SERIGRAFIA",
+        "id":  "serigrafia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/serigrafia-avanzado/",
+        "nombre":  "SERIGRAFIA AVANZADO",
+        "id":  "serigrafia-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/silbatos/",
+        "nombre":  "SILBATOS",
+        "id":  "silbatos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/silbatos-avanzado/",
+        "nombre":  "SILBATOS AVANZADO",
+        "id":  "silbatos-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tallado-en-madera/",
+        "nombre":  "TALLADO EN MADERA",
+        "id":  "tallado-en-madera"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tapiceria/",
+        "nombre":  "TAPICERIA",
+        "id":  "tapiceria"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tarjetas-postales/",
+        "nombre":  "TARJETAS POSTALES",
+        "id":  "tarjetas-postales"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tarjetas-postales-avanzado/",
+        "nombre":  "TARJETAS POSTALES AVANZADO",
+        "id":  "tarjetas-postales-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/techado-con-paja/",
+        "nombre":  "TECHADO CON PAJA",
+        "id":  "techado-con-paja"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tejer/",
+        "nombre":  "TEJER",
+        "id":  "tejer"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tejer-avanzado/",
+        "nombre":  "TEJER AVANZADO",
+        "id":  "tejer-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tejido-en-malla-plastica/",
+        "nombre":  "TEJIDO EN MALLA PLASTICA",
+        "id":  "tejido-en-malla-plastica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tejido-en-malla-plastica-avanzado/",
+        "nombre":  "TEJIDO EN MALLA PLASTICA AVANZADO",
+        "id":  "tejido-en-malla-plastica-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tenido-anudado/",
+        "nombre":  "TENIDO ANUDADO",
+        "id":  "tenido-anudado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tenido-anudado-avanzado/",
+        "nombre":  "TENIDO ANUDADO AVANZADO",
+        "id":  "tenido-anudado-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tipografia-xilografica/",
+        "nombre":  "TIPOGRAFIA XILOGRAFICA",
+        "id":  "tipografia-xilografica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trabajos-de-aguja/",
+        "nombre":  "TRABAJOS DE AGUJA",
+        "id":  "trabajos-de-aguja"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trabajos-en-cuero/",
+        "nombre":  "TRABAJOS EN CUERO",
+        "id":  "trabajos-en-cuero"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trabajos-en-cuero-avanzado/",
+        "nombre":  "TRABAJOS EN CUERO AVANZADO",
+        "id":  "trabajos-en-cuero-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trabajos-en-fieltro/",
+        "nombre":  "TRABAJOS EN FIELTRO",
+        "id":  "trabajos-en-fieltro"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trabajos-en-jabon/",
+        "nombre":  "TRABAJOS EN JABON",
+        "id":  "trabajos-en-jabon"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trabajos-en-jabon-avanzado/",
+        "nombre":  "TRABAJOS EN JABON AVANZADO",
+        "id":  "trabajos-en-jabon-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trabajos-en-madera/",
+        "nombre":  "TRABAJOS EN MADERA",
+        "id":  "trabajos-en-madera"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trabajos-en-metal/",
+        "nombre":  "TRABAJOS EN METAL",
+        "id":  "trabajos-en-metal"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trabajos-en-telar/",
+        "nombre":  "TRABAJOS EN TELAR",
+        "id":  "trabajos-en-telar"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trabajos-en-vidrio/",
+        "nombre":  "TRABAJOS EN VIDRIO",
+        "id":  "trabajos-en-vidrio"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tradicion-aborigen/",
+        "nombre":  "TRADICION ABORIGEN",
+        "id":  "tradicion-aborigen"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tradicion-africana/",
+        "nombre":  "TRADICION AFRICANA",
+        "id":  "tradicion-africana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tradicion-maori/",
+        "nombre":  "TRADICION MAORI",
+        "id":  "tradicion-maori"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/tren-modelismo/",
+        "nombre":  "TREN MODELISMO",
+        "id":  "tren-modelismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trenzado/",
+        "nombre":  "TRENZADO",
+        "id":  "trenzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-y-actividades-manuales/trenzado-avanzado/",
+        "nombre":  "TRENZADO AVANZADO",
+        "id":  "trenzado-avanzado"
+    }
+]

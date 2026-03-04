@@ -1,0 +1,112 @@
+﻿[
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/acolchado/",
+        "nombre":  "ACOLCHADO",
+        "id":  "acolchado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/alimentos-congelados/",
+        "nombre":  "ALIMENTOS CONGELADOS",
+        "id":  "alimentos-congelados"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/arte-culinario/",
+        "nombre":  "ARTE CULINARIO",
+        "id":  "arte-culinario"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/arte-culinario-avanzado/",
+        "nombre":  "ARTE CULINARIO AVANZADO",
+        "id":  "arte-culinario-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/chocolate/",
+        "nombre":  "CHOCOLATE",
+        "id":  "chocolate"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/cocinando-pizzas/",
+        "nombre":  "COCINANDO PIZZAS",
+        "id":  "cocinando-pizzas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/conservacion-de-alimentos/",
+        "nombre":  "CONSERVACION DE ALIMENTOS",
+        "id":  "conservacion-de-alimentos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/corte-y-confeccion/",
+        "nombre":  "CORTE Y CONFECCION",
+        "id":  "corte-y-confeccion"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/corte-y-confeccion-avanzado/",
+        "nombre":  "CORTE Y CONFECCION AVANZADO",
+        "id":  "corte-y-confeccion-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/costura-basica/",
+        "nombre":  "COSTURA BASICA",
+        "id":  "costura-basica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/deshidratacion-de-alimentos/",
+        "nombre":  "DESHIDRATACION DE ALIMENTOS",
+        "id":  "deshidratacion-de-alimentos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/economia-domestica/",
+        "nombre":  "ECONOMIA DOMESTICA",
+        "id":  "economia-domestica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/fabricacion-de-esteras/",
+        "nombre":  "FABRICACION DE ESTERAS",
+        "id":  "fabricacion-de-esteras"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/lavado-y-planchado/",
+        "nombre":  "LAVADO Y PLANCHADO",
+        "id":  "lavado-y-planchado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/nutricion/",
+        "nombre":  "NUTRICION",
+        "id":  "nutricion"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/nutricion-avanzado/",
+        "nombre":  "NUTRICION AVANZADO",
+        "id":  "nutricion-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/panaderia/",
+        "nombre":  "PANADERIA",
+        "id":  "panaderia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/preparacion-de-comidas-culturales/",
+        "nombre":  "PREPARACION DE COMIDAS CULTURALES",
+        "id":  "preparacion-de-comidas-culturales"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/presupuesto-familiar-division-norteamericana/",
+        "nombre":  "PRESUPUESTO FAMILIAR DIVISION NORTEAMERICANA",
+        "id":  "presupuesto-familiar-division-norteamericana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/presupuesto-familiar-division-sudamericana/",
+        "nombre":  "PRESUPUESTO FAMILIAR DIVISION SUDAMERICANA",
+        "id":  "presupuesto-familiar-division-sudamericana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/sastreria/",
+        "nombre":  "SASTRERIA",
+        "id":  "sastreria"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/artes-domesticas/vestidos-de-tapa/",
+        "nombre":  "VESTIDOS DE TAPA",
+        "id":  "vestidos-de-tapa"
+    }
+]

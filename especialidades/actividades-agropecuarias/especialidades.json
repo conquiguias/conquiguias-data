@@ -1,0 +1,87 @@
+﻿[
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/agricultura/",
+        "nombre":  "AGRICULTURA",
+        "id":  "agricultura"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/agricultura-de-subsistencia/",
+        "nombre":  "AGRICULTURA DE SUBSISTENCIA",
+        "id":  "agricultura-de-subsistencia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/apicultura/",
+        "nombre":  "APICULTURA",
+        "id":  "apicultura"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/avicultura/",
+        "nombre":  "AVICULTURA",
+        "id":  "avicultura"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/colombofilia/",
+        "nombre":  "COLOMBOFILIA",
+        "id":  "colombofilia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/cría-de-caballos/",
+        "nombre":  "CRÍA DE CABALLOS",
+        "id":  "cría-de-caballos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/cría-de-cabras/",
+        "nombre":  "CRÍA DE CABRAS",
+        "id":  "cría-de-cabras"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/cría-de-ovejas/",
+        "nombre":  "CRÍA DE OVEJAS",
+        "id":  "cría-de-ovejas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/floricultura/",
+        "nombre":  "FLORICULTURA",
+        "id":  "floricultura"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/frutas-pequeñas/",
+        "nombre":  "FRUTAS PEQUEÑAS",
+        "id":  "frutas-pequeñas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/fruticultura/",
+        "nombre":  "FRUTICULTURA",
+        "id":  "fruticultura"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/ganadería/",
+        "nombre":  "GANADERÍA",
+        "id":  "ganadería"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/hidroponía-y-acuaponía/",
+        "nombre":  "HIDROPONÍA Y ACUAPONÍA",
+        "id":  "hidroponía-y-acuaponía"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/hidroponía-y-acuaponía-avanzado/",
+        "nombre":  "HIDROPONÍA Y ACUAPONÍA AVANZADO",
+        "id":  "hidroponía-y-acuaponía-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/jardinería/",
+        "nombre":  "JARDINERÍA",
+        "id":  "jardinería"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/lechería/",
+        "nombre":  "LECHERÍA",
+        "id":  "lechería"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-agropecuarias/pesca-isleña/",
+        "nombre":  "PESCA ISLEÑA",
+        "id":  "pesca-isleña"
+    }
+]

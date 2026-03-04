@@ -1,0 +1,442 @@
+﻿[
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/amarres/",
+        "nombre":  "AMARRES",
+        "id":  "amarres"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/amarres-avanzado/",
+        "nombre":  "AMARRES AVANZADO",
+        "id":  "amarres-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/arte-de-acampar/",
+        "nombre":  "ARTE DE ACAMPAR",
+        "id":  "arte-de-acampar"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/baloncesto/",
+        "nombre":  "BALONCESTO",
+        "id":  "baloncesto"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/balonmano/",
+        "nombre":  "BALONMANO",
+        "id":  "balonmano"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/boliche/",
+        "nombre":  "BOLICHE",
+        "id":  "boliche"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/buceo/",
+        "nombre":  "BUCEO",
+        "id":  "buceo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/buceo-con-escafandra/",
+        "nombre":  "BUCEO CON ESCAFANDRA",
+        "id":  "buceo-con-escafandra"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/buceo-con-escafandra-avanzado/",
+        "nombre":  "BUCEO CON ESCAFANDRA AVANZADO",
+        "id":  "buceo-con-escafandra-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/busqueda-de-gemas/",
+        "nombre":  "BUSQUEDA DE GEMAS",
+        "id":  "busqueda-de-gemas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/campamento-en-invierno/",
+        "nombre":  "CAMPAMENTO EN INVIERNO",
+        "id":  "campamento-en-invierno"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/campamento-i/",
+        "nombre":  "CAMPAMENTO I",
+        "id":  "campamento-i"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/campamento-ii/",
+        "nombre":  "CAMPAMENTO II",
+        "id":  "campamento-ii"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/campamento-iii/",
+        "nombre":  "CAMPAMENTO III",
+        "id":  "campamento-iii"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/campamento-iv/",
+        "nombre":  "CAMPAMENTO IV",
+        "id":  "campamento-iv"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/campori-seguro/",
+        "nombre":  "CAMPORI SEGURO",
+        "id":  "campori-seguro"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/canotaje/",
+        "nombre":  "CANOTAJE",
+        "id":  "canotaje"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/canotaje-avanzado/",
+        "nombre":  "CANOTAJE AVANZADO",
+        "id":  "canotaje-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/carritos-de-rueditas/",
+        "nombre":  "CARRITOS DE RUEDITAS",
+        "id":  "carritos-de-rueditas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/ciclismo/",
+        "nombre":  "CICLISMO",
+        "id":  "ciclismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/ciclismo-avanzado/",
+        "nombre":  "CICLISMO AVANZADO",
+        "id":  "ciclismo-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/ciclismo-en-montana/",
+        "nombre":  "CICLISMO EN MONTANA",
+        "id":  "ciclismo-en-montana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/ciclismo-en-montana-avanzado/",
+        "nombre":  "CICLISMO EN MONTANA AVANZADO",
+        "id":  "ciclismo-en-montana-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/clavado-en-trampolin/",
+        "nombre":  "CLAVADO EN TRAMPOLIN",
+        "id":  "clavado-en-trampolin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/cocinando-en-olla-holandesa/",
+        "nombre":  "COCINANDO EN OLLA HOLANDESA",
+        "id":  "cocinando-en-olla-holandesa"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/coleccionista/",
+        "nombre":  "COLECCIONISTA",
+        "id":  "coleccionista"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/cometas/",
+        "nombre":  "COMETAS",
+        "id":  "cometas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/construccion-de-canoas/",
+        "nombre":  "CONSTRUCCION DE CANOAS",
+        "id":  "construccion-de-canoas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/construcciones-rusticas/",
+        "nombre":  "CONSTRUCCIONES RUSTICAS",
+        "id":  "construcciones-rusticas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/construcciones-rusticas-avanzado/",
+        "nombre":  "CONSTRUCCIONES RUSTICAS AVANZADO",
+        "id":  "construcciones-rusticas-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/deportes-adaptados/",
+        "nombre":  "DEPORTES ADAPTADOS",
+        "id":  "deportes-adaptados"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/educacion-fisica/",
+        "nombre":  "EDUCACION FISICA",
+        "id":  "educacion-fisica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/ejercicios-y-marchas/",
+        "nombre":  "EJERCICIOS Y MARCHAS",
+        "id":  "ejercicios-y-marchas"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/ejercicios-y-marchas-avanzado/",
+        "nombre":  "EJERCICIOS Y MARCHAS AVANZADO",
+        "id":  "ejercicios-y-marchas-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/equitacion/",
+        "nombre":  "EQUITACION",
+        "id":  "equitacion"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/equitacion-avanzado/",
+        "nombre":  "EQUITACION AVANZADO",
+        "id":  "equitacion-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/escalada/",
+        "nombre":  "ESCALADA",
+        "id":  "escalada"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/escalada-avanzado/",
+        "nombre":  "ESCALADA AVANZADO",
+        "id":  "escalada-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/espeologia/",
+        "nombre":  "ESPEOLOGIA",
+        "id":  "espeologia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/espeologia-avanzado/",
+        "nombre":  "ESPEOLOGIA AVANZADO",
+        "id":  "espeologia-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/esqui-acuatico/",
+        "nombre":  "ESQUI ACUATICO",
+        "id":  "esqui-acuatico"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/esqui-acuatico-avanzado/",
+        "nombre":  "ESQUI ACUATICO AVANZADO",
+        "id":  "esqui-acuatico-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/esqui-alpino/",
+        "nombre":  "ESQUI ALPINO",
+        "id":  "esqui-alpino"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/esqui-de-fondo/",
+        "nombre":  "ESQUI DE FONDO",
+        "id":  "esqui-de-fondo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/evolucion-en-orden-cerrado/",
+        "nombre":  "EVOLUCION EN ORDEN CERRADO",
+        "id":  "evolucion-en-orden-cerrado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/excursionismo/",
+        "nombre":  "EXCURSIONISMO",
+        "id":  "excursionismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/excursionismo-avanzado/",
+        "nombre":  "EXCURSIONISMO AVANZADO",
+        "id":  "excursionismo-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/fogatas-y-cocina-al-aire-libre/",
+        "nombre":  "FOGATAS Y COCINA AL AIRE LIBRE",
+        "id":  "fogatas-y-cocina-al-aire-libre"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/futbol/",
+        "nombre":  "FUTBOL",
+        "id":  "futbol"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/futbol-bandera/",
+        "nombre":  "FUTBOL BANDERA",
+        "id":  "futbol-bandera"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/futbol-de-botones/",
+        "nombre":  "FUTBOL DE BOTONES",
+        "id":  "futbol-de-botones"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/futbol-sala/",
+        "nombre":  "FUTBOL SALA",
+        "id":  "futbol-sala"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/geocaching-avanzado/",
+        "nombre":  "GEOCACHING AVANZADO",
+        "id":  "geocaching-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/geocaching-busqueda-por-gps/",
+        "nombre":  "GEOCACHING BUSQUEDA POR GPS",
+        "id":  "geocaching-busqueda-por-gps"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/geocaching-geologico/",
+        "nombre":  "GEOCACHING GEOLOGICO",
+        "id":  "geocaching-geologico"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/geocaching-geologico-avanzado/",
+        "nombre":  "GEOCACHING GEOLOGICO AVANZADO",
+        "id":  "geocaching-geologico-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/gimnasia/",
+        "nombre":  "GIMNASIA",
+        "id":  "gimnasia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/gimnasia-avanzado/",
+        "nombre":  "GIMNASIA AVANZADO",
+        "id":  "gimnasia-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/golf/",
+        "nombre":  "GOLF",
+        "id":  "golf"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/golf-de-disco/",
+        "nombre":  "GOLF DE DISCO",
+        "id":  "golf-de-disco"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/instructor-de-seguridad-en-el-agua/",
+        "nombre":  "INSTRUCTOR DE SEGURIDAD EN EL AGUA",
+        "id":  "instructor-de-seguridad-en-el-agua"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/instructor-de-seguridad-en-el-agua-avanzado/",
+        "nombre":  "INSTRUCTOR DE SEGURIDAD EN EL AGUA AVANZADO",
+        "id":  "instructor-de-seguridad-en-el-agua-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/kayak/",
+        "nombre":  "KAYAK",
+        "id":  "kayak"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/lancha-a-motor/",
+        "nombre":  "LANCHA A MOTOR",
+        "id":  "lancha-a-motor"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/letterboxing/",
+        "nombre":  "LETTERBOXING",
+        "id":  "letterboxing"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/letterboxing-avanzado/",
+        "nombre":  "LETTERBOXING AVANZADO",
+        "id":  "letterboxing-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/liderazgo-al-aire-libre/",
+        "nombre":  "LIDERAZGO AL AIRE LIBRE",
+        "id":  "liderazgo-al-aire-libre"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/liderazgo-al-aire-libre-avanzado/",
+        "nombre":  "LIDERAZGO AL AIRE LIBRE AVANZADO",
+        "id":  "liderazgo-al-aire-libre-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/liderazgo-en-la-naturaleza/",
+        "nombre":  "LIDERAZGO EN LA NATURALEZA",
+        "id":  "liderazgo-en-la-naturaleza"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/liderazgo-en-la-naturaleza-avanzado/",
+        "nombre":  "LIDERAZGO EN LA NATURALEZA AVANZADO",
+        "id":  "liderazgo-en-la-naturaleza-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/malabarismo/",
+        "nombre":  "MALABARISMO",
+        "id":  "malabarismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/monociclismo/",
+        "nombre":  "MONOCICLISMO",
+        "id":  "monociclismo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/natacion-i/",
+        "nombre":  "NATACION I",
+        "id":  "natacion-i"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/natacion-i-avanzado/",
+        "nombre":  "NATACION I AVANZADO",
+        "id":  "natacion-i-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/natacion-ii/",
+        "nombre":  "NATACION II",
+        "id":  "natacion-ii"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/natacion-iii/",
+        "nombre":  "NATACION III",
+        "id":  "natacion-iii"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/natacion-iii-avanzado/",
+        "nombre":  "NATACION III AVANZADO",
+        "id":  "natacion-iii-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/trepar-arboles/",
+        "nombre":  "TREPAR ARBOLES",
+        "id":  "trepar-arboles"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/triatlon/",
+        "nombre":  "TRIATLON",
+        "id":  "triatlon"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/triatlon-avanzado/",
+        "nombre":  "TRIATLON AVANZADO",
+        "id":  "triatlon-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/trompos/",
+        "nombre":  "TROMPOS",
+        "id":  "trompos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/ultimate-disc/",
+        "nombre":  "ULTIMATE DISC",
+        "id":  "ultimate-disc"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/ultimate-disc-avanzado/",
+        "nombre":  "ULTIMATE DISC AVANZADO",
+        "id":  "ultimate-disc-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/viajes/",
+        "nombre":  "VIAJES",
+        "id":  "viajes"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/viajes-avanzado/",
+        "nombre":  "VIAJES AVANZADO",
+        "id":  "viajes-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/vida-primitiva/",
+        "nombre":  "VIDA PRIMITIVA",
+        "id":  "vida-primitiva"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/voleibol/",
+        "nombre":  "VOLEIBOL",
+        "id":  "voleibol"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/actividades-recreacionales/waveboarding/",
+        "nombre":  "WAVEBOARDING",
+        "id":  "waveboarding"
+    }
+]

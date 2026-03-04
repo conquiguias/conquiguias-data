@@ -1,0 +1,47 @@
+﻿[
+    {
+        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/asistencia-a-los-refugiados/",
+        "nombre":  "ASISTENCIA A LOS REFUGIADOS",
+        "id":  "asistencia-a-los-refugiados"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/desarrollo-rural/",
+        "nombre":  "DESARROLLO RURAL",
+        "id":  "desarrollo-rural"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/evaluacin-comunitaria/",
+        "nombre":  "EVALUACIN COMUNITARIA",
+        "id":  "evaluacin-comunitaria"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/intervencin-en-crisis/",
+        "nombre":  "INTERVENCIN EN CRISIS",
+        "id":  "intervencin-en-crisis"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/mejoramiento-de-la-comunidad/",
+        "nombre":  "MEJORAMIENTO DE LA COMUNIDAD",
+        "id":  "mejoramiento-de-la-comunidad"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/ministerio-ante-el-desastre/",
+        "nombre":  "MINISTERIO ANTE EL DESASTRE",
+        "id":  "ministerio-ante-el-desastre"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/ministerio-de-alimentacin/",
+        "nombre":  "MINISTERIO DE ALIMENTACIN",
+        "id":  "ministerio-de-alimentacin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/sirviendo-a-las-comunidades/",
+        "nombre":  "SIRVIENDO A LAS COMUNIDADES",
+        "id":  "sirviendo-a-las-comunidades"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/servicios-comunitarios-adventistas/tutora/",
+        "nombre":  "TUTORA",
+        "id":  "tutora"
+    }
+]

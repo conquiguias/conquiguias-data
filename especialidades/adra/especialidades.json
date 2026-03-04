@@ -1,0 +1,62 @@
+﻿[
+    {
+        "path":  "/conquiguias-data/especialidades/adra/alfabetizacion/",
+        "nombre":  "ALFABETIZACION",
+        "id":  "alfabetizacion"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/adra/auxilio-de-las-catastrofes/",
+        "nombre":  "AUXILIO DE LAS CATASTROFES",
+        "id":  "auxilio-de-las-catastrofes"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/adra/auxilio-de-las-catastrofes-avanzado/",
+        "nombre":  "AUXILIO DE LAS CATASTROFES AVANZADO",
+        "id":  "auxilio-de-las-catastrofes-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/adra/ayuda-alimenticia/",
+        "nombre":  "AYUDA ALIMENTICIA",
+        "id":  "ayuda-alimenticia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/adra/desarrollo-comunitario/",
+        "nombre":  "DESARROLLO COMUNITARIO",
+        "id":  "desarrollo-comunitario"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/adra/evaluacion-comunitaria/",
+        "nombre":  "EVALUACION COMUNITARIA",
+        "id":  "evaluacion-comunitaria"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/adra/reasentamiento-de-refugiados/",
+        "nombre":  "REASENTAMIENTO DE REFUGIADOS",
+        "id":  "reasentamiento-de-refugiados"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/adra/recaudacion-de-fondos-para-adra-bronce/",
+        "nombre":  "RECAUDACION DE FONDOS PARA ADRA BRONCE",
+        "id":  "recaudacion-de-fondos-para-adra-bronce"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/adra/recaudacion-de-fondos-para-adra-oro/",
+        "nombre":  "RECAUDACION DE FONDOS PARA ADRA ORO",
+        "id":  "recaudacion-de-fondos-para-adra-oro"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/adra/recaudacion-de-fondos-para-adra-plata/",
+        "nombre":  "RECAUDACION DE FONDOS PARA ADRA PLATA",
+        "id":  "recaudacion-de-fondos-para-adra-plata"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/adra/resolucion-de-conflictos/",
+        "nombre":  "RESOLUCION DE CONFLICTOS",
+        "id":  "resolucion-de-conflictos"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/adra/servicio-comunitario/",
+        "nombre":  "SERVICIO COMUNITARIO",
+        "id":  "servicio-comunitario"
+    }
+]

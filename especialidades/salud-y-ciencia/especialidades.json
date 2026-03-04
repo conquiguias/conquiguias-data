@@ -1,0 +1,247 @@
+﻿[
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/alerta-roja/",
+        "nombre":  "ALERTA ROJA",
+        "id":  "alerta-roja"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/audicin/",
+        "nombre":  "AUDICIN",
+        "id":  "audicin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/bienestar/",
+        "nombre":  "BIENESTAR",
+        "id":  "bienestar"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/bienestar-avanzado/",
+        "nombre":  "BIENESTAR AVANZADO",
+        "id":  "bienestar-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/bioqumica/",
+        "nombre":  "BIOQUMICA",
+        "id":  "bioqumica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/bioqumica-avanzado/",
+        "nombre":  "BIOQUMICA AVANZADO",
+        "id":  "bioqumica-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/bioseguridad/",
+        "nombre":  "BIOSEGURIDAD",
+        "id":  "bioseguridad"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/cerebro-y-conducta/",
+        "nombre":  "CEREBRO Y CONDUCTA",
+        "id":  "cerebro-y-conducta"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/conciencia-sobre-el-cncer/",
+        "nombre":  "CONCIENCIA SOBRE EL CNCER",
+        "id":  "conciencia-sobre-el-cncer"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/corazn-y-circulacin/",
+        "nombre":  "CORAZN Y CIRCULACIN",
+        "id":  "corazn-y-circulacin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/determinantes-sociales-de-la-salud/",
+        "nombre":  "DETERMINANTES SOCIALES DE LA SALUD",
+        "id":  "determinantes-sociales-de-la-salud"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/digestin/",
+        "nombre":  "DIGESTIN",
+        "id":  "digestin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/enfermera-casera/",
+        "nombre":  "ENFERMERA CASERA",
+        "id":  "enfermera-casera"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/fsica/",
+        "nombre":  "FSICA",
+        "id":  "fsica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/gusto/",
+        "nombre":  "GUSTO",
+        "id":  "gusto"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/habilidad-matemtica-i/",
+        "nombre":  "HABILIDAD MATEMTICA I",
+        "id":  "habilidad-matemtica-i"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/habilidad-matemtica-ii/",
+        "nombre":  "HABILIDAD MATEMTICA II",
+        "id":  "habilidad-matemtica-ii"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/habilidad-matemtica-iii/",
+        "nombre":  "HABILIDAD MATEMTICA III",
+        "id":  "habilidad-matemtica-iii"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/habilidad-matemtica-iv/",
+        "nombre":  "HABILIDAD MATEMTICA IV",
+        "id":  "habilidad-matemtica-iv"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/herencia/",
+        "nombre":  "HERENCIA",
+        "id":  "herencia"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/higiene-oral/",
+        "nombre":  "HIGIENE ORAL",
+        "id":  "higiene-oral"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/higiene-oral-avanzado/",
+        "nombre":  "HIGIENE ORAL AVANZADO",
+        "id":  "higiene-oral-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/huesos-msculos-y-movimiento/",
+        "nombre":  "HUESOS MSCULOS Y MOVIMIENTO",
+        "id":  "huesos-msculos-y-movimiento"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/legado-de-curacin/",
+        "nombre":  "LEGADO DE CURACIN",
+        "id":  "legado-de-curacin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/metodologa-de-estudio/",
+        "nombre":  "METODOLOGA DE ESTUDIO",
+        "id":  "metodologa-de-estudio"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/ocho-claves-para-la-buena-salud/",
+        "nombre":  "OCHO CLAVES PARA LA BUENA SALUD",
+        "id":  "ocho-claves-para-la-buena-salud"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/olfato/",
+        "nombre":  "OLFATO",
+        "id":  "olfato"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/patrimonio-histrico/",
+        "nombre":  "PATRIMONIO HISTRICO",
+        "id":  "patrimonio-histrico"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/prevencin-de-enfermedades-tropicales/",
+        "nombre":  "PREVENCIN DE ENFERMEDADES TROPICALES",
+        "id":  "prevencin-de-enfermedades-tropicales"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/primeros-auxilios-de-san-juan/",
+        "nombre":  "PRIMEROS AUXILIOS DE SAN JUAN",
+        "id":  "primeros-auxilios-de-san-juan"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/primeros-auxilios-i/",
+        "nombre":  "PRIMEROS AUXILIOS I",
+        "id":  "primeros-auxilios-i"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/primeros-auxilios-ii/",
+        "nombre":  "PRIMEROS AUXILIOS II",
+        "id":  "primeros-auxilios-ii"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/primeros-auxilios-ii-avanzado/",
+        "nombre":  "PRIMEROS AUXILIOS II AVANZADO",
+        "id":  "primeros-auxilios-ii-avanzado"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/ptica/",
+        "nombre":  "PTICA",
+        "id":  "ptica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/quedarse-en-casa/",
+        "nombre":  "QUEDARSE EN CASA",
+        "id":  "quedarse-en-casa"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/qumica/",
+        "nombre":  "QUMICA",
+        "id":  "qumica"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/reanimacin-cardiopulmonar-rcp/",
+        "nombre":  "REANIMACIN CARDIOPULMONAR RCP",
+        "id":  "reanimacin-cardiopulmonar-rcp"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/rescate-bsico/",
+        "nombre":  "RESCATE BSICO",
+        "id":  "rescate-bsico"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/respuesta-de-salud-mental-de-adolescentes/",
+        "nombre":  "RESPUESTA DE SALUD MENTAL DE ADOLESCENTES",
+        "id":  "respuesta-de-salud-mental-de-adolescentes"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/risa/",
+        "nombre":  "RISA",
+        "id":  "risa"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/salud-mental/",
+        "nombre":  "SALUD MENTAL",
+        "id":  "salud-mental"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/salud-y-bienestar-personal/",
+        "nombre":  "SALUD Y BIENESTAR PERSONAL",
+        "id":  "salud-y-bienestar-personal"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/salud-y-curacin/",
+        "nombre":  "SALUD Y CURACIN",
+        "id":  "salud-y-curacin"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/sangre-y-defensas-del-cuerpo/",
+        "nombre":  "SANGRE Y DEFENSAS DEL CUERPO",
+        "id":  "sangre-y-defensas-del-cuerpo"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/sexualidad-humana/",
+        "nombre":  "SEXUALIDAD HUMANA",
+        "id":  "sexualidad-humana"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/sistema-respiratorio/",
+        "nombre":  "SISTEMA RESPIRATORIO",
+        "id":  "sistema-respiratorio"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/tacto/",
+        "nombre":  "TACTO",
+        "id":  "tacto"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/virus/",
+        "nombre":  "VIRUS",
+        "id":  "virus"
+    },
+    {
+        "path":  "/conquiguias-data/especialidades/salud-y-ciencia/vista/",
+        "nombre":  "VISTA",
+        "id":  "vista"
+    }
+]
